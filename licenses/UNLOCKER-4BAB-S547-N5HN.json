@@ -2,5 +2,6 @@
   "license": "UNLOCKER-4BAB-S547-N5HN",
   "status": "active",
   "expires": "lifetime",
-  "hwid": null
+  "hwid": null,
+  "last_hwid_reset": "2026-04-11T03:31:26.487133"
 }
