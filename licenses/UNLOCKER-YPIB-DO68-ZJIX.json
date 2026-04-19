@@ -2,9 +2,5 @@
   "license": "UNLOCKER-YPIB-DO68-ZJIX",
   "status": "active",
   "expires": "lifetime",
-  "hwid": "bf221b9d58f1cb14cfbc33900211affc6ff769d705afa3981e1e2ee9b2fa7553",
-  "discord_id": "465949499043479563",
-  "discord_tag": "odanicalabreso",
-  "last_hwid_reset": null,
-  "hwid_free": true
+  "hwid": null
 }
