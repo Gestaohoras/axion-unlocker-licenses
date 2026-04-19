@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-HP8B-YXJS-6AYF",
   "status": "active",
-  "expires": "2026-05-19T23:41:39.852965",
-  "hwid": null
+  "expires": "2026-05-19T23:41:39.853004",
+  "hwid": "bf221b9d58f1cb14cfbc33900211affc6ff769d705afa3981e1e2ee9b2fa7553",
+  "discord_id": "465949499043479563",
+  "discord_tag": "odanicalabreso",
+  "last_hwid_reset": null
 }
