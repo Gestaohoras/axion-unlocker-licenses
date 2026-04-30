@@ -2,5 +2,6 @@
   "license": "UNLOCKER-RIO3-R7R6-NHW8",
   "status": "active",
   "expires": "2026-06-10T04:24:09.652757",
-  "hwid": "8ad5933854bcd6c61290e47289ed699fa3fff2ffc6a79c51accc545b69592d38"
+  "hwid": null,
+  "last_hwid_reset": "2026-04-30T01:41:56.660723"
 }
