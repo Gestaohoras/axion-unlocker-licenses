@@ -1,10 +1,6 @@
 {
   "license": "UNLOCKER-RIO3-R7R6-NHW8",
   "status": "active",
-  "expires": "2026-05-11T04:24:09.652757",
-  "hwid": "8ad5933854bcd6c61290e47289ed699fa3fff2ffc6a79c51accc545b69592d38",
-  "discord_id": "768236963580477460",
-  "discord_tag": "trollingparty",
-  "last_hwid_reset": "2026-04-28T03:21:01.974326",
-  "hwid_free": true
+  "expires": "2026-06-10T04:24:09.652757",
+  "hwid": "8ad5933854bcd6c61290e47289ed699fa3fff2ffc6a79c51accc545b69592d38"
 }
