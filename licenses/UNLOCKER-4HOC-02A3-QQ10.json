@@ -5,5 +5,6 @@
   "hwid": "ee631ce85d928b37e0526d0765646c8b80c717aedc21b775f2d32baea69dc909",
   "discord_id": "768236963580477460",
   "discord_tag": "trollingparty",
-  "last_hwid_reset": "2026-05-01T11:22:51.422540"
+  "last_hwid_reset": "2026-05-01T11:22:51.422540",
+  "hwid_free": true
 }
