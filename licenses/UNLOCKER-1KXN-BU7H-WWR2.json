@@ -2,5 +2,6 @@
   "license": "UNLOCKER-1KXN-BU7H-WWR2",
   "status": "active",
   "expires": "2026-06-03T19:09:19.728850",
-  "hwid": null
+  "hwid": null,
+  "last_hwid_reset": "2026-05-04T19:10:29.198507"
 }
