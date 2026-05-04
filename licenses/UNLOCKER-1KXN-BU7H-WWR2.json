@@ -1,7 +1,9 @@
 {
   "license": "UNLOCKER-1KXN-BU7H-WWR2",
   "status": "active",
-  "expires": "2026-06-03T19:09:19.728850",
-  "hwid": null,
+  "expires": "2026-06-03T19:09:19.728873",
+  "hwid": "0c10fb261e19f073ddd5922f7c905d8af55d8c204040fdb1fc3665094bc73d94",
+  "discord_id": "768236963580477460",
+  "discord_tag": "trollingparty",
   "last_hwid_reset": "2026-05-04T19:10:29.198507"
 }
