@@ -2,5 +2,6 @@
   "license": "UNLOCKER-3G3A-VMDR-5JO0",
   "status": "active",
   "expires": "lifetime",
-  "hwid": null
+  "hwid": null,
+  "hwid_free": true
 }
