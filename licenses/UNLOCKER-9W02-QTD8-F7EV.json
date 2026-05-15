@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-9W02-QTD8-F7EV",
   "status": "active",
-  "expires": "2026-06-14T21:47:43.775899",
-  "hwid": null
+  "expires": "2026-06-14T21:47:43.775923",
+  "hwid": "cd8d1d7769b1ba4fa6fbf5dc134d2a91c568d0260ffa34f65fb4d2cc16d4a832",
+  "discord_id": "829543633018945536",
+  "discord_tag": "yuki.one",
+  "last_hwid_reset": null
 }
