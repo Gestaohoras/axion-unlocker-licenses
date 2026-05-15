@@ -2,5 +2,6 @@
   "license": "UNLOCKER-70JJ-Y0Q4-6PDD",
   "status": "active",
   "expires": "lifetime",
-  "hwid": null
+  "hwid": null,
+  "hwid_free": true
 }
