@@ -2,6 +2,8 @@
   "license": "UNLOCKER-3G3A-VMDR-5JO0",
   "status": "active",
   "expires": "lifetime",
-  "hwid": null,
-  "hwid_free": true
+  "hwid": "412c3374fda6fcdcbef71cb26e52c7f50aa710a4ed228aa275f5c7eff6883096",
+  "discord_id": "768236963580477460",
+  "discord_tag": "trollingparty",
+  "last_hwid_reset": null
 }
