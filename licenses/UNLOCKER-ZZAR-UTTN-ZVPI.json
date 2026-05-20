@@ -1,9 +1,6 @@
 {
   "license": "UNLOCKER-ZZAR-UTTN-ZVPI",
-  "status": "active",
+  "status": "revoked",
   "expires": "2026-06-09T21:45:18.506579",
-  "hwid": "73954f1147b323cc5f1ca3126ab483385d0b533af58d036ac60e607f7307fba0",
-  "discord_id": "1398992830286008320",
-  "discord_tag": "khaos_02fuiroubado",
-  "last_hwid_reset": null
+  "hwid": "73954f1147b323cc5f1ca3126ab483385d0b533af58d036ac60e607f7307fba0"
 }
