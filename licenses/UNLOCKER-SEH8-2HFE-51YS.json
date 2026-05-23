@@ -5,5 +5,6 @@
   "hwid": "f2cb801767e7453b0f9b3d4f51323b9a48d2cf3cc328c67126c6bf4637b60b7e",
   "discord_id": "465949499043479563",
   "discord_tag": "odanicalabreso",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "hwid_free": true
 }
