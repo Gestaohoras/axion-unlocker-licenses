@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-KE4U-60XN-Q9JZ",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-06-25T23:17:04.161275",
+  "hwid": "612e3cb7b6d00c3af28afe66ec508e6ded68dc1909392840c2e62d20534f4307",
+  "discord_id": "1223800823591604298",
+  "discord_tag": "sevenineee_",
+  "last_hwid_reset": null
 }
