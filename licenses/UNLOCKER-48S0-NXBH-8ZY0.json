@@ -2,8 +2,8 @@
   "license": "UNLOCKER-48S0-NXBH-8ZY0",
   "status": "active",
   "expires": "2026-06-05T04:26:47.389938",
-  "hwid": "285602c2ca6103fe78be63b14c76bfed816e48611a196fffaa939bbe87cd36af",
+  "hwid": null,
   "discord_id": "768236963580477460",
   "discord_tag": "trollingparty",
-  "last_hwid_reset": null
+  "last_hwid_reset": "2026-06-04T05:00:01.494329"
 }
