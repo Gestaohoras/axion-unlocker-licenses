@@ -1,7 +1,6 @@
 {
   "license": "UNLOCKER-45GF-XDH9-4X0V",
-  "status": "active",
+  "status": "revoked",
   "expires": "lifetime",
-  "hwid": null,
-  "hwid_free": true
+  "hwid": null
 }
