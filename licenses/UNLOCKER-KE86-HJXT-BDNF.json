@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-KE86-HJXT-BDNF",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-07-17T23:07:31.355130",
+  "hwid": "4db14fdb8f14a2fcd78efc16520de593c9715f65286be951c82a579f9c39d072",
+  "discord_id": "718963094142976091",
+  "discord_tag": "bududinha",
+  "last_hwid_reset": null
 }
