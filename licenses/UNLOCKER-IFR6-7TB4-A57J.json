@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-IFR6-7TB4-A57J",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-07-22T23:45:31.248423",
+  "hwid": "481ea72cc2899944f2ca9cf10bcc8a63ac391754a2ab41c03cf6cc3afb600b50",
+  "discord_id": "1116165447910432831",
+  "discord_tag": "olld.",
+  "last_hwid_reset": null
 }
