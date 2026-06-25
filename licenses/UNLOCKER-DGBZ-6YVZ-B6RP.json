@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-DGBZ-6YVZ-B6RP",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-07-25T20:47:59.476121",
+  "hwid": "4518b1ab04023c9b3acef52e9c7c4590b999f3c742acfbe96e274e9029e50b2e",
+  "discord_id": "1345414578598842368",
+  "discord_tag": "rodrigo2ac1",
+  "last_hwid_reset": null
 }
