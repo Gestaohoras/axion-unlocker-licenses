@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-68D8-CFBW-DLJC",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-07-29T20:05:43.866340",
+  "hwid": "32a4357c09cb0727e95be299cc3856f1eff404d847821a9f34205040d94ac342",
+  "discord_id": "851466673570840596",
+  "discord_tag": "gabschiling.com.br",
+  "last_hwid_reset": null
 }
