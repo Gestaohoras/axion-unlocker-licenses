@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-N0RS-K1UY-KGJO",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-07-29T14:07:08.610409",
+  "hwid": "832c79d7a4285058acb19562d0cb99701c6ab588288c0ba22718fcb80197804d",
+  "discord_id": "1432445756190494804",
+  "discord_tag": "dvvfgh",
+  "last_hwid_reset": null
 }
