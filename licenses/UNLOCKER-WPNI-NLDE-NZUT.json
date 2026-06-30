@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-WPNI-NLDE-NZUT",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-07-30T20:11:37.169818",
+  "hwid": "b07e1683e4bc336b23c6a48bf57848233cfb556638e69d7e85b00fc736a22229",
+  "discord_id": "367843416714903553",
+  "discord_tag": "foplu",
+  "last_hwid_reset": null
 }
