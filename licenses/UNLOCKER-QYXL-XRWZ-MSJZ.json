@@ -2,5 +2,6 @@
   "license": "UNLOCKER-QYXL-XRWZ-MSJZ",
   "status": "active",
   "expires": "pending:30",
-  "hwid": null
+  "hwid": null,
+  "last_hwid_reset": "2026-06-30T23:10:38.087333"
 }
