@@ -1,7 +1,9 @@
 {
   "license": "UNLOCKER-QYXL-XRWZ-MSJZ",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-07-30T23:13:50.248511",
+  "hwid": "d3358cb9fffdd0aefb8aafdd92291ba073e669c5d33e5a05ab13eddd4ba8e7fa",
+  "discord_id": "445794984508260363",
+  "discord_tag": "berinaldusnobers",
   "last_hwid_reset": "2026-06-30T23:10:38.087333"
 }
