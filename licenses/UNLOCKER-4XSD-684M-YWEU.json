@@ -2,5 +2,6 @@
   "license": "UNLOCKER-4XSD-684M-YWEU",
   "status": "active",
   "expires": "pending:30",
-  "hwid": null
+  "hwid": null,
+  "last_hwid_reset": "2026-07-03T01:41:13.725604"
 }
