@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-09ID-3DLB-AN2R",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-08-08T22:06:00.213157",
+  "hwid": "4e02e737055b91a3007096c2f2bc0abb526d0e6c8c6cf71acdccaa32348df532",
+  "discord_id": "735694402122678353",
+  "discord_tag": "2w0a",
+  "last_hwid_reset": null
 }
