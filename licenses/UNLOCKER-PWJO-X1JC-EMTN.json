@@ -2,8 +2,8 @@
   "license": "UNLOCKER-PWJO-X1JC-EMTN",
   "status": "active",
   "expires": "2026-07-18T01:03:52.177264",
-  "hwid": "315c161b52490dd1e5f20c93dac3f37a1e990759f8c65100601118c56c1a0fe2",
+  "hwid": null,
   "discord_id": "1081043824874373190",
   "discord_tag": "zorobebas",
-  "last_hwid_reset": null
+  "last_hwid_reset": "2026-07-11T06:58:17.777883"
 }
