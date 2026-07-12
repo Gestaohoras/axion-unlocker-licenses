@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-13Y2-FMZU-VWLK",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-08-11T00:10:31.397067",
+  "hwid": "098df234167e60c5378c34e5f8452ec8fcbce0e4ea20bf5c34c9ba54fc47670f",
+  "discord_id": "1452093161458503720",
+  "discord_tag": "thsfeel",
+  "last_hwid_reset": null
 }
