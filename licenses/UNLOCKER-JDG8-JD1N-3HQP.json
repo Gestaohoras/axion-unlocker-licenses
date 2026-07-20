@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-JDG8-JD1N-3HQP",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-08-19T17:16:00.712148",
+  "hwid": "5aa59061bc0c3a969f2f317138046970de6924903364296b0a7e2f1a4da25c22",
+  "discord_id": "1408391251408982057",
+  "discord_tag": "th02817",
+  "last_hwid_reset": null
 }
