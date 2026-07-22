@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-8KFK-NBA0-0DBX",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-08-21T22:01:43.879759",
+  "hwid": "1aed0dcbfce36d2d0bf291a28989ce2bec7e82681c6d9b0d57d1c637b35b8db8",
+  "discord_id": "829543633018945536",
+  "discord_tag": "yuki.one",
+  "last_hwid_reset": null
 }
