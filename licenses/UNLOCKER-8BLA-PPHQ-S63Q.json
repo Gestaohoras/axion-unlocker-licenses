@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-8BLA-PPHQ-S63Q",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-08-22T00:17:01.759661",
+  "hwid": "481ea72cc2899944f2ca9cf10bcc8a63ac391754a2ab41c03cf6cc3afb600b50",
+  "discord_id": "1116165447910432831",
+  "discord_tag": "olld.",
+  "last_hwid_reset": null
 }
