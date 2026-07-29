@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-DK7T-T653-PEIX",
   "status": "active",
-  "expires": "pending:7",
-  "hwid": null
+  "expires": "2026-08-05T16:46:44.323413",
+  "hwid": "858442c2c1c50b6cf2bdd972da31da83db2ff23e78206570a43a2692d003e34a",
+  "discord_id": "427667519516442629",
+  "discord_tag": "jhonwick17p",
+  "last_hwid_reset": null
 }
