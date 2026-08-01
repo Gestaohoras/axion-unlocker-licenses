@@ -2,5 +2,6 @@
   "license": "UNLOCKER-XO8X-9WJK-UNMK",
   "status": "active",
   "expires": "pending:30",
-  "hwid": null
+  "hwid": null,
+  "last_hwid_reset": "2026-08-01T00:33:24.390602"
 }
