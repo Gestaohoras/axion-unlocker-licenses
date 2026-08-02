@@ -2,5 +2,6 @@
   "license": "UNLOCKER-ZW38-40DA-SZ7U",
   "status": "active",
   "expires": "pending:30",
-  "hwid": null
+  "hwid": null,
+  "last_hwid_reset": "2026-08-02T04:18:50.113015"
 }
