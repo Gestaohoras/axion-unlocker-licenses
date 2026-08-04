@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-TQH8-6Q97-JTOA",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-09-03T01:32:02.425669",
+  "hwid": "e22ddcc9492fb58c53f93865e7aabf0c2b4cb19ee96898573da31c75ef32d2b5",
+  "discord_id": "1176235815219777597",
+  "discord_tag": "analfabetos",
+  "last_hwid_reset": null
 }
