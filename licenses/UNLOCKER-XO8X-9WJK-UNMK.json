@@ -1,7 +1,9 @@
 {
   "license": "UNLOCKER-XO8X-9WJK-UNMK",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-09-04T03:36:40.582444",
+  "hwid": "b5e967ef5f3a33f580d044d7df1b5f7dadc52be45caa9bf1df2e87c3df37697a",
+  "discord_id": "867133975922606081",
+  "discord_tag": "errei_ds",
   "last_hwid_reset": "2026-08-01T00:33:24.390602"
 }
