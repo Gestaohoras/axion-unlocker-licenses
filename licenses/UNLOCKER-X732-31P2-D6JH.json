@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-X732-31P2-D6JH",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-09-07T14:54:24.106268",
+  "hwid": "252f329f6b2404c898d272ee556de302b0fb6fb5443d98ee281a10bad19620dd",
+  "discord_id": "630361050046267424",
+  "discord_tag": "hendricksen",
+  "last_hwid_reset": null
 }
