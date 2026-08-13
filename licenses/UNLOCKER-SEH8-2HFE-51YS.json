@@ -2,8 +2,8 @@
   "license": "UNLOCKER-SEH8-2HFE-51YS",
   "status": "active",
   "expires": "lifetime",
-  "hwid": "bfdaa11bb3eee41746ce880e4f2c3c6f324b0bc6a01c7eb341ef14ecd769bbd1",
+  "hwid": null,
   "discord_id": "465949499043479563",
   "discord_tag": "odanicalabreso",
-  "last_hwid_reset": null
+  "last_hwid_reset": "2026-08-13T18:53:05.333839"
 }
