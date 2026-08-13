@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-WBKN-QJYY-IU4C",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-09-12T15:51:34.193106",
+  "hwid": "486e4d3629817abe839eea0c35f5791cf7f61d95a49d98ae26b8a4a6087637f8",
+  "discord_id": "430143049071460362",
+  "discord_tag": "blackyedz",
+  "last_hwid_reset": null
 }
