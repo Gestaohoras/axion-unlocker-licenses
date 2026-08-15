@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-X3KL-WBPF-NCRO",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-09-14T20:22:18.748701",
+  "hwid": "5dfc3f552671b5858dd56bc344278a87c39d9f291b662d132958b796f7d54c0e",
+  "discord_id": "1438757063038861323",
+  "discord_tag": "8l6x",
+  "last_hwid_reset": null
 }
