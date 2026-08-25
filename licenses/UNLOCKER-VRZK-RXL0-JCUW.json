@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-VRZK-RXL0-JCUW",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-09-24T00:18:50.655948",
+  "hwid": "24dae509bf4e4f0cd50c9725ed6ee6cde007cd2dacee7f428516cbb42ca018c7",
+  "discord_id": "912855688219340820",
+  "discord_tag": "jair_rpzin",
+  "last_hwid_reset": null
 }
