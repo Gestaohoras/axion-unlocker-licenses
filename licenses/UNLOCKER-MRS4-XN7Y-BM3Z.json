@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-MRS4-XN7Y-BM3Z",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-09-24T20:03:36.119608",
+  "hwid": "f085116cd5af6fa943773ae654b516d46d596b33ad0bd34bbda5cc8b4aabb38f",
+  "discord_id": "829543633018945536",
+  "discord_tag": "yuki.one",
+  "last_hwid_reset": null
 }
