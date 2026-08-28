@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-77HB-NIDJ-YIQ4",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-09-27T00:05:56.430963",
+  "hwid": "a832cb88c57bd63eaba2d3ab9d52aad2afb675688d2d960fd284b847d1603fc1",
+  "discord_id": "401916389541150720",
+  "discord_tag": "itzk1ller",
+  "last_hwid_reset": null
 }
