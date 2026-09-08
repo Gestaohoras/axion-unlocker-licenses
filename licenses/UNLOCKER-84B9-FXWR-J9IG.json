@@ -35,11 +35,15 @@
       {
         "type": "repeated_execution",
         "timestamp": "2026-09-08T15:51:09.752204"
+      },
+      {
+        "type": "fiddler.exe",
+        "timestamp": "2026-09-08T15:51:44.449334"
       }
     ],
-    "banned": false,
-    "ban_type": null,
-    "ban_timestamp": null,
+    "banned": true,
+    "ban_type": "reverse_engineering",
+    "ban_timestamp": "2026-09-08T15:51:44.449334",
     "ban_reason": null,
     "strikes": 2,
     "last_strike_at": "2026-09-08T15:51:09.752204",
