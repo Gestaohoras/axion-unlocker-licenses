@@ -18,6 +18,7 @@
     "ban_timestamp": null,
     "ban_reason": null,
     "strikes": 0,
-    "last_strike_at": null
+    "last_strike_at": null,
+    "last_execution": "2026-09-08T15:06:27.931315"
   }
 }
