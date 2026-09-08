@@ -29,12 +29,12 @@
         "timestamp": "2026-09-08T15:07:08.476436"
       }
     ],
-    "banned": true,
-    "ban_type": "repeated_execution",
-    "ban_timestamp": "2026-09-08T15:07:10.647421",
+    "banned": false,
+    "ban_type": null,
+    "ban_timestamp": null,
     "ban_reason": null,
-    "strikes": 4,
-    "last_strike_at": "2026-09-08T15:07:08.476436",
+    "strikes": 0,
+    "last_strike_at": null,
     "last_execution": "2026-09-08T15:07:08.476436"
   }
 }
