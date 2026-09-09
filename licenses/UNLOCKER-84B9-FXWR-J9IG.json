@@ -291,6 +291,7 @@
     ]
   },
   "privilege": {
-    "bypass_detection": true
+    "bypass_detection": true,
+    "bypass_cooldown": true
   }
 }
