@@ -113,12 +113,21 @@
         "timestamp": "2026-09-09T02:10:00.864790"
       }
     ],
-    "banned": true,
-    "ban_type": "reverse_engineering",
-    "ban_timestamp": "2026-09-09T02:10:00.864790",
+    "banned": false,
+    "ban_type": null,
+    "ban_timestamp": null,
     "ban_reason": null,
-    "strikes": 1,
-    "last_strike_at": "2026-09-09T02:09:38.389057",
-    "last_execution": "2026-09-09T02:09:38.389057"
+    "strikes": 0,
+    "last_strike_at": null,
+    "last_execution": "2026-09-09T02:09:38.389057",
+    "ban_history": [
+      {
+        "action": "unbanned",
+        "type": "reverse_engineering",
+        "reason": "Teste",
+        "by": "trollingparty (768236963580477460)",
+        "timestamp": "2026-09-09T04:10:31.558496"
+      }
+    ]
   }
 }
