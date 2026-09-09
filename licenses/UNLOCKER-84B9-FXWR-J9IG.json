@@ -105,9 +105,9 @@
         "timestamp": "2026-09-09T01:54:52.354602"
       }
     ],
-    "banned": true,
-    "ban_type": "reverse_engineering",
-    "ban_timestamp": "2026-09-09T01:54:52.354602",
+    "banned": false,
+    "ban_type": null,
+    "ban_timestamp": null,
     "ban_reason": null,
     "strikes": 0,
     "last_strike_at": null,
