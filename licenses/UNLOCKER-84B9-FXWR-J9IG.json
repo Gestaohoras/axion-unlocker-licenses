@@ -101,12 +101,12 @@
         "timestamp": "2026-09-09T01:50:22.813238"
       }
     ],
-    "banned": true,
-    "ban_type": "reverse_engineering",
-    "ban_timestamp": "2026-09-09T01:50:22.813238",
+    "banned": false,
+    "ban_type": null,
+    "ban_timestamp": null,
     "ban_reason": null,
-    "strikes": 1,
-    "last_strike_at": "2026-09-09T01:47:57.367764",
+    "strikes": 0,
+    "last_strike_at": null,
     "last_execution": "2026-09-09T01:47:57.367764"
   }
 }
