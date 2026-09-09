@@ -289,5 +289,8 @@
         "timestamp": "2026-09-09T05:18:49.538354"
       }
     ]
+  },
+  "privilege": {
+    "bypass_detection": true
   }
 }
