@@ -137,9 +137,9 @@
         "timestamp": "2026-09-09T04:34:01.843967"
       }
     ],
-    "banned": false,
-    "ban_type": null,
-    "ban_timestamp": null,
+    "banned": true,
+    "ban_type": "repeated_execution",
+    "ban_timestamp": "2026-09-09T04:34:03.532538",
     "ban_reason": null,
     "strikes": 6,
     "last_strike_at": "2026-09-09T04:34:01.843967",
@@ -151,6 +151,13 @@
         "reason": "Teste",
         "by": "trollingparty (768236963580477460)",
         "timestamp": "2026-09-09T04:10:31.558496"
+      },
+      {
+        "action": "banned",
+        "type": "repeated_execution",
+        "reason": "strikes acumulados",
+        "by": null,
+        "timestamp": "2026-09-09T04:34:03.532538"
       }
     ]
   }
