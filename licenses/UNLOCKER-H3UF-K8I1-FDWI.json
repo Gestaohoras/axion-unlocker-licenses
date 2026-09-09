@@ -7,7 +7,14 @@
   "discord_tag": "luper_lona",
   "last_hwid_reset": null,
   "security": {
-    "last_execution": "2026-09-09T22:57:15.018652",
-    "strikes": 0
+    "last_execution": "2026-09-09T22:57:16.979797",
+    "strikes": 1,
+    "last_strike_at": "2026-09-09T22:57:16.979797",
+    "detections": [
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-09-09T22:57:16.979797"
+      }
+    ]
   }
 }
