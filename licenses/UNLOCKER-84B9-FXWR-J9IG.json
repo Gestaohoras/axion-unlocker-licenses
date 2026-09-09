@@ -67,14 +67,18 @@
       {
         "type": "repeated_execution",
         "timestamp": "2026-09-09T01:37:55.800007"
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-09-09T01:38:22.446909"
       }
     ],
     "banned": false,
     "ban_type": null,
     "ban_timestamp": null,
     "ban_reason": null,
-    "strikes": 1,
-    "last_strike_at": "2026-09-09T01:37:55.800007",
-    "last_execution": "2026-09-09T01:38:20.596057"
+    "strikes": 2,
+    "last_strike_at": "2026-09-09T01:38:22.446909",
+    "last_execution": "2026-09-09T01:38:22.446909"
   }
 }
