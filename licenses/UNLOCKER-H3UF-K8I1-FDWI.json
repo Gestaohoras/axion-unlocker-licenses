@@ -5,5 +5,9 @@
   "hwid": "b05cb2449df1d50b9e53ec1f6583bc1b1ed96c0688924f62f53aa1c0dad12ebf",
   "discord_id": "1538278347056877568",
   "discord_tag": "luper_lona",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "last_execution": "2026-09-09T22:57:15.018652",
+    "strikes": 0
+  }
 }
