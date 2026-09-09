@@ -1,1 +1,7 @@
-{}
+{
+  "30d3941eb06bef32383414b7251d7d768b89a79d2712e014a4b75d7b47d08b90": {
+    "banned_at": "2026-09-09T05:18:14.750713",
+    "reason": "repeated_execution",
+    "source_key": "UNLOCKER-84B9-FXWR-J9IG"
+  }
+}
