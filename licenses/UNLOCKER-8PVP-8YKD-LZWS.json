@@ -2,5 +2,6 @@
   "license": "UNLOCKER-8PVP-8YKD-LZWS",
   "status": "active",
   "expires": "pending:1",
-  "hwid": null
+  "hwid": null,
+  "last_hwid_reset": "2026-09-09T03:13:55.049717"
 }
