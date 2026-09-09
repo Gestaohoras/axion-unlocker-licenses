@@ -39,14 +39,18 @@
       {
         "type": "fiddler.exe",
         "timestamp": "2026-09-08T15:51:44.449334"
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-09-09T01:19:10.893692"
       }
     ],
     "banned": false,
     "ban_type": null,
     "ban_timestamp": null,
     "ban_reason": null,
-    "strikes": 0,
-    "last_strike_at": null,
-    "last_execution": "2026-09-09T01:19:07.431736"
+    "strikes": 1,
+    "last_strike_at": "2026-09-09T01:19:10.893692",
+    "last_execution": "2026-09-09T01:19:10.893692"
   }
 }
