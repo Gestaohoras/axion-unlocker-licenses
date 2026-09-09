@@ -139,15 +139,19 @@
       {
         "type": "repeated_execution",
         "timestamp": "2026-09-09T04:35:12.718365"
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-09-09T04:35:57.581717"
       }
     ],
     "banned": false,
     "ban_type": null,
     "ban_timestamp": null,
     "ban_reason": null,
-    "strikes": 1,
-    "last_strike_at": "2026-09-09T04:35:12.718365",
-    "last_execution": "2026-09-09T04:35:55.132742",
+    "strikes": 2,
+    "last_strike_at": "2026-09-09T04:35:57.581717",
+    "last_execution": "2026-09-09T04:35:57.581717",
     "ban_history": [
       {
         "action": "unbanned",
