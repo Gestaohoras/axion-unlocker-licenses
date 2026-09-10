@@ -7,9 +7,9 @@
   "discord_tag": "millaambusa",
   "last_hwid_reset": "2026-08-29T00:58:20.452880",
   "security": {
-    "last_execution": "2026-09-10T21:38:53.293258",
-    "strikes": 4,
-    "last_strike_at": "2026-09-10T21:34:20.058669",
+    "last_execution": "2026-09-10T21:38:55.562272",
+    "strikes": 5,
+    "last_strike_at": "2026-09-10T21:38:55.562272",
     "detections": [
       {
         "type": "repeated_execution",
@@ -26,6 +26,10 @@
       {
         "type": "repeated_execution",
         "timestamp": "2026-09-10T21:34:20.058669"
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-09-10T21:38:55.562272"
       }
     ]
   }
