@@ -8,8 +8,8 @@
   "last_hwid_reset": null,
   "security": {
     "last_execution": "2026-09-11T18:25:10.991050",
-    "strikes": 6,
-    "last_strike_at": "2026-09-11T18:25:10.991050",
+    "strikes": 0,
+    "last_strike_at": null,
     "detections": [
       {
         "type": "repeated_execution",
@@ -44,9 +44,9 @@
         "timestamp": "2026-09-11T18:25:10.991050"
       }
     ],
-    "banned": true,
-    "ban_type": "repeated_execution",
-    "ban_timestamp": "2026-09-11T18:25:12.686411",
+    "banned": false,
+    "ban_type": null,
+    "ban_timestamp": null,
     "ban_history": [
       {
         "action": "banned",
@@ -54,7 +54,15 @@
         "reason": "strikes acumulados",
         "by": null,
         "timestamp": "2026-09-11T18:25:12.686411"
+      },
+      {
+        "action": "unbanned",
+        "type": "repeated_execution",
+        "reason": "Erro no unlocker",
+        "by": "trollingparty (768236963580477460)",
+        "timestamp": "2026-09-11T19:09:27.625923"
       }
-    ]
+    ],
+    "ban_reason": null
   }
 }
