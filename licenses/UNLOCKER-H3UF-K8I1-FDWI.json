@@ -7,9 +7,9 @@
   "discord_tag": "luper_lona",
   "last_hwid_reset": null,
   "security": {
-    "last_execution": "2026-09-11T21:28:56.968996",
-    "strikes": 0,
-    "last_strike_at": null,
+    "last_execution": "2026-09-11T21:28:59.001218",
+    "strikes": 1,
+    "last_strike_at": "2026-09-11T21:28:59.001218",
     "detections": [
       {
         "type": "repeated_execution",
@@ -42,6 +42,10 @@
       {
         "type": "repeated_execution",
         "timestamp": "2026-09-11T18:25:10.991050"
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-09-11T21:28:59.001218"
       }
     ],
     "banned": false,
