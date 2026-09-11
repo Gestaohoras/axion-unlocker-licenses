@@ -8,8 +8,8 @@
   "last_hwid_reset": "2026-08-29T00:58:20.452880",
   "security": {
     "last_execution": "2026-09-11T15:25:22.601475",
-    "strikes": 6,
-    "last_strike_at": "2026-09-11T15:25:22.601475",
+    "strikes": 0,
+    "last_strike_at": null,
     "detections": [
       {
         "type": "repeated_execution",
@@ -36,9 +36,9 @@
         "timestamp": "2026-09-11T15:25:22.601475"
       }
     ],
-    "banned": true,
-    "ban_type": "repeated_execution",
-    "ban_timestamp": "2026-09-11T15:25:24.266252",
+    "banned": false,
+    "ban_type": null,
+    "ban_timestamp": null,
     "ban_history": [
       {
         "action": "banned",
@@ -46,8 +46,16 @@
         "reason": "strikes acumulados",
         "by": null,
         "timestamp": "2026-09-11T15:25:24.266252"
+      },
+      {
+        "action": "unbanned",
+        "type": "repeated_execution",
+        "reason": "Testou",
+        "by": "trollingparty (768236963580477460)",
+        "timestamp": "2026-09-11T15:28:55.774982"
       }
-    ]
+    ],
+    "ban_reason": null
   },
   "privilege": {
     "bypass_cooldown": true
