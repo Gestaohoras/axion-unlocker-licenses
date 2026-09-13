@@ -7,13 +7,17 @@
   "discord_tag": "lupitto_",
   "last_hwid_reset": null,
   "security": {
-    "last_execution": "2026-09-13T01:29:58.773064",
-    "strikes": 1,
-    "last_strike_at": "2026-09-13T00:55:46.631732",
+    "last_execution": "2026-09-13T01:30:01.281231",
+    "strikes": 2,
+    "last_strike_at": "2026-09-13T01:30:01.281231",
     "detections": [
       {
         "type": "repeated_execution",
         "timestamp": "2026-09-13T00:55:46.631732"
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-09-13T01:30:01.281231"
       }
     ],
     "strike_limit": 3
