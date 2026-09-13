@@ -24,6 +24,18 @@
         "timestamp": "2026-09-13T06:20:41.363891"
       }
     ],
-    "strike_limit": 3
+    "strike_limit": 3,
+    "banned": true,
+    "ban_type": "repeated_execution",
+    "ban_timestamp": "2026-09-13T06:20:43.478385",
+    "ban_history": [
+      {
+        "action": "banned",
+        "type": "repeated_execution",
+        "reason": "strikes acumulados",
+        "by": null,
+        "timestamp": "2026-09-13T06:20:43.478385"
+      }
+    ]
   }
 }
