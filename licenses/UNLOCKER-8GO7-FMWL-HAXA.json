@@ -7,7 +7,14 @@
   "discord_tag": "lupitto_",
   "last_hwid_reset": null,
   "security": {
-    "last_execution": "2026-09-13T00:55:44.649916",
-    "strikes": 0
+    "last_execution": "2026-09-13T00:55:46.631732",
+    "strikes": 1,
+    "last_strike_at": "2026-09-13T00:55:46.631732",
+    "detections": [
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-09-13T00:55:46.631732"
+      }
+    ]
   }
 }
