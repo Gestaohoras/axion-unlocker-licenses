@@ -8,8 +8,8 @@
   "last_hwid_reset": null,
   "security": {
     "last_execution": "2026-09-13T06:20:41.363891",
-    "strikes": 3,
-    "last_strike_at": "2026-09-13T06:20:41.363891",
+    "strikes": 0,
+    "last_strike_at": null,
     "detections": [
       {
         "type": "repeated_execution",
@@ -25,9 +25,9 @@
       }
     ],
     "strike_limit": 3,
-    "banned": true,
-    "ban_type": "repeated_execution",
-    "ban_timestamp": "2026-09-13T06:20:43.478385",
+    "banned": false,
+    "ban_type": null,
+    "ban_timestamp": null,
     "ban_history": [
       {
         "action": "banned",
@@ -35,7 +35,15 @@
         "reason": "strikes acumulados",
         "by": null,
         "timestamp": "2026-09-13T06:20:43.478385"
+      },
+      {
+        "action": "unbanned",
+        "type": "repeated_execution",
+        "reason": "Lupito",
+        "by": "trollingparty (768236963580477460)",
+        "timestamp": "2026-09-13T06:22:02.729092"
       }
-    ]
+    ],
+    "ban_reason": null
   }
 }
