@@ -45,5 +45,8 @@
       }
     ],
     "ban_reason": null
+  },
+  "privilege": {
+    "bypass_cooldown": true
   }
 }
