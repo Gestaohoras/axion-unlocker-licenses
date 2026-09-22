@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-IZCO-4BFJ-EM09",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-10-22T10:58:03.704369",
+  "hwid": "befdd8442d552a29152703dfca5a5d64b0e2066e9e0d55a44e4600226e8612a9",
+  "discord_id": "465949499043479563",
+  "discord_tag": "odanicalabreso",
+  "last_hwid_reset": null
 }
