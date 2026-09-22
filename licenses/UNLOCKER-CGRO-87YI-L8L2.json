@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-CGRO-87YI-L8L2",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-10-22T17:49:13.088471",
+  "hwid": "f6f2372dbd4b79712888c59efed6205d9e96e9a24a2ffa3acf1b431518ec31e3",
+  "discord_id": "356593120000868352",
+  "discord_tag": "lk.z",
+  "last_hwid_reset": null
 }
