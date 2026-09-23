@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-B1GY-L88U-9C4O",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-10-23T15:09:52.077776",
+  "hwid": "efaf8161f3d293ecdae2acd9a291f1939d89e8f28b4cdccc47d1b7e76b1d9ab4",
+  "discord_id": "917208496401956894",
+  "discord_tag": "gabrielzk_30",
+  "last_hwid_reset": null
 }
