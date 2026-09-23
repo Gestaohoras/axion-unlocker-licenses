@@ -2,13 +2,8 @@
   "license": "UNLOCKER-SS42-WH97-TIXB",
   "status": "active",
   "expires": "2026-10-23T15:26:34.850181",
-  "hwid": null,
+  "hwid": "4878eb6ea9f9d7899fde5486acdf7e514b8882ab3e2aae483f40e7d82a7a7908",
   "discord_id": "1419710782710747259",
   "discord_tag": "willo04868",
-  "last_hwid_reset": "2026-09-23T17:59:52.107179",
-  "security": {
-    "strike_limit": 5,
-    "last_execution": "2026-09-23T15:31:24.082745",
-    "strikes": 0
-  }
+  "last_hwid_reset": "2026-09-23T17:59:52.107179"
 }
