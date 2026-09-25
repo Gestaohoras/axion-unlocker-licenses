@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-GCQN-WHR6-0ADC",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-10-25T23:04:03.895611",
+  "hwid": "c1aec620d6b2e4815c48516ee8f227fc910d838794873fb2288147f35aed04ac",
+  "discord_id": "1518920936638779453",
+  "discord_tag": "toukiizszs",
+  "last_hwid_reset": null
 }
