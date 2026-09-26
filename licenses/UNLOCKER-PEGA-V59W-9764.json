@@ -5,5 +5,10 @@
   "hwid": "0442ce902eea507434ac95a22b050c15e17a4f5d5cbd266f85defba51f0954d1",
   "discord_id": "1091271428436934747",
   "discord_tag": "lannaetc",
-  "last_hwid_reset": "2026-09-26T23:05:27.829032"
+  "last_hwid_reset": "2026-09-26T23:05:27.829032",
+  "security": {
+    "strike_limit": 4,
+    "last_execution": "2026-09-26T23:12:11.023388",
+    "strikes": 0
+  }
 }
