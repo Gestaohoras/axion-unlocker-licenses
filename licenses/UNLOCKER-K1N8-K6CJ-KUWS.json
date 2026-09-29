@@ -5,5 +5,10 @@
   "hwid": "befdd8442d552a29152703dfca5a5d64b0e2066e9e0d55a44e4600226e8612a9",
   "discord_id": "465949499043479563",
   "discord_tag": "odanicalabreso",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "strike_limit": 6,
+    "last_execution": "2026-09-29T22:32:22.129345",
+    "strikes": 0
+  }
 }
