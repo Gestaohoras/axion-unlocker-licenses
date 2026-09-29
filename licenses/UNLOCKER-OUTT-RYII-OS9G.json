@@ -2,5 +2,22 @@
   "license": "UNLOCKER-OUTT-RYII-OS9G",
   "status": "active",
   "expires": "pending:1",
-  "hwid": null
+  "hwid": null,
+  "security": {
+    "banned": false,
+    "ban_type": null,
+    "ban_reason": null,
+    "ban_timestamp": null,
+    "strikes": 0,
+    "last_strike_at": null,
+    "ban_history": [
+      {
+        "action": "unbanned",
+        "type": null,
+        "reason": "Chave teste",
+        "by": "trollingparty (768236963580477460)",
+        "timestamp": "2026-09-29T14:26:36.526931"
+      }
+    ]
+  }
 }
