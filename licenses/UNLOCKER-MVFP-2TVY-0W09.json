@@ -2,10 +2,10 @@
   "license": "UNLOCKER-MVFP-2TVY-0W09",
   "status": "active",
   "expires": "2026-10-30T01:56:28.303859",
-  "hwid": "d96599763afc8b8d9b02786c6ed03b906ba4f43ab254eea2dbde0c1f7e8f0cdd",
+  "hwid": null,
   "discord_id": "1538278347056877568",
   "discord_tag": "lebynho_2012",
-  "last_hwid_reset": null,
+  "last_hwid_reset": "2026-09-30T10:40:01.771507",
   "security": {
     "strike_limit": 6,
     "last_execution": "2026-09-30T01:57:01.178461",
