@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 300,
-    "updated_at": "2026-10-01T04:14:34.573393",
+    "balance": 0,
+    "updated_at": "2026-10-01T04:18:23.067510",
     "history": [
       {
         "at": "2026-10-01T02:34:58.767929",
@@ -311,6 +311,13 @@
         "before": 200,
         "after": 300,
         "reason": "Teste"
+      },
+      {
+        "at": "2026-10-01T04:18:23.067489",
+        "delta": -300,
+        "before": 300,
+        "after": 0,
+        "reason": "zeramento manual"
       }
     ]
   }
