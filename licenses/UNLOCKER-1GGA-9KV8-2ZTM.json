@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-1GGA-9KV8-2ZTM",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-10-31T09:23:58.584287",
+  "hwid": "fb1d11af357481e85008e6e50048024c9bedaf13a11a05342489416f9b9ec912",
+  "discord_id": "699096253279109190",
+  "discord_tag": "magnatabr08",
+  "last_hwid_reset": null
 }
