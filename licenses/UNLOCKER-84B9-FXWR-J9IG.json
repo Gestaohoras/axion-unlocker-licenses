@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 198,
-    "updated_at": "2026-10-01T05:56:34.793495",
+    "balance": 1,
+    "updated_at": "2026-10-01T12:29:04.753934",
     "history": [
       {
         "at": "2026-10-01T02:34:58.767929",
@@ -374,8 +374,15 @@
         "before": 200,
         "after": 198,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-01T12:29:04.753921",
+        "delta": -197,
+        "before": 198,
+        "after": 1,
+        "reason": "Teste"
       }
     ],
-    "saldo_atual": 198
+    "saldo_atual": 1
   }
 }
