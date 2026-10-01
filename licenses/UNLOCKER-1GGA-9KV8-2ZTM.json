@@ -83,9 +83,9 @@
         "interval_s": 2.99
       }
     ],
-    "banned": false,
-    "ban_type": null,
-    "ban_timestamp": null,
+    "banned": true,
+    "ban_type": "repeated_execution",
+    "ban_timestamp": "2026-10-01T17:30:56.475974",
     "ban_history": [
       {
         "action": "banned",
@@ -100,6 +100,13 @@
         "reason": "Teste",
         "by": "trollingparty (768236963580477460)",
         "timestamp": "2026-10-01T14:09:37.326293"
+      },
+      {
+        "action": "banned",
+        "type": "repeated_execution",
+        "reason": "strikes acumulados",
+        "by": null,
+        "timestamp": "2026-10-01T17:30:56.475974"
       }
     ],
     "ban_reason": null
