@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-A2XN-WZU7-4CX5",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-11-01T00:45:40.460851",
+  "hwid": "d930c345e5c71c2ec5b5766a874eafcbb6efacdde47e77e35f0dd3bca78127eb",
+  "discord_id": "1477793691304198216",
+  "discord_tag": "thzzin_077",
+  "last_hwid_reset": null
 }
