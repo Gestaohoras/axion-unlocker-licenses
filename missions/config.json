@@ -4,7 +4,7 @@
   "current_month": 1,
   "sequential_unlock": true,
   "show_locked_preview": false,
-  "multiplier_enabled": false,
+  "multiplier_enabled": true,
   "streak_enabled": true,
   "missions": [
     {
@@ -70,5 +70,5 @@
       "multiplier": 5
     }
   ],
-  "updated_at": "2026-10-02T02:41:35.690554"
+  "updated_at": "2026-10-02T02:42:54.201240"
 }
