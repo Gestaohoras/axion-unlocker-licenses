@@ -5,5 +5,10 @@
   "hwid": "d930c345e5c71c2ec5b5766a874eafcbb6efacdde47e77e35f0dd3bca78127eb",
   "discord_id": "1477793691304198216",
   "discord_tag": "thzzin_077",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "strike_limit": 4,
+    "last_execution": "2026-10-02T00:45:10.317444",
+    "strikes": 0
+  }
 }
