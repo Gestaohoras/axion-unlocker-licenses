@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 201,
-    "updated_at": "2026-10-02T04:13:57.299696",
+    "balance": 221,
+    "updated_at": "2026-10-02T04:33:19.359912",
     "history": [
       {
         "at": "2026-10-01T02:34:58.767929",
@@ -388,8 +388,27 @@
         "before": 1,
         "after": 201,
         "reason": "teste de recompensa peri\u00f3dica"
+      },
+      {
+        "at": "2026-10-02T04:33:19.359912",
+        "delta": 20,
+        "before": 201,
+        "after": 221,
+        "reason": "teste de recompensa peri\u00f3dica"
       }
     ],
-    "saldo_atual": 201
+    "saldo_atual": 221,
+    "coin_notifications": [
+      {
+        "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002043319359931",
+        "titulo": "Recompensa recebida! \ud83e\uddc0",
+        "descricao": "+20 Cheese Coins recebidos automaticamente.",
+        "tag": "Recompensa",
+        "tag_color": "#F5C542",
+        "notification": true,
+        "announced_at": "2026-10-02T04:33:19.359912",
+        "page_key": "licenca"
+      }
+    ]
   }
 }
