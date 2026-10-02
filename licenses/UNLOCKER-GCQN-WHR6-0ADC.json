@@ -8,8 +8,8 @@
   "last_hwid_reset": null,
   "security": {
     "strike_limit": 5,
-    "last_execution": "2026-09-30T19:09:37.181504",
-    "strikes": 1,
+    "last_execution": "2026-10-02T13:19:54.597392",
+    "strikes": 0,
     "last_strike_at": "2026-09-30T19:09:37.181504",
     "detections": [
       {
