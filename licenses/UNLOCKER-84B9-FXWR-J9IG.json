@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 365,
-    "updated_at": "2026-10-02T05:57:14.806641",
+    "balance": 415,
+    "updated_at": "2026-10-02T06:01:09.895776",
     "history": [
       {
         "at": "2026-10-01T02:34:58.767929",
@@ -472,9 +472,16 @@
         "before": 355,
         "after": 365,
         "reason": "Compra realizada"
+      },
+      {
+        "at": "2026-10-02T06:01:09.895776",
+        "delta": 50,
+        "before": 365,
+        "after": 415,
+        "reason": "Compra realizada"
       }
     ],
-    "saldo_atual": 365,
+    "saldo_atual": 415,
     "coin_notifications": [
       {
         "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002043319359931",
@@ -596,6 +603,18 @@
         "type": "purchase",
         "amount": 10,
         "announced_at": "2026-10-02T05:57:14.806641",
+        "page_key": "licenca"
+      },
+      {
+        "id": "coin_purchase_UNLOCKER-84B9-FXWR-J9IG_20261002060109895799",
+        "titulo": "Compra realizada",
+        "descricao": "+50 Cheese Coins. Compra realizada",
+        "tag": "Update Cheese Coins",
+        "tag_color": "#1E90FF",
+        "notification": true,
+        "type": "purchase",
+        "amount": 50,
+        "announced_at": "2026-10-02T06:01:09.895776",
         "page_key": "licenca"
       }
     ]
