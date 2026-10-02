@@ -1,0 +1,74 @@
+{
+  "enabled": true,
+  "coin_name": "Cheese Coins",
+  "current_month": 1,
+  "sequential_unlock": true,
+  "show_locked_preview": false,
+  "multiplier_enabled": false,
+  "streak_enabled": true,
+  "missions": [
+    {
+      "id": "play_28h",
+      "type": "playtime",
+      "title": "Jogue 28 horas",
+      "target_hours": 28,
+      "base_reward": 5
+    },
+    {
+      "id": "play_56h",
+      "type": "playtime",
+      "title": "Jogue 56 horas",
+      "target_hours": 56,
+      "base_reward": 10
+    },
+    {
+      "id": "play_84h",
+      "type": "playtime",
+      "title": "Jogue 84 horas",
+      "target_hours": 84,
+      "base_reward": 15
+    },
+    {
+      "id": "play_120h",
+      "type": "playtime",
+      "title": "Jogue 120 horas",
+      "target_hours": 120,
+      "base_reward": 20
+    }
+  ],
+  "spending_mission": {
+    "enabled": true,
+    "id": "spend_1000",
+    "title": "Gaste 1.000 Cheese Coins",
+    "target_coins": 1000,
+    "reward_percent": 8
+  },
+  "streak_rules": [
+    {
+      "min_days": 1,
+      "max_days": 5,
+      "multiplier": 1
+    },
+    {
+      "min_days": 6,
+      "max_days": 12,
+      "multiplier": 2
+    },
+    {
+      "min_days": 13,
+      "max_days": 20,
+      "multiplier": 3
+    },
+    {
+      "min_days": 21,
+      "max_days": 29,
+      "multiplier": 4
+    },
+    {
+      "min_days": 30,
+      "max_days": null,
+      "multiplier": 5
+    }
+  ],
+  "updated_at": "2026-10-02T02:41:35.690554"
+}
