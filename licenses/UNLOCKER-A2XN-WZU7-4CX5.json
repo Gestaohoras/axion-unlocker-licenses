@@ -1,52 +1,9 @@
 {
   "license": "UNLOCKER-A2XN-WZU7-4CX5",
   "status": "active",
-  "expires": "2026-11-01T00:45:40.460851",
-  "hwid": null,
+  "expires": "2026-11-01T01:04:44.877446",
+  "hwid": "59f20a688b40bc9e1dfb40c83138c7da198571a8772a5c657a85c92ddb0caacd",
   "discord_id": "1477793691304198216",
   "discord_tag": "thzzin_077",
-  "last_hwid_reset": "2026-10-02T20:41:04.833021",
-  "security": {
-    "strike_limit": 4,
-    "last_execution": "2026-10-02T06:15:42.758646",
-    "strikes": 1,
-    "last_strike_at": "2026-10-02T06:15:42.758646",
-    "detections": [
-      {
-        "type": "repeated_execution",
-        "timestamp": "2026-10-02T01:06:11.549646",
-        "interval_s": 3.91
-      },
-      {
-        "type": "repeated_execution",
-        "timestamp": "2026-10-02T01:13:58.321024",
-        "interval_s": 2.44
-      },
-      {
-        "type": "repeated_execution",
-        "timestamp": "2026-10-02T03:43:33.420642",
-        "interval_s": 3.92
-      },
-      {
-        "type": "repeated_execution",
-        "timestamp": "2026-10-02T03:43:48.211317",
-        "interval_s": 14.79
-      },
-      {
-        "type": "repeated_execution",
-        "timestamp": "2026-10-02T03:43:51.577447",
-        "interval_s": 3.37
-      },
-      {
-        "type": "repeated_execution",
-        "timestamp": "2026-10-02T04:37:52.189767",
-        "interval_s": 3.48
-      },
-      {
-        "type": "repeated_execution",
-        "timestamp": "2026-10-02T06:15:42.758646",
-        "interval_s": 8.86
-      }
-    ]
-  }
+  "last_hwid_reset": "2026-10-02T20:41:04.833021"
 }
