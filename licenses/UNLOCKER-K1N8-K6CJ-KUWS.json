@@ -53,5 +53,10 @@
         "interval_s": 2.94
       }
     ]
+  },
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "updated_at": "2026-10-03T18:53:21.185391"
   }
 }
