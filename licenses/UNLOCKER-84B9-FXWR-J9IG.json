@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 250,
-    "updated_at": "2026-10-03T03:54:53.877563",
+    "balance": 750,
+    "updated_at": "2026-10-03T14:37:00.890478",
     "history": [
       {
         "at": "2026-10-01T02:34:58.767929",
@@ -507,9 +507,16 @@
         "before": 150,
         "after": 250,
         "reason": "Compra realizada"
+      },
+      {
+        "at": "2026-10-03T14:37:00.890478",
+        "delta": 500,
+        "before": 250,
+        "after": 750,
+        "reason": "recompensa streak: Complete 1 dias de streak"
       }
     ],
-    "saldo_atual": 250,
+    "saldo_atual": 750,
     "coin_notifications": [
       {
         "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002043319359931",
