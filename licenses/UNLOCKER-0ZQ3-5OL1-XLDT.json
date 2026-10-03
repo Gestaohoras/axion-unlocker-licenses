@@ -5,5 +5,10 @@
   "hwid": "2b2d41638be2d1fd863bc236eb6b0f81ba3a37f95c847899ec92a25c2b8a7da2",
   "discord_id": "1474856797012496455",
   "discord_tag": "amigodopedro67",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "strike_limit": 5,
+    "last_execution": "2026-10-03T21:38:30.173375",
+    "strikes": 0
+  }
 }
