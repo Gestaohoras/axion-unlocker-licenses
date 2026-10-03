@@ -37,7 +37,7 @@
     }
   ],
   "spending_mission": {
-    "enabled": true,
+    "enabled": false,
     "id": "spend_1000",
     "title": "Gaste 1.000 Cheese Coins",
     "target_coins": 1000,
@@ -59,6 +59,8 @@
     "title": "Complete 1 dias de streak",
     "required_session_minutes": 2,
     "target_streak": 1,
+    "reward_type": "multiplier",
+    "multiplier_duration_hours": 24,
     "reward_coins": 500,
     "duration_days": 1.0,
     "starts_at": "2026-10-03T03:56:30.913022",
@@ -68,28 +70,33 @@
     {
       "min_days": 1,
       "max_days": 5,
-      "multiplier": 1
+      "multiplier": 1,
+      "duration_hours": 24
     },
     {
       "min_days": 6,
       "max_days": 12,
-      "multiplier": 2
+      "multiplier": 2,
+      "duration_hours": 24
     },
     {
       "min_days": 0,
       "max_days": 2,
-      "multiplier": 5
+      "multiplier": 5,
+      "duration_hours": 24
     },
     {
       "min_days": 21,
       "max_days": 29,
-      "multiplier": 4
+      "multiplier": 4,
+      "duration_hours": 24
     },
     {
       "min_days": 30,
       "max_days": null,
-      "multiplier": 5
+      "multiplier": 5,
+      "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-03T03:56:30.913268"
+  "updated_at": "2026-10-03T15:27:25.691033"
 }
