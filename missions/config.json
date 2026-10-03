@@ -69,10 +69,11 @@
   },
   "streak_rules": [
     {
-      "min_days": 1,
-      "max_days": 5,
+      "min_days": 0,
+      "max_days": 1,
       "multiplier": 1,
-      "duration_hours": 24
+      "duration_hours": 24,
+      "id": "tier_1_0d_1x"
     },
     {
       "min_days": 6,
@@ -99,5 +100,5 @@
       "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-03T15:27:43.437201"
+  "updated_at": "2026-10-03T15:28:33.380657"
 }
