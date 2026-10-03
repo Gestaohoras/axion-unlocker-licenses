@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 925,
-    "updated_at": "2026-10-03T00:27:58.090550",
+    "balance": 150,
+    "updated_at": "2026-10-03T02:53:13.369733",
     "history": [
       {
         "at": "2026-10-01T02:34:58.767929",
@@ -493,9 +493,16 @@
         "before": 915,
         "after": 925,
         "reason": "Compra realizada"
+      },
+      {
+        "at": "2026-10-03T02:53:13.369733",
+        "delta": -775,
+        "before": 925,
+        "after": 150,
+        "reason": "Ajuste saldo"
       }
     ],
-    "saldo_atual": 925,
+    "saldo_atual": 150,
     "coin_notifications": [
       {
         "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002043319359931",
@@ -653,6 +660,16 @@
         "type": "purchase",
         "amount": 10,
         "announced_at": "2026-10-03T00:27:58.090550",
+        "page_key": "licenca"
+      },
+      {
+        "id": "coin_admin_UNLOCKER-84B9-FXWR-J9IG_20261003025313369756",
+        "titulo": "Ajuste de saldo realizado",
+        "descricao": "Saldo -775 Cheese Coins. Ajuste saldo. Realizado por um administrador.",
+        "tag": "Update Cheese Coins",
+        "tag_color": "#1E90FF",
+        "notification": true,
+        "announced_at": "2026-10-03T02:53:13.369733",
         "page_key": "licenca"
       }
     ]
