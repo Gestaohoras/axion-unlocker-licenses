@@ -55,9 +55,9 @@
       "multiplier": 2
     },
     {
-      "min_days": 13,
-      "max_days": 20,
-      "multiplier": 3
+      "min_days": 0,
+      "max_days": 2,
+      "multiplier": 5
     },
     {
       "min_days": 21,
@@ -70,5 +70,5 @@
       "multiplier": 5
     }
   ],
-  "updated_at": "2026-10-03T00:50:31.995747"
+  "updated_at": "2026-10-03T00:57:33.246404"
 }
