@@ -12,7 +12,8 @@
       "type": "playtime",
       "title": "Jogue 1 horas",
       "target_hours": 1.0,
-      "base_reward": 10
+      "base_reward": 10,
+      "enabled": true
     },
     {
       "id": "play_56h",
@@ -98,5 +99,5 @@
       "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-03T15:27:25.691033"
+  "updated_at": "2026-10-03T15:27:43.437201"
 }
