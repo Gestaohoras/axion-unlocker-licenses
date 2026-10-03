@@ -55,8 +55,29 @@
     ]
   },
   "cheese_coins": {
-    "balance": 0,
-    "saldo_atual": 0,
-    "updated_at": "2026-10-03T18:53:21.185391"
+    "balance": 100,
+    "saldo_atual": 100,
+    "updated_at": "2026-10-03T19:46:10.214396",
+    "history": [
+      {
+        "at": "2026-10-03T19:46:10.214396",
+        "delta": 100,
+        "before": 0,
+        "after": 100,
+        "reason": "comprado"
+      }
+    ],
+    "coin_notifications": [
+      {
+        "id": "coin_admin_UNLOCKER-K1N8-K6CJ-KUWS_20261003194610214436",
+        "titulo": "Ajuste de saldo realizado",
+        "descricao": "Saldo +100 Cheese Coins. Comprado. Realizado por um administrador.",
+        "tag": "Update Cheese Coins",
+        "tag_color": "#1E90FF",
+        "notification": true,
+        "announced_at": "2026-10-03T19:46:10.214396",
+        "page_key": "licenca"
+      }
+    ]
   }
 }
