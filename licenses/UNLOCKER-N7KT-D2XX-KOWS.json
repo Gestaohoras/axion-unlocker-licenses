@@ -5,5 +5,10 @@
   "hwid": "189788f760c6f127c6e90ccf93411da9c676b471aaf01e322a4b28ae732f3044",
   "discord_id": "1455287716819505295",
   "discord_tag": "freakdrz",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "strike_limit": 4,
+    "last_execution": "2026-10-03T23:13:11.658088",
+    "strikes": 0
+  }
 }
