@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-2JQG-5HPR-XSQC",
   "status": "active",
-  "expires": "pending:90",
-  "hwid": null
+  "expires": "2027-01-02T22:05:25.837274",
+  "hwid": "1c9515aa8381a108f5fa3eda2eb374e9c25aef2911667067fbb5400d071f7da1",
+  "discord_id": "634826102707191809",
+  "discord_tag": "souz4_m",
+  "last_hwid_reset": null
 }
