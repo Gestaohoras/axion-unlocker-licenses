@@ -9,8 +9,8 @@
   "security": {
     "strike_limit": 4,
     "last_execution": "2026-10-04T20:43:39.046565",
-    "strikes": 4,
-    "last_strike_at": "2026-10-04T20:43:39.046565",
+    "strikes": 0,
+    "last_strike_at": null,
     "detections": [
       {
         "type": "repeated_execution",
@@ -73,9 +73,9 @@
         "interval_s": 7.94
       }
     ],
-    "banned": true,
-    "ban_type": "repeated_execution",
-    "ban_timestamp": "2026-10-04T20:43:41.286096",
+    "banned": false,
+    "ban_type": null,
+    "ban_timestamp": null,
     "ban_history": [
       {
         "action": "banned",
@@ -83,7 +83,15 @@
         "reason": "strikes acumulados",
         "by": null,
         "timestamp": "2026-10-04T20:43:41.286096"
+      },
+      {
+        "action": "unbanned",
+        "type": "repeated_execution",
+        "reason": "N\u00e3o sabe usar",
+        "by": "trollingparty (768236963580477460)",
+        "timestamp": "2026-10-04T21:05:23.725042"
       }
-    ]
+    ],
+    "ban_reason": null
   }
 }
