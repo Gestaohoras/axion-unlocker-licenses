@@ -5,5 +5,10 @@
   "hwid": "8e4bf3b2d6665113e11dffcd6fda586ae20b2c96c9c6964f698bfe3ee8386eab",
   "discord_id": "1454860949658800148",
   "discord_tag": "lciqwnt",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "strike_limit": 6,
+    "last_execution": "2026-10-04T14:23:56.006583",
+    "strikes": 0
+  }
 }
