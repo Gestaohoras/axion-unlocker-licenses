@@ -7,9 +7,9 @@
   "discord_tag": "yuki.one",
   "last_hwid_reset": null,
   "security": {
-    "last_execution": "2026-10-04T20:32:08.106000",
+    "last_execution": "2026-10-04T20:32:12.610964",
     "strikes": 1,
-    "last_strike_at": "2026-10-03T22:49:35.288672",
+    "last_strike_at": "2026-10-04T20:32:12.610964",
     "detections": [
       {
         "type": "repeated_execution",
@@ -114,6 +114,11 @@
         "type": "repeated_execution",
         "timestamp": "2026-10-03T22:49:35.288672",
         "interval_s": 2.11
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-10-04T20:32:12.610964",
+        "interval_s": 4.5
       }
     ],
     "strike_limit": 3
