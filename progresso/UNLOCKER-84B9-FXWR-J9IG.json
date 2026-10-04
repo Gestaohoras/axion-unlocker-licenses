@@ -5,15 +5,22 @@
     "playtime_updated_at": "2026-10-03T14:36:43.926508",
     "rewarded": [],
     "current_index": 0,
-    "streak_challenges": {}
+    "streak_challenges": {},
+    "streak_protection": {
+      "active": true,
+      "activated_at": "2026-10-04T17:50:45.943759",
+      "available_after": "2026-11-03T17:50:45.943759",
+      "used_at": null,
+      "protected_miss_date": null
+    }
   },
   "created_at": "2026-10-03T14:07:45.296203",
-  "updated_at": "2026-10-03T15:30:10.078477",
+  "updated_at": "2026-10-04T17:50:45.943759",
   "last_error": null,
   "coin_rewards": {
     "coin_notifications": []
   },
-  "heartbeat_status": "Resetado",
+  "heartbeat_status": "Prote\u00e7\u00e3o ativada",
   "last_heartbeat_at": "2026-10-03T14:36:43.926508",
   "reset_history": [
     {
