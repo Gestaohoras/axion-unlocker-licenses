@@ -1,0 +1,16 @@
+{
+  "license_key": "UNLOCKER-K1N8-K6CJ-KUWS",
+  "missions": {
+    "streak_protection": {
+      "active": true,
+      "activated_at": "2026-10-05T15:09:53.084942",
+      "available_after": "2026-11-04T15:09:53.084942",
+      "used_at": null,
+      "protected_miss_date": null
+    }
+  },
+  "created_at": "2026-10-05T15:09:53.084942",
+  "updated_at": "2026-10-05T15:09:53.084942",
+  "last_error": null,
+  "heartbeat_status": "Prote\u00e7\u00e3o ativada"
+}
