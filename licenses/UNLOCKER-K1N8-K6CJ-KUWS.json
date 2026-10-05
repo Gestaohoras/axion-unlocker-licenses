@@ -91,9 +91,9 @@
     ]
   },
   "cheese_coins": {
-    "balance": 150,
-    "saldo_atual": 150,
-    "updated_at": "2026-10-03T19:51:02.301011",
+    "balance": 170,
+    "saldo_atual": 170,
+    "updated_at": "2026-10-05T15:15:04.309624",
     "history": [
       {
         "at": "2026-10-03T19:46:10.214396",
@@ -107,6 +107,13 @@
         "delta": 50,
         "before": 100,
         "after": 150,
+        "reason": "pr\u00eamio"
+      },
+      {
+        "at": "2026-10-05T15:15:04.309624",
+        "delta": 20,
+        "before": 150,
+        "after": 170,
         "reason": "pr\u00eamio"
       }
     ],
@@ -129,6 +136,16 @@
         "tag_color": "#1E90FF",
         "notification": true,
         "announced_at": "2026-10-03T19:51:02.301011",
+        "page_key": "licenca"
+      },
+      {
+        "id": "coin_admin_UNLOCKER-K1N8-K6CJ-KUWS_20261005151504309667",
+        "titulo": "Ajuste de saldo realizado",
+        "descricao": "Saldo +20 Cheese Coins. Pr\u00eamio. Realizado por um administrador.",
+        "tag": "Update Cheese Coins",
+        "tag_color": "#1E90FF",
+        "notification": true,
+        "announced_at": "2026-10-05T15:15:04.309624",
         "page_key": "licenca"
       }
     ]
