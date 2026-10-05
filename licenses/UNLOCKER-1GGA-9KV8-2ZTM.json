@@ -213,9 +213,9 @@
         "interval_s": 2.81
       }
     ],
-    "banned": false,
-    "ban_type": null,
-    "ban_timestamp": null,
+    "banned": true,
+    "ban_type": "repeated_execution",
+    "ban_timestamp": "2026-10-05T00:04:34.268971",
     "ban_history": [
       {
         "action": "banned",
@@ -244,6 +244,13 @@
         "reason": "Usu\u00e1rio n\u00e3o sabe usar o produto.",
         "by": "odanicalabreso (465949499043479563)",
         "timestamp": "2026-10-01T17:53:00.859170"
+      },
+      {
+        "action": "banned",
+        "type": "repeated_execution",
+        "reason": "strikes acumulados",
+        "by": null,
+        "timestamp": "2026-10-05T00:04:34.268971"
       }
     ],
     "ban_reason": null
