@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-WV68-Z24U-VT45",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-11-04T18:15:48.252057",
+  "hwid": "c180231e537e729d783a1c78d56cc62cc8cde9f0e9763e3b01c78513c75dc81f",
+  "discord_id": "1556618148793294870",
+  "discord_tag": "lordxd0868",
+  "last_hwid_reset": null
 }
