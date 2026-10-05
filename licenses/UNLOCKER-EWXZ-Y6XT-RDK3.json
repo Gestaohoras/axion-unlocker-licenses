@@ -5,5 +5,10 @@
   "hwid": "cab6d7e545513c7cb62b9960eb3d9d5e180d71b9c87925484232067b4c6c3ffd",
   "discord_id": "252531316141195265",
   "discord_tag": "tiagoscofield",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "strike_limit": 6,
+    "last_execution": "2026-10-05T03:09:14.393454",
+    "strikes": 0
+  }
 }
