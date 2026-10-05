@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-EWXZ-Y6XT-RDK3",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-11-04T03:08:53.418833",
+  "hwid": "cab6d7e545513c7cb62b9960eb3d9d5e180d71b9c87925484232067b4c6c3ffd",
+  "discord_id": "252531316141195265",
+  "discord_tag": "tiagoscofield",
+  "last_hwid_reset": null
 }
