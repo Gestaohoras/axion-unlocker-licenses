@@ -263,9 +263,9 @@
         "interval_s": 2.95
       }
     ],
-    "banned": false,
-    "ban_type": null,
-    "ban_timestamp": null,
+    "banned": true,
+    "ban_type": "repeated_execution",
+    "ban_timestamp": "2026-10-05T21:17:51.838797",
     "ban_history": [
       {
         "action": "banned",
@@ -308,6 +308,13 @@
         "reason": "Erro do detect",
         "by": "odanicalabreso (465949499043479563)",
         "timestamp": "2026-10-05T00:28:25.933583"
+      },
+      {
+        "action": "banned",
+        "type": "repeated_execution",
+        "reason": "strikes acumulados",
+        "by": null,
+        "timestamp": "2026-10-05T21:17:51.838797"
       }
     ],
     "ban_reason": null
