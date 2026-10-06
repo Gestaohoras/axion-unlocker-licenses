@@ -22,7 +22,7 @@
     }
   },
   "created_at": "2026-10-03T14:07:45.296203",
-  "updated_at": "2026-10-06T06:09:19.085433",
+  "updated_at": "2026-10-06T06:09:25.600291",
   "last_error": null,
   "coin_rewards": {
     "coin_notifications": [
@@ -41,8 +41,9 @@
         "page_key": "licenca",
         "tag_color": "#F5C542",
         "claimable": true,
-        "claimed": false,
-        "reason": "recompensa miss\u00e3o: Jogue 1 horas"
+        "claimed": true,
+        "reason": "recompensa miss\u00e3o: Jogue 1 horas",
+        "claimed_at": "2026-10-06T06:09:25.600291"
       }
     ]
   },
