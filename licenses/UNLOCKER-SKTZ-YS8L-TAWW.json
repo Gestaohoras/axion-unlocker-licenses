@@ -5,5 +5,10 @@
   "hwid": "b6fb191d7c741b6e0948f09a0ede5125411d8fbc4cbdd079348b018637f51b3a",
   "discord_id": "1494743294800957520",
   "discord_tag": "samfleups._",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "strike_limit": 6,
+    "last_execution": "2026-10-06T19:30:20.749638",
+    "strikes": 0
+  }
 }
