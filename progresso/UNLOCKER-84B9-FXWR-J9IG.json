@@ -1,8 +1,8 @@
 {
   "license_key": "UNLOCKER-84B9-FXWR-J9IG",
   "missions": {
-    "playtime_seconds": 3283,
-    "playtime_updated_at": "2026-10-06T05:47:37.805999",
+    "playtime_seconds": 3298,
+    "playtime_updated_at": "2026-10-06T05:48:28.653040",
     "rewarded": [],
     "current_index": 0,
     "streak_challenges": {},
@@ -20,13 +20,13 @@
     }
   },
   "created_at": "2026-10-03T14:07:45.296203",
-  "updated_at": "2026-10-06T05:47:37.805999",
+  "updated_at": "2026-10-06T05:48:28.654040",
   "last_error": null,
   "coin_rewards": {
     "coin_notifications": []
   },
   "heartbeat_status": "Em andamento",
-  "last_heartbeat_at": "2026-10-06T05:47:37.805999",
+  "last_heartbeat_at": "2026-10-06T05:48:28.653040",
   "reset_history": [
     {
       "at": "2026-10-03T14:25:45.420082",
