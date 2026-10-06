@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-44IA-FTZR-0MC8",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-11-05T00:41:32.082329",
+  "hwid": "9ac39c5571f9c2eb9eff613ae07e9e4f576d6f5d12d169c15eed4f73c6fc2012",
+  "discord_id": "349251085464240131",
+  "discord_tag": "ramos5197",
+  "last_hwid_reset": null
 }
