@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 746,
-    "updated_at": "2026-10-06T04:12:49.328282",
+    "balance": 756,
+    "updated_at": "2026-10-06T06:09:25.600291",
     "history": [
       {
         "at": "2026-10-01T02:34:58.767929",
@@ -528,9 +528,16 @@
         "before": 748,
         "after": 746,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-06T06:09:25.600291",
+        "delta": 10,
+        "before": 746,
+        "after": 756,
+        "reason": "recompensa miss\u00e3o: Jogue 1 horas"
       }
     ],
-    "saldo_atual": 746,
+    "saldo_atual": 756,
     "coin_notifications": [
       {
         "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002043319359931",
