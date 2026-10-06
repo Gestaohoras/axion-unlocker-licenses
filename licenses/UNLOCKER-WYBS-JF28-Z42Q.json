@@ -5,18 +5,5 @@
   "hwid": "819bcc49c5df8aa7c5aa716870c4255ca29cabfdfeae2b69a80255a95255cee0",
   "discord_id": "1448105223523668173",
   "discord_tag": "fdsnll",
-  "last_hwid_reset": "2026-10-06T03:21:59.413019",
-  "security": {
-    "strike_limit": 5,
-    "last_execution": "2026-10-06T04:57:38.760586",
-    "strikes": 1,
-    "last_strike_at": "2026-10-06T04:57:38.760586",
-    "detections": [
-      {
-        "type": "repeated_execution",
-        "timestamp": "2026-10-06T04:57:38.760586",
-        "interval_s": 3.19
-      }
-    ]
-  }
+  "last_hwid_reset": "2026-10-06T03:21:59.413019"
 }
