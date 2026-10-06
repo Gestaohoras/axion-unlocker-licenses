@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-WYBS-JF28-Z42Q",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-11-05T00:47:15.111236",
+  "hwid": "ca1c07089e1c836818a97dbd8969ce48b0b76d8ad2ecdc3601acba9dc7c18c22",
+  "discord_id": "1448105223523668173",
+  "discord_tag": "fdsnll",
+  "last_hwid_reset": null
 }
