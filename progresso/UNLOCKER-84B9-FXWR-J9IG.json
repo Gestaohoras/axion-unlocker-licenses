@@ -23,7 +23,7 @@
     "spending_challenges": {}
   },
   "created_at": "2026-10-03T14:07:45.296203",
-  "updated_at": "2026-10-07T12:56:15.261536",
+  "updated_at": "2026-10-07T13:03:43.554605",
   "last_error": null,
   "coin_rewards": {
     "coin_notifications": [
@@ -48,7 +48,7 @@
       }
     ]
   },
-  "heartbeat_status": "Em andamento",
+  "heartbeat_status": "Resetado",
   "last_heartbeat_at": "2026-10-07T12:56:15.261536",
   "reset_history": [
     {
@@ -83,6 +83,12 @@
     },
     {
       "at": "2026-10-07T12:36:22.812774",
+      "scope": "challenge",
+      "reason": ".",
+      "by": "trollingparty"
+    },
+    {
+      "at": "2026-10-07T13:03:43.554605",
       "scope": "challenge",
       "reason": ".",
       "by": "trollingparty"
