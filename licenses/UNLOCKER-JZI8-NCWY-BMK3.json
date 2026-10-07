@@ -59,5 +59,10 @@
   },
   "privilege": {
     "bypass_cooldown": true
+  },
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "updated_at": "2026-10-07T16:33:17.761059"
   }
 }
