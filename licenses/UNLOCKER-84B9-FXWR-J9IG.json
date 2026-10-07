@@ -297,36 +297,7 @@
   "cheese_coins": {
     "balance": 164,
     "updated_at": "2026-10-07T15:00:56.274119",
-    "history": [
-      {
-        "at": "2026-10-07T14:52:27.098088",
-        "delta": -50,
-        "before": 254,
-        "after": 204,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T14:53:18.282625",
-        "delta": 5,
-        "before": 204,
-        "after": 209,
-        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
-      },
-      {
-        "at": "2026-10-07T14:59:41.060848",
-        "delta": -50,
-        "before": 209,
-        "after": 159,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T15:00:56.274119",
-        "delta": 5,
-        "before": 159,
-        "after": 164,
-        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
-      }
-    ],
+    "history": [],
     "saldo_atual": 164,
     "coin_notifications": [
       {
