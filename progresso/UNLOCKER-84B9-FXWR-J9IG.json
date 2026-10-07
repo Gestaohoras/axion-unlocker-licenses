@@ -23,7 +23,7 @@
     "spending_challenges": {}
   },
   "created_at": "2026-10-03T14:07:45.296203",
-  "updated_at": "2026-10-07T13:04:12.405754",
+  "updated_at": "2026-10-07T13:25:03.414067",
   "last_error": null,
   "coin_rewards": {
     "coin_notifications": [
@@ -115,6 +115,12 @@
       "at": "2026-10-07T13:04:12.405754",
       "scope": "challenge",
       "reason": "G",
+      "by": "trollingparty"
+    },
+    {
+      "at": "2026-10-07T13:25:03.414067",
+      "scope": "challenge",
+      "reason": "teste",
       "by": "trollingparty"
     }
   ]
