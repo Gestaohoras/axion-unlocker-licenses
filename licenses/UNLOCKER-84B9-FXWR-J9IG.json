@@ -518,25 +518,6 @@
         "amount": 15,
         "announced_at": "2026-10-07T04:48:46.465637",
         "page_key": "licenca"
-      },
-      {
-        "id": "challenge-challenge_1791392409-2026-10-07T14:33:00.029780",
-        "type": "challenge_reward",
-        "notification": true,
-        "title": "Desafio conclu\u00eddo",
-        "titulo": "Desafio conclu\u00eddo",
-        "descricao": "Voc\u00ea completou o desafio: 5 Cheese Coins dispon\u00edveis para resgatar.",
-        "tag": "Recompensa",
-        "amount": 5,
-        "created_at": "2026-10-07T14:33:00.029780",
-        "announced_at": "2026-10-07T14:33:00.029780",
-        "date": "2026-10-07T14:33:00.029780",
-        "page_key": "licenca",
-        "tag_color": "#F5C542",
-        "claimable": true,
-        "claimed": true,
-        "reason": "recompensa desafio: Gaste 50 Cheese Coins",
-        "claimed_at": "2026-10-07T14:33:39.457633"
       }
     ]
   },
@@ -554,17 +535,6 @@
         "target_coins": 50,
         "reward_percent": 10,
         "rewarded_at": "2026-10-07T13:45:58.659554",
-        "reward": 5
-      },
-      "challenge_1791392409": {
-        "spent": 50,
-        "rewarded": true,
-        "started_at": "2026-10-07T14:00:09.538151",
-        "ends_at": "2026-10-10T02:59:59",
-        "updated_at": "2026-10-07T14:33:00.029780",
-        "target_coins": 50,
-        "reward_percent": 10,
-        "rewarded_at": "2026-10-07T14:33:00.029780",
         "reward": 5
       }
     }
