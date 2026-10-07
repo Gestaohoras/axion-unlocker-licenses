@@ -770,16 +770,6 @@
     "streak_challenges": {},
     "monthly_spent": 6,
     "spent_updated_at": "2026-10-07T04:53:21.730610",
-    "spending_challenges": {
-      "challenge_spend_1000": {
-        "spent": 2,
-        "rewarded": false,
-        "started_at": "2026-10-07T04:50:11.046970",
-        "ends_at": "2026-10-09T04:50:11.046970",
-        "updated_at": "2026-10-07T04:53:21.730610",
-        "target_coins": 2,
-        "reward_percent": 10
-      }
-    }
+    "spending_challenges": {}
   }
 }
