@@ -47,25 +47,27 @@
   "spending_challenge": {
     "enabled": true,
     "id": "challenge_spend_1000",
-    "title": "Gaste 50 Cheese Coins",
-    "target_coins": 50,
+    "title": "Gaste 2 Cheese Coins",
+    "target_coins": 2,
     "reward_percent": 10,
-    "duration_days": 3.0,
-    "starts_at": "2026-10-03T02:59:12.577228",
-    "ends_at": "2026-10-06T02:59:12.577228"
+    "duration_days": 2.0,
+    "starts_at": "2026-10-07T04:50:11.046970",
+    "ends_at": "2026-10-09T04:50:11.046970"
   },
   "streak_challenge": {
     "enabled": true,
     "id": "streak_daily_20261003035630",
     "title": "Complete 1 dias de streak",
     "required_session_minutes": 2,
+    "protection_enabled": true,
+    "protection_cooldown_days": 30,
+    "duration_days": 1.0,
+    "starts_at": "2026-10-03T03:56:30.913022",
+    "ends_at": "2026-10-04T03:56:30.913022",
     "target_streak": 1,
     "reward_type": "multiplier",
     "multiplier_duration_hours": 24,
-    "reward_coins": 500,
-    "duration_days": 1.0,
-    "starts_at": "2026-10-03T03:56:30.913022",
-    "ends_at": "2026-10-04T03:56:30.913022"
+    "reward_coins": 500
   },
   "streak_rules": [
     {
@@ -100,5 +102,5 @@
       "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-03T15:28:33.380657"
+  "updated_at": "2026-10-07T04:50:11.047006"
 }
