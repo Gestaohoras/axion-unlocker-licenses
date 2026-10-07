@@ -2,10 +2,10 @@
   "license": "UNLOCKER-AEVX-51HB-JJL2",
   "status": "active",
   "expires": "2026-12-19T01:42:26.121769",
-  "hwid": "87701920b04af1d083911c7c4069f33cceeda8b21157d8c3d804ec7759b021db",
+  "hwid": null,
   "discord_id": "427667519516442629",
   "discord_tag": "jhonwick17p",
-  "last_hwid_reset": null,
+  "last_hwid_reset": "2026-10-07T15:46:43.863938",
   "security": {
     "strike_limit": 6,
     "last_execution": "2026-10-06T17:11:25.052229",
