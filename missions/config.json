@@ -45,27 +45,16 @@
     "reward_percent": 8
   },
   "spending_challenge": {
-    "enabled": true,
-    "id": "challenge_1791391406",
-    "title": "Gaste 100 Cheese Coins",
-    "target_coins": 100,
-    "reward_percent": 20,
-    "duration_days": 3.0,
-    "starts_at": "2026-10-09T03:00:00",
-    "ends_at": "2026-10-12T03:00:00"
+    "enabled": false,
+    "id": "challenge_spend_1000",
+    "title": "Gaste 1.000 Cheese Coins",
+    "target_coins": 1000,
+    "reward_percent": 8,
+    "duration_days": 7,
+    "starts_at": null,
+    "ends_at": null
   },
-  "spending_challenges": [
-    {
-      "enabled": true,
-      "id": "challenge_1791391406",
-      "title": "Gaste 100 Cheese Coins",
-      "target_coins": 100,
-      "reward_percent": 20,
-      "duration_days": 3.0,
-      "starts_at": "2026-10-09T03:00:00",
-      "ends_at": "2026-10-12T03:00:00"
-    }
-  ],
+  "spending_challenges": [],
   "streak_challenge": {
     "enabled": true,
     "id": "streak_daily_20261003035630",
@@ -114,5 +103,5 @@
       "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-07T13:59:22.056162"
+  "updated_at": "2026-10-07T13:59:34.529070"
 }
