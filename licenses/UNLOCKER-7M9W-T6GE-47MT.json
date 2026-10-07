@@ -5,5 +5,10 @@
   "hwid": "f4679c3bb9ce10106a475aa2ddaba4b8b44f2de7050da50704ad8d2c347615a1",
   "discord_id": "598781064420261889",
   "discord_tag": "yuuki_0_0",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "strike_limit": 6,
+    "last_execution": "2026-10-07T02:51:26.274679",
+    "strikes": 0
+  }
 }
