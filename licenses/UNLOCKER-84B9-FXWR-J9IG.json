@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 569,
-    "updated_at": "2026-10-07T13:06:34.368543",
+    "balance": 559,
+    "updated_at": "2026-10-07T13:45:51.791582",
     "history": [
       {
         "at": "2026-10-07T13:06:34.368543",
@@ -304,9 +304,16 @@
         "before": 564,
         "after": 569,
         "reason": "recompensa desafio: Gaste 50 Cheese Coins"
+      },
+      {
+        "at": "2026-10-07T13:45:51.791582",
+        "delta": -10,
+        "before": 569,
+        "after": 559,
+        "reason": "teste gasto"
       }
     ],
-    "saldo_atual": 569,
+    "saldo_atual": 559,
     "coin_notifications": [
       {
         "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002043319359931",
@@ -516,8 +523,18 @@
   },
   "missions": {
     "streak_challenges": {},
-    "monthly_spent": 226,
-    "spent_updated_at": "2026-10-07T13:05:28.072883",
-    "spending_challenges": {}
+    "monthly_spent": 236,
+    "spent_updated_at": "2026-10-07T13:45:51.791582",
+    "spending_challenges": {
+      "challenge_1791391380": {
+        "spent": 10,
+        "rewarded": false,
+        "started_at": "2026-10-07T13:43:00.231603",
+        "ends_at": "2026-10-08T13:43:00.231603",
+        "updated_at": "2026-10-07T13:45:51.791582",
+        "target_coins": 50,
+        "reward_percent": 10
+      }
+    }
   }
 }
