@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 429,
-    "updated_at": "2026-10-07T14:27:21.525436",
+    "balance": 434,
+    "updated_at": "2026-10-07T14:28:11.622843",
     "history": [
       {
         "at": "2026-10-07T13:06:34.368543",
@@ -353,9 +353,16 @@
         "before": 479,
         "after": 429,
         "reason": "teste gasto"
+      },
+      {
+        "at": "2026-10-07T14:28:11.622843",
+        "delta": 5,
+        "before": 429,
+        "after": 434,
+        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
       }
     ],
-    "saldo_atual": 429,
+    "saldo_atual": 434,
     "coin_notifications": [
       {
         "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002043319359931",
@@ -576,8 +583,9 @@
         "page_key": "licenca",
         "tag_color": "#F5C542",
         "claimable": true,
-        "claimed": false,
-        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
+        "claimed": true,
+        "reason": "recompensa desafio: Gaste 50 Cheese Coins",
+        "claimed_at": "2026-10-07T14:28:11.622843"
       }
     ]
   },
