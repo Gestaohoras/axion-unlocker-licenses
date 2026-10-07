@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 389,
-    "updated_at": "2026-10-07T14:33:39.457633",
+    "balance": 339,
+    "updated_at": "2026-10-07T14:37:43.914939",
     "history": [
       {
         "at": "2026-10-07T14:33:00.029780",
@@ -311,9 +311,16 @@
         "before": 384,
         "after": 389,
         "reason": "recompensa desafio: Gaste 50 Cheese Coins"
+      },
+      {
+        "at": "2026-10-07T14:37:43.914939",
+        "delta": -50,
+        "before": 389,
+        "after": 339,
+        "reason": "teste gasto"
       }
     ],
-    "saldo_atual": 389,
+    "saldo_atual": 339,
     "coin_notifications": [
       {
         "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002043319359931",
@@ -518,13 +525,31 @@
         "amount": 15,
         "announced_at": "2026-10-07T04:48:46.465637",
         "page_key": "licenca"
+      },
+      {
+        "id": "challenge-challenge_1791392409-2026-10-07T14:37:43.914939",
+        "type": "challenge_reward",
+        "notification": true,
+        "title": "Desafio conclu\u00eddo",
+        "titulo": "Desafio conclu\u00eddo",
+        "descricao": "Voc\u00ea completou o desafio: 5 Cheese Coins dispon\u00edveis para resgatar.",
+        "tag": "Recompensa",
+        "amount": 5,
+        "created_at": "2026-10-07T14:37:43.914939",
+        "announced_at": "2026-10-07T14:37:43.914939",
+        "date": "2026-10-07T14:37:43.914939",
+        "page_key": "licenca",
+        "tag_color": "#F5C542",
+        "claimable": true,
+        "claimed": false,
+        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
       }
     ]
   },
   "missions": {
     "streak_challenges": {},
-    "monthly_spent": 426,
-    "spent_updated_at": "2026-10-07T14:33:00.029780",
+    "monthly_spent": 476,
+    "spent_updated_at": "2026-10-07T14:37:43.914939",
     "spending_challenges": {
       "challenge_1791391380": {
         "spent": 50,
@@ -535,6 +560,17 @@
         "target_coins": 50,
         "reward_percent": 10,
         "rewarded_at": "2026-10-07T13:45:58.659554",
+        "reward": 5
+      },
+      "challenge_1791392409": {
+        "spent": 50,
+        "rewarded": true,
+        "started_at": "2026-10-07T14:00:09.538151",
+        "ends_at": "2026-10-10T02:59:59",
+        "updated_at": "2026-10-07T14:37:43.914939",
+        "target_coins": 50,
+        "reward_percent": 10,
+        "rewarded_at": "2026-10-07T14:37:43.914939",
         "reward": 5
       }
     }
