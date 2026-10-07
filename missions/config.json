@@ -64,6 +64,16 @@
       "duration_days": 1.0,
       "starts_at": "2026-10-07T13:43:00.231603",
       "ends_at": "2026-10-08T13:43:00.231603"
+    },
+    {
+      "enabled": true,
+      "id": "challenge_1791391406",
+      "title": "Gaste 100 Cheese Coins",
+      "target_coins": 100,
+      "reward_percent": 20,
+      "duration_days": 3.0,
+      "starts_at": "2026-10-09T03:00:00",
+      "ends_at": "2026-10-12T03:00:00"
     }
   ],
   "streak_challenge": {
@@ -114,5 +124,5 @@
       "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-07T13:43:00.231698"
+  "updated_at": "2026-10-07T13:43:26.993969"
 }
