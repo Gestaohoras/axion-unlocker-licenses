@@ -61,9 +61,9 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 126,
-    "saldo_atual": 126,
-    "updated_at": "2026-10-07T17:08:11.595167",
+    "balance": 124,
+    "saldo_atual": 124,
+    "updated_at": "2026-10-07T17:08:45.233511",
     "history": [
       {
         "at": "2026-10-07T16:33:27.297204",
@@ -323,6 +323,13 @@
         "before": 128,
         "after": 126,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-07T17:08:45.233511",
+        "delta": -2,
+        "before": 126,
+        "after": 124,
+        "reason": "prestige inject"
       }
     ],
     "coin_notifications": [
@@ -384,7 +391,7 @@
         "reward": 5
       }
     },
-    "monthly_spent": 74,
-    "spent_updated_at": "2026-10-07T17:08:11.595167"
+    "monthly_spent": 76,
+    "spent_updated_at": "2026-10-07T17:08:45.233511"
   }
 }
