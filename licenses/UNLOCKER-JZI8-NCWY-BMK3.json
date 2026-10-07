@@ -61,9 +61,9 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 152,
-    "saldo_atual": 152,
-    "updated_at": "2026-10-07T17:00:55.886355",
+    "balance": 150,
+    "saldo_atual": 150,
+    "updated_at": "2026-10-07T17:01:30.538509",
     "history": [
       {
         "at": "2026-10-07T16:33:27.297204",
@@ -232,6 +232,13 @@
         "before": 158,
         "after": 152,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-07T17:01:30.538509",
+        "delta": -2,
+        "before": 152,
+        "after": 150,
+        "reason": "prestige inject"
       }
     ],
     "coin_notifications": [
@@ -258,22 +265,42 @@
         "amount": 100,
         "announced_at": "2026-10-07T16:39:33.041230",
         "page_key": "licenca"
+      },
+      {
+        "id": "challenge-challenge_1791392409-2026-10-07T17:01:30.538509",
+        "type": "challenge_reward",
+        "notification": true,
+        "title": "Desafio conclu\u00eddo",
+        "titulo": "Desafio conclu\u00eddo",
+        "descricao": "Voc\u00ea completou o desafio: 5 Cheese Coins dispon\u00edveis para resgatar.",
+        "tag": "Recompensa",
+        "amount": 5,
+        "created_at": "2026-10-07T17:01:30.538509",
+        "announced_at": "2026-10-07T17:01:30.538509",
+        "date": "2026-10-07T17:01:30.538509",
+        "page_key": "licenca",
+        "tag_color": "#F5C542",
+        "claimable": true,
+        "claimed": false,
+        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
       }
     ]
   },
   "missions": {
     "spending_challenges": {
       "challenge_1791392409": {
-        "spent": 48,
-        "rewarded": false,
+        "spent": 50,
+        "rewarded": true,
         "started_at": "2026-10-07T14:00:09.538151",
         "ends_at": "2026-10-10T02:59:59",
-        "updated_at": "2026-10-07T17:00:55.886355",
+        "updated_at": "2026-10-07T17:01:30.538509",
         "target_coins": 50,
-        "reward_percent": 10
+        "reward_percent": 10,
+        "rewarded_at": "2026-10-07T17:01:30.538509",
+        "reward": 5
       }
     },
-    "monthly_spent": 48,
-    "spent_updated_at": "2026-10-07T17:00:55.886355"
+    "monthly_spent": 50,
+    "spent_updated_at": "2026-10-07T17:01:30.538509"
   }
 }
