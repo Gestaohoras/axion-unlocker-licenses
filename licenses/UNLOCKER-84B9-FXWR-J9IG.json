@@ -297,57 +297,7 @@
   "cheese_coins": {
     "balance": 564,
     "updated_at": "2026-10-07T13:05:28.072883",
-    "history": [
-      {
-        "at": "2026-10-07T12:56:55.732932",
-        "delta": -20,
-        "before": 664,
-        "after": 644,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T12:57:00.343935",
-        "delta": -10,
-        "before": 644,
-        "after": 634,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T12:57:04.276611",
-        "delta": -20,
-        "before": 634,
-        "after": 614,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T13:05:14.045528",
-        "delta": -10,
-        "before": 614,
-        "after": 604,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T13:05:18.508230",
-        "delta": -20,
-        "before": 604,
-        "after": 584,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T13:05:24.866529",
-        "delta": -5,
-        "before": 584,
-        "after": 579,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T13:05:28.072883",
-        "delta": -15,
-        "before": 579,
-        "after": 564,
-        "reason": "teste gasto"
-      }
-    ],
+    "history": [],
     "saldo_atual": 564,
     "coin_notifications": [
       {
