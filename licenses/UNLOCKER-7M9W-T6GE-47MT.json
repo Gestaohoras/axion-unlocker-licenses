@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-7M9W-T6GE-47MT",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-11-06T02:49:16.343966",
+  "hwid": "f4679c3bb9ce10106a475aa2ddaba4b8b44f2de7050da50704ad8d2c347615a1",
+  "discord_id": "598781064420261889",
+  "discord_tag": "yuuki_0_0",
+  "last_hwid_reset": null
 }
