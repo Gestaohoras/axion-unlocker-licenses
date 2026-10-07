@@ -61,8 +61,31 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 0,
-    "saldo_atual": 0,
-    "updated_at": "2026-10-07T16:33:17.761059"
+    "balance": 100,
+    "saldo_atual": 100,
+    "updated_at": "2026-10-07T16:33:27.297204",
+    "history": [
+      {
+        "at": "2026-10-07T16:33:27.297204",
+        "delta": 100,
+        "before": 0,
+        "after": 100,
+        "reason": "Compra realizada"
+      }
+    ],
+    "coin_notifications": [
+      {
+        "id": "coin_purchase_UNLOCKER-JZI8-NCWY-BMK3_20261007163327297240",
+        "titulo": "Compra realizada",
+        "descricao": "+100 Cheese Coins. Compra realizada",
+        "tag": "Update Cheese Coins",
+        "tag_color": "#1E90FF",
+        "notification": true,
+        "type": "purchase",
+        "amount": 100,
+        "announced_at": "2026-10-07T16:33:27.297204",
+        "page_key": "licenca"
+      }
+    ]
   }
 }
