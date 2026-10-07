@@ -297,71 +297,7 @@
   "cheese_coins": {
     "balance": 434,
     "updated_at": "2026-10-07T14:28:11.622843",
-    "history": [
-      {
-        "at": "2026-10-07T13:06:34.368543",
-        "delta": 5,
-        "before": 564,
-        "after": 569,
-        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
-      },
-      {
-        "at": "2026-10-07T13:45:51.791582",
-        "delta": -10,
-        "before": 569,
-        "after": 559,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T13:45:55.302797",
-        "delta": -20,
-        "before": 559,
-        "after": 539,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T13:45:58.659554",
-        "delta": -20,
-        "before": 539,
-        "after": 519,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T13:46:49.774990",
-        "delta": 5,
-        "before": 519,
-        "after": 524,
-        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
-      },
-      {
-        "at": "2026-10-07T14:20:07.890442",
-        "delta": -50,
-        "before": 524,
-        "after": 474,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T14:20:43.843253",
-        "delta": 5,
-        "before": 474,
-        "after": 479,
-        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
-      },
-      {
-        "at": "2026-10-07T14:27:21.525436",
-        "delta": -50,
-        "before": 479,
-        "after": 429,
-        "reason": "teste gasto"
-      },
-      {
-        "at": "2026-10-07T14:28:11.622843",
-        "delta": 5,
-        "before": 429,
-        "after": 434,
-        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
-      }
-    ],
+    "history": [],
     "saldo_atual": 434,
     "coin_notifications": [
       {
