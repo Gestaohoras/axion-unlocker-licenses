@@ -1,9 +1,19 @@
 {
   "license": "UNLOCKER-JAWI-CNBX-VS5Q",
   "status": "active",
-  "expires": "2026-11-07T21:21:43.990272",
-  "hwid": "d309724f2e9e3e35c3ce320731ca587b7637aef0580baa933f36b487ad2025f8",
-  "discord_id": "1128049690492022894",
-  "discord_tag": "neverrrrt",
-  "last_hwid_reset": null
+  "expires": "pending:30",
+  "hwid": null,
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-08T21:21:45.224294",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1128049690492022894",
+        "by": "neverrrrt",
+        "produto": "Queijaria Unlocker",
+        "hwid": "d309724f2e9e3e35c3ce320731ca587b7637aef0580baa933f36b487ad2025f8"
+      }
+    ]
+  }
 }
