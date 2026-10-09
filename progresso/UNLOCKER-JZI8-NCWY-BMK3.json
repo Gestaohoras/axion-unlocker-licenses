@@ -16,20 +16,43 @@
     },
     "monthly_spent": 174,
     "spent_updated_at": "2026-10-07T17:36:05.485016",
-    "playtime_seconds": 3567,
-    "playtime_updated_at": "2026-10-09T01:04:40.493229",
+    "playtime_seconds": 3627,
+    "playtime_updated_at": "2026-10-09T01:05:40.540904",
     "streak_daily": {
       "date": "2026-10-09",
       "seconds": 0,
       "completed": false
     },
-    "rewarded": [],
-    "current_index": 0
+    "rewarded": [
+      "play_28h"
+    ],
+    "current_index": 1
   },
   "created_at": "2026-10-08T01:01:14.589293",
-  "updated_at": "2026-10-09T01:04:40.493229",
+  "updated_at": "2026-10-09T01:05:40.540904",
   "last_error": null,
-  "coin_rewards": {},
+  "coin_rewards": {
+    "coin_notifications": [
+      {
+        "id": "mission-play_28h",
+        "type": "mission_reward",
+        "notification": true,
+        "title": "Miss\u00e3o conclu\u00edda",
+        "titulo": "Miss\u00e3o conclu\u00edda",
+        "descricao": "Jogue 1 horas: 10 Cheese Coins dispon\u00edveis para resgatar.",
+        "tag": "Recompensa",
+        "amount": 10,
+        "created_at": "2026-10-09T01:05:40.540904",
+        "announced_at": "2026-10-09T01:05:40.540904",
+        "date": "2026-10-09T01:05:40.540904",
+        "page_key": "licenca",
+        "tag_color": "#F5C542",
+        "claimable": true,
+        "claimed": false,
+        "reason": "recompensa miss\u00e3o: Jogue 1 horas"
+      }
+    ]
+  },
   "heartbeat_status": "Em andamento",
-  "last_heartbeat_at": "2026-10-09T01:04:40.493229"
+  "last_heartbeat_at": "2026-10-09T01:05:40.540904"
 }
