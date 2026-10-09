@@ -5,5 +5,18 @@
   "hwid": "36defdd18f226254eb9ba2fe9f90a443336eb47db73aaba97055808e9f3e9b95",
   "discord_id": "1121953717411913788",
   "discord_tag": "stes2",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-09T23:49:23.398959",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1121953717411913788",
+        "by": "stes2",
+        "produto": "Queijaria Unlocker",
+        "hwid": "36defdd18f226254eb9ba2fe9f90a443336eb47db73aaba97055808e9f3e9b95"
+      }
+    ]
+  }
 }
