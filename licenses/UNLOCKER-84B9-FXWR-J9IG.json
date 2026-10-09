@@ -295,8 +295,8 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 376,
-    "updated_at": "2026-10-09T13:23:00.325146",
+    "balance": 374,
+    "updated_at": "2026-10-09T13:23:12.823875",
     "history": [
       {
         "at": "2026-10-07T15:01:32.874159",
@@ -500,9 +500,16 @@
         "before": 378,
         "after": 376,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-09T13:23:12.823875",
+        "delta": -2,
+        "before": 376,
+        "after": 374,
+        "reason": "prestige inject"
       }
     ],
-    "saldo_atual": 376,
+    "saldo_atual": 374,
     "coin_notifications": [
       {
         "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002043552652810",
@@ -743,8 +750,8 @@
   },
   "missions": {
     "streak_challenges": {},
-    "monthly_spent": 730,
-    "spent_updated_at": "2026-10-09T13:23:00.325146",
+    "monthly_spent": 732,
+    "spent_updated_at": "2026-10-09T13:23:12.823875",
     "spending_challenges": {
       "challenge_1791391380": {
         "spent": 50,
