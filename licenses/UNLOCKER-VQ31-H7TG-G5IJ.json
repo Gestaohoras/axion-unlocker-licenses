@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-VQ31-H7TG-G5IJ",
   "status": "active",
-  "expires": "pending:90",
-  "hwid": null
+  "expires": "2027-01-07T23:49:22.026646",
+  "hwid": "36defdd18f226254eb9ba2fe9f90a443336eb47db73aaba97055808e9f3e9b95",
+  "discord_id": "1121953717411913788",
+  "discord_tag": "stes2",
+  "last_hwid_reset": null
 }
