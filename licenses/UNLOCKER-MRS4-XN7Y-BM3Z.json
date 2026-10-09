@@ -7,8 +7,8 @@
   "discord_tag": "yuki.one",
   "last_hwid_reset": null,
   "security": {
-    "last_execution": "2026-10-08T21:21:26.819800",
-    "strikes": 1,
+    "last_execution": "2026-10-09T22:36:20.732569",
+    "strikes": 0,
     "last_strike_at": "2026-10-08T21:21:26.819800",
     "detections": [
       {
