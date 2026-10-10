@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "coin_name": "Cheese Coins",
   "current_month": 1,
   "sequential_unlock": true,
@@ -124,5 +124,5 @@
       "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-10T21:45:10.706928"
+  "updated_at": "2026-10-10T21:45:58.962095"
 }
