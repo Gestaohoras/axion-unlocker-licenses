@@ -1,0 +1,114 @@
+{
+  "enabled": true,
+  "coin_name": "Cheese Coins",
+  "current_month": 1,
+  "sequential_unlock": true,
+  "show_locked_preview": false,
+  "multiplier_enabled": true,
+  "streak_enabled": true,
+  "missions": [
+    {
+      "id": "play_28h",
+      "type": "playtime",
+      "title": "Jogue 28 horas",
+      "target_hours": 28,
+      "base_reward": 5
+    },
+    {
+      "id": "play_56h",
+      "type": "playtime",
+      "title": "Jogue 56 horas",
+      "target_hours": 56,
+      "base_reward": 10
+    },
+    {
+      "id": "play_84h",
+      "type": "playtime",
+      "title": "Jogue 84 horas",
+      "target_hours": 84,
+      "base_reward": 15
+    },
+    {
+      "id": "play_120h",
+      "type": "playtime",
+      "title": "Jogue 120 horas",
+      "target_hours": 120,
+      "base_reward": 20
+    }
+  ],
+  "spending_mission": {
+    "enabled": true,
+    "id": "spend_1000",
+    "title": "Gaste 1.000 Cheese Coins",
+    "target_coins": 1000,
+    "reward_percent": 8
+  },
+  "spending_challenge": {
+    "enabled": false,
+    "id": "challenge_spend_1000",
+    "title": "Gaste 1.000 Cheese Coins",
+    "target_coins": 1000,
+    "reward_percent": 8,
+    "duration_days": 7,
+    "starts_at": null,
+    "ends_at": null
+  },
+  "spending_challenges": [
+    {
+      "enabled": true,
+      "id": "challenge_1791760679",
+      "title": "Gaste 200 Cheese Coins",
+      "target_coins": 200,
+      "reward_percent": 10,
+      "tiers": [
+        {
+          "target_coins": 200,
+          "reward_percent": 10,
+          "title": "Faixa 1: gaste 200 Cheese Coins"
+        }
+      ],
+      "duration_days": 7,
+      "starts_at": "2026-10-11T20:17:59.272935",
+      "ends_at": "2026-10-18T20:17:59.272935"
+    }
+  ],
+  "streak_challenge": {
+    "enabled": true,
+    "id": "streak_daily",
+    "title": "Streak di\u00e1ria",
+    "required_session_minutes": 60,
+    "protection_enabled": true,
+    "protection_cooldown_days": 30,
+    "duration_days": 7,
+    "starts_at": null,
+    "ends_at": null
+  },
+  "streak_rules": [
+    {
+      "min_days": 0,
+      "max_days": 6,
+      "multiplier": 1
+    },
+    {
+      "min_days": 7,
+      "max_days": 19,
+      "multiplier": 2
+    },
+    {
+      "min_days": 20,
+      "max_days": 29,
+      "multiplier": 3
+    },
+    {
+      "min_days": 30,
+      "max_days": 44,
+      "multiplier": 4
+    },
+    {
+      "min_days": 45,
+      "max_days": null,
+      "multiplier": 5
+    }
+  ],
+  "updated_at": "2026-10-11T20:17:59.273005"
+}
