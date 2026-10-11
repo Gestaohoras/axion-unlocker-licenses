@@ -48,32 +48,15 @@
     "enabled": false,
     "id": "challenge_spend_1000",
     "title": "Gaste 1.000 Cheese Coins",
-    "target_coins": 200,
-    "reward_percent": 10,
+    "target_coins": 1000,
+    "reward_percent": 8,
     "duration_days": 7,
     "starts_at": null,
-    "ends_at": null,
-    "tiers": [
-      {
-        "target_coins": 200,
-        "reward_percent": 10,
-        "title": "Faixa 1: gaste 200 Cheese Coins"
-      },
-      {
-        "target_coins": 600,
-        "reward_percent": 20,
-        "title": "Faixa 2: gaste 600 Cheese Coins"
-      },
-      {
-        "target_coins": 1000,
-        "reward_percent": 50,
-        "title": "Faixa 3: gaste 1.000 Cheese Coins"
-      }
-    ]
+    "ends_at": null
   },
   "spending_challenges": [
     {
-      "enabled": false,
+      "enabled": true,
       "id": "challenge_spend_1000",
       "title": "Gaste 1.000 Cheese Coins",
       "target_coins": 200,
@@ -148,5 +131,5 @@
       "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-11T20:07:37.487127"
+  "updated_at": "2026-10-11T20:14:51.198332"
 }
