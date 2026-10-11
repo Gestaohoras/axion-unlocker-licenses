@@ -3,12 +3,12 @@
   "prestige_cost_per_level": 2,
   "periodic_reward": {
     "enabled": true,
-    "amount": 1000,
+    "amount": 350,
     "expires_on_next_cycle": true,
     "period": "monthly",
     "monthly_days": [
       11
     ]
   },
-  "updated_at": "2026-10-11T04:35:39.197126"
+  "updated_at": "2026-10-11T04:39:58.450793"
 }
