@@ -539,8 +539,8 @@
   },
   "missions": {
     "streak_challenges": {},
-    "monthly_spent": 1080,
-    "spent_updated_at": "2026-10-09T14:15:35.538808",
+    "monthly_spent": 0,
+    "spent_updated_at": "2026-10-11T03:42:44.205866",
     "spending_challenges": {
       "challenge_1791391380": {
         "spent": 50,
@@ -564,6 +564,11 @@
         "rewarded_at": "2026-10-07T14:59:41.060848",
         "reward": 5
       }
-    }
+    },
+    "playtime_seconds": 0,
+    "monthly_playtime_seconds": 0,
+    "current_index": 0,
+    "playtime_updated_at": "2026-10-11T03:42:44.205866",
+    "rewarded": []
   }
 }
