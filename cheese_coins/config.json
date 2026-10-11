@@ -1,0 +1,14 @@
+{
+  "coin_name": "Cheese Coins",
+  "prestige_cost_per_level": 2,
+  "periodic_reward": {
+    "enabled": true,
+    "amount": 1000,
+    "expires_on_next_cycle": true,
+    "period": "monthly",
+    "monthly_days": [
+      11
+    ]
+  },
+  "updated_at": "2026-10-11T04:35:39.197126"
+}
