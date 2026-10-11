@@ -10,9 +10,9 @@
     {
       "id": "play_28h",
       "type": "playtime",
-      "title": "Jogue 28 horas",
-      "target_hours": 28,
-      "base_reward": 5
+      "title": "Jogue 30 horas",
+      "target_hours": 30.0,
+      "base_reward": 15
     },
     {
       "id": "play_56h",
@@ -120,5 +120,5 @@
       "multiplier": 5
     }
   ],
-  "updated_at": "2026-10-11T20:30:01.926434"
+  "updated_at": "2026-10-11T20:36:12.624952"
 }
