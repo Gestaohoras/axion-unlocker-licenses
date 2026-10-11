@@ -295,21 +295,21 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 26,
-    "updated_at": "2026-10-09T14:15:35.538808",
-    "history": [],
-    "saldo_atual": 26,
-    "coin_notifications": [
+    "balance": 1026,
+    "updated_at": "2026-10-11T04:36:08.521729",
+    "history": [
       {
-        "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002043552652810",
-        "titulo": "Recompensa recebida! \ud83e\uddc0",
-        "descricao": "+2 Cheese Coins recebidos automaticamente.",
-        "tag": "Recompensa",
-        "tag_color": "#F5C542",
-        "notification": true,
-        "announced_at": "2026-10-02T04:35:52.652771",
-        "page_key": "licenca"
-      },
+        "at": "2026-10-11T04:36:08.521729",
+        "delta": 1000,
+        "before": 26,
+        "after": 1026,
+        "reason": "recompensa autom\u00e1tica mensal",
+        "type": "automatic_reward",
+        "cycle_key": "2026-10-11"
+      }
+    ],
+    "saldo_atual": 1026,
+    "coin_notifications": [
       {
         "id": "coin_auto_UNLOCKER-84B9-FXWR-J9IG_20261002044226445693",
         "titulo": "Recompensa recebida! \ud83e\uddc0",
@@ -534,8 +534,28 @@
         "notification": true,
         "announced_at": "2026-10-09T13:17:44.294349",
         "page_key": "licenca"
+      },
+      {
+        "id": "auto-reward-2026-10-11",
+        "type": "automatic_reward",
+        "notification": true,
+        "title": "Recompensa autom\u00e1tica",
+        "titulo": "Recompensa autom\u00e1tica",
+        "descricao": "1000 Cheese Coins foram adicionados ao seu saldo. Ela n\u00e3o acumula para o pr\u00f3ximo ciclo.",
+        "tag": "Cheese Coins",
+        "amount": 1000,
+        "created_at": "2026-10-11T04:36:08.521729",
+        "announced_at": "2026-10-11T04:36:08.521729",
+        "date": "2026-10-11T04:36:08.521729",
+        "page_key": "licenca"
       }
-    ]
+    ],
+    "automatic_reward": {
+      "cycle_key": "2026-10-11",
+      "amount": 1000,
+      "remaining": 1000,
+      "granted_at": "2026-10-11T04:36:08.521729"
+    }
   },
   "missions": {
     "streak_challenges": {},
