@@ -56,7 +56,7 @@
   },
   "spending_challenges": [
     {
-      "enabled": true,
+      "enabled": false,
       "id": "challenge_spend_1000",
       "title": "Gaste 1.000 Cheese Coins",
       "target_coins": 200,
@@ -131,5 +131,5 @@
       "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-11T20:15:08.583411"
+  "updated_at": "2026-10-11T20:15:14.938432"
 }
