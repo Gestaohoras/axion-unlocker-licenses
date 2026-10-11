@@ -58,6 +58,11 @@
         "target_coins": 200,
         "reward_percent": 10,
         "title": "Faixa 1: gaste 200 Cheese Coins"
+      },
+      {
+        "target_coins": 600,
+        "reward_percent": 30,
+        "title": "Faixa 2: gaste 600 Cheese Coins"
       }
     ]
   },
@@ -76,6 +81,11 @@
           "target_coins": 200,
           "reward_percent": 10,
           "title": "Faixa 1: gaste 200 Cheese Coins"
+        },
+        {
+          "target_coins": 600,
+          "reward_percent": 30,
+          "title": "Faixa 2: gaste 600 Cheese Coins"
         }
       ]
     }
@@ -128,5 +138,5 @@
       "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-11T19:56:28.257132"
+  "updated_at": "2026-10-11T19:56:47.865321"
 }
