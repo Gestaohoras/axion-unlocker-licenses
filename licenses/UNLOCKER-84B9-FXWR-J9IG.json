@@ -297,34 +297,7 @@
   "cheese_coins": {
     "balance": 426,
     "updated_at": "2026-10-11T04:47:35.441330",
-    "history": [
-      {
-        "at": "2026-10-11T04:36:08.521729",
-        "delta": 1000,
-        "before": 26,
-        "after": 1026,
-        "reason": "recompensa autom\u00e1tica mensal",
-        "type": "automatic_reward",
-        "cycle_key": "2026-10-11"
-      },
-      {
-        "at": "2026-10-11T04:47:35.441330",
-        "delta": -1000,
-        "before": 1026,
-        "after": 26,
-        "reason": "expira\u00e7\u00e3o recompensa autom\u00e1tica anterior",
-        "type": "automatic_reward_expire"
-      },
-      {
-        "at": "2026-10-11T04:47:35.441330",
-        "delta": 400,
-        "before": 26,
-        "after": 426,
-        "reason": "recompensa autom\u00e1tica mensal",
-        "type": "automatic_reward",
-        "cycle_key": "2026-10-11-auto_1791704828"
-      }
-    ],
+    "history": [],
     "saldo_atual": 426,
     "coin_notifications": [
       {
