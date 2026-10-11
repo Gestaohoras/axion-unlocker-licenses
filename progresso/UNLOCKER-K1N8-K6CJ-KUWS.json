@@ -8,20 +8,20 @@
       "used_at": null,
       "protected_miss_date": null
     },
-    "playtime_seconds": 898,
-    "playtime_updated_at": "2026-10-11T23:11:59.069402",
+    "playtime_seconds": 958,
+    "playtime_updated_at": "2026-10-11T23:12:59.324622",
     "streak_daily": {
       "date": "2026-10-11",
-      "seconds": 898,
+      "seconds": 958,
       "completed": false
     },
     "rewarded": [],
     "current_index": 0
   },
   "created_at": "2026-10-05T15:09:53.084942",
-  "updated_at": "2026-10-11T23:11:59.069939",
+  "updated_at": "2026-10-11T23:12:59.324622",
   "last_error": null,
   "heartbeat_status": "Em andamento",
   "coin_rewards": {},
-  "last_heartbeat_at": "2026-10-11T23:11:59.069402"
+  "last_heartbeat_at": "2026-10-11T23:12:59.324622"
 }
