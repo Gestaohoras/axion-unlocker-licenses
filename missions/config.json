@@ -78,14 +78,14 @@
   ],
   "streak_challenge": {
     "enabled": true,
-    "id": "streak_daily_20261003035630",
-    "title": "Complete 1 dias de streak",
-    "required_session_minutes": 2,
+    "id": "streak_daily_20261011034422",
+    "title": "Streak di\u00e1ria",
+    "required_session_minutes": 60,
     "protection_enabled": true,
     "protection_cooldown_days": 30,
-    "duration_days": 1.0,
-    "starts_at": "2026-10-03T03:56:30.913022",
-    "ends_at": "2026-10-04T03:56:30.913022",
+    "duration_days": 7.0,
+    "starts_at": "2026-10-11T03:44:22.303726",
+    "ends_at": "2026-10-18T03:44:22.303726",
     "target_streak": 1,
     "reward_type": "multiplier",
     "multiplier_duration_hours": 24,
@@ -124,5 +124,5 @@
       "duration_hours": 24
     }
   ],
-  "updated_at": "2026-10-11T03:43:36.584076"
+  "updated_at": "2026-10-11T03:44:22.303843"
 }
