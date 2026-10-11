@@ -37,7 +37,7 @@
     }
   ],
   "spending_mission": {
-    "enabled": true,
+    "enabled": false,
     "id": "spend_1000",
     "title": "Gaste 1.000 Cheese Coins",
     "target_coins": 1000,
@@ -120,5 +120,5 @@
       "multiplier": 5
     }
   ],
-  "updated_at": "2026-10-11T20:28:49.265639"
+  "updated_at": "2026-10-11T20:30:01.926434"
 }
