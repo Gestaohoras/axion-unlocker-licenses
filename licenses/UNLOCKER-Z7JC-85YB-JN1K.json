@@ -58,6 +58,18 @@
         "timestamp": "2026-10-12T21:18:32.182927",
         "interval_s": 2.16
       }
+    ],
+    "banned": true,
+    "ban_type": "repeated_execution",
+    "ban_timestamp": "2026-10-12T21:18:33.928469",
+    "ban_history": [
+      {
+        "action": "banned",
+        "type": "repeated_execution",
+        "reason": "strikes acumulados",
+        "by": null,
+        "timestamp": "2026-10-12T21:18:33.928469"
+      }
     ]
   }
 }
