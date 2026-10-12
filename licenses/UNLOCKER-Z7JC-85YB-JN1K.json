@@ -20,8 +20,8 @@
     ],
     "strike_limit": 5,
     "last_execution": "2026-10-12T21:18:32.182927",
-    "strikes": 5,
-    "last_strike_at": "2026-10-12T21:18:32.182927",
+    "strikes": 0,
+    "last_strike_at": null,
     "detections": [
       {
         "type": "repeated_execution",
@@ -59,9 +59,9 @@
         "interval_s": 2.16
       }
     ],
-    "banned": true,
-    "ban_type": "repeated_execution",
-    "ban_timestamp": "2026-10-12T21:18:33.928469",
+    "banned": false,
+    "ban_type": null,
+    "ban_timestamp": null,
     "ban_history": [
       {
         "action": "banned",
@@ -69,7 +69,15 @@
         "reason": "strikes acumulados",
         "by": null,
         "timestamp": "2026-10-12T21:18:33.928469"
+      },
+      {
+        "action": "unbanned",
+        "type": "repeated_execution",
+        "reason": "N\u00e3o sabe usar o produto",
+        "by": "trollingparty (768236963580477460)",
+        "timestamp": "2026-10-12T21:35:44.478929"
       }
-    ]
+    ],
+    "ban_reason": null
   }
 }
