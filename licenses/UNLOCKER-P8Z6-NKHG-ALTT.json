@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-P8Z6-NKHG-ALTT",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-11-11T23:40:34.196351",
+  "hwid": "767a1c96c3aa10ac0f87d1fab0825151b36b3dae6d2cc154c42a9f7fb8ddfb0e",
+  "discord_id": "912855688219340820",
+  "discord_tag": "jair_rpzin",
+  "last_hwid_reset": null
 }
