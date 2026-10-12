@@ -244,15 +244,8 @@
   "cheese_coins": {
     "balance": 570,
     "saldo_atual": 570,
-    "updated_at": "2026-10-11T22:49:03.479771",
+    "updated_at": "2026-10-12T17:05:47.383892",
     "history": [
-      {
-        "at": "2026-10-05T15:15:04.309624",
-        "delta": 20,
-        "before": 150,
-        "after": 170,
-        "reason": "pr\u00eamio"
-      },
       {
         "at": "2026-10-11T22:49:03.479771",
         "delta": 400,
