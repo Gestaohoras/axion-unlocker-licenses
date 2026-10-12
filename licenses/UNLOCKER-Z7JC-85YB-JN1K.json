@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-Z7JC-85YB-JN1K",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-11-11T15:06:55.071959",
+  "hwid": "3fbd1e1da8f345c6fa0a701ee901f9e1dfe13a7c0f3dcbad859b1f67680007bf",
+  "discord_id": "1516318871491969107",
+  "discord_tag": "chocobites1a",
+  "last_hwid_reset": null
 }
