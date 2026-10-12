@@ -242,9 +242,9 @@
     ]
   },
   "cheese_coins": {
-    "balance": 570,
-    "saldo_atual": 570,
-    "updated_at": "2026-10-12T17:05:47.383892",
+    "balance": 320,
+    "saldo_atual": 320,
+    "updated_at": "2026-10-12T17:24:14.933693",
     "history": [
       {
         "at": "2026-10-11T22:49:03.479771",
@@ -254,6 +254,13 @@
         "reason": "recompensa autom\u00e1tica mensal",
         "type": "automatic_reward",
         "cycle_key": "2026-10-11-auto_1791704828"
+      },
+      {
+        "at": "2026-10-12T17:24:14.933693",
+        "delta": -250,
+        "before": 570,
+        "after": 320,
+        "reason": "Teste"
       }
     ],
     "coin_notifications": [
@@ -299,6 +306,16 @@
         "created_at": "2026-10-11T22:49:03.479771",
         "announced_at": "2026-10-11T22:49:03.479771",
         "date": "2026-10-11T22:49:03.479771",
+        "page_key": "licenca"
+      },
+      {
+        "id": "coin_admin_UNLOCKER-K1N8-K6CJ-KUWS_20261012172414933709",
+        "titulo": "Ajuste de saldo realizado",
+        "descricao": "Saldo -250 Cheese Coins. Teste. Realizado por um administrador.",
+        "tag": "Update Cheese Coins",
+        "tag_color": "#1E90FF",
+        "notification": true,
+        "announced_at": "2026-10-12T17:24:14.933693",
         "page_key": "licenca"
       }
     ],
