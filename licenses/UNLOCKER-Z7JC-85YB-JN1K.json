@@ -5,5 +5,18 @@
   "hwid": "3fbd1e1da8f345c6fa0a701ee901f9e1dfe13a7c0f3dcbad859b1f67680007bf",
   "discord_id": "1516318871491969107",
   "discord_tag": "chocobites1a",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-12T15:06:56.546262",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1516318871491969107",
+        "by": "chocobites1a",
+        "produto": "Queijaria Unlocker",
+        "hwid": "3fbd1e1da8f345c6fa0a701ee901f9e1dfe13a7c0f3dcbad859b1f67680007bf"
+      }
+    ]
+  }
 }
