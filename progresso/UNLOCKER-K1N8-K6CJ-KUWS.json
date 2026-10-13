@@ -8,11 +8,11 @@
       "used_at": null,
       "protected_miss_date": null
     },
-    "playtime_seconds": 30572,
-    "playtime_updated_at": "2026-10-13T00:51:53.537806",
+    "playtime_seconds": 30632,
+    "playtime_updated_at": "2026-10-13T00:52:53.582958",
     "streak_daily": {
       "date": "2026-10-13",
-      "seconds": 3116,
+      "seconds": 3176,
       "completed": false
     },
     "rewarded": [],
@@ -21,9 +21,9 @@
     "last_streak_date": "2026-10-12"
   },
   "created_at": "2026-10-05T15:09:53.084942",
-  "updated_at": "2026-10-13T00:51:53.537806",
+  "updated_at": "2026-10-13T00:52:53.582958",
   "last_error": null,
   "heartbeat_status": "Em andamento",
   "coin_rewards": {},
-  "last_heartbeat_at": "2026-10-13T00:51:53.537806"
+  "last_heartbeat_at": "2026-10-13T00:52:53.582958"
 }
