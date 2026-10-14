@@ -1,6 +1,9 @@
 {
   "license": "UNLOCKER-06UK-093I-SLP3",
   "status": "active",
-  "expires": "pending:7",
-  "hwid": null
+  "expires": "2026-10-21T01:44:46.761484",
+  "hwid": "9029534a93977b78c76be49f1e6c1cafa25fc211c4a4f3a67d372f3ac1a154e9",
+  "discord_id": "735694402122678353",
+  "discord_tag": "2w0a",
+  "last_hwid_reset": null
 }
