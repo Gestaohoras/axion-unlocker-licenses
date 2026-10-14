@@ -5,5 +5,18 @@
   "hwid": "e65ad998457d8cf746c7a43996d52863674939f5f6825c1661797508dd0a8a3f",
   "discord_id": "829543633018945536",
   "discord_tag": "yuki.one",
-  "last_hwid_reset": "2026-10-14T21:34:14.719109"
+  "last_hwid_reset": "2026-10-14T21:34:14.719109",
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-14T21:35:26.462803",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "829543633018945536",
+        "by": "yuki.one",
+        "produto": "Queijaria Unlocker",
+        "hwid": "e65ad998457d8cf746c7a43996d52863674939f5f6825c1661797508dd0a8a3f"
+      }
+    ]
+  }
 }
