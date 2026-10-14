@@ -19,7 +19,7 @@
     "playtime_seconds": 6743,
     "playtime_updated_at": "2026-10-09T01:57:40.890558",
     "streak_daily": {
-      "date": "2026-10-09",
+      "date": "2026-10-13",
       "seconds": 0,
       "completed": false
     },
@@ -29,7 +29,7 @@
     "current_index": 1
   },
   "created_at": "2026-10-08T01:01:14.589293",
-  "updated_at": "2026-10-09T01:57:40.890558",
+  "updated_at": "2026-10-14T02:19:54.989778",
   "last_error": null,
   "coin_rewards": {
     "coin_notifications": [
@@ -53,6 +53,6 @@
       }
     ]
   },
-  "heartbeat_status": "Em andamento",
+  "heartbeat_status": "Mantenha a Streak",
   "last_heartbeat_at": "2026-10-09T01:57:40.890558"
 }
