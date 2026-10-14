@@ -16,8 +16,8 @@
     },
     "monthly_spent": 174,
     "spent_updated_at": "2026-10-07T17:36:05.485016",
-    "playtime_seconds": 15879,
-    "playtime_updated_at": "2026-10-14T04:54:56.092847",
+    "playtime_seconds": 15939,
+    "playtime_updated_at": "2026-10-14T04:55:55.822731",
     "streak_daily": {
       "date": "2026-10-14",
       "seconds": 3653,
@@ -31,7 +31,7 @@
     "last_streak_date": "2026-10-14"
   },
   "created_at": "2026-10-08T01:01:14.589293",
-  "updated_at": "2026-10-14T04:54:56.092847",
+  "updated_at": "2026-10-14T04:55:55.823234",
   "last_error": null,
   "coin_rewards": {
     "coin_notifications": [
@@ -56,5 +56,5 @@
     ]
   },
   "heartbeat_status": "Em andamento",
-  "last_heartbeat_at": "2026-10-14T04:54:56.092847"
+  "last_heartbeat_at": "2026-10-14T04:55:55.822731"
 }
