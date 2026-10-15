@@ -19,9 +19,9 @@
       }
     ],
     "strike_limit": 6,
-    "last_execution": "2026-10-15T11:33:42.465951",
+    "last_execution": "2026-10-15T11:33:50.300452",
     "strikes": 1,
-    "last_strike_at": "2026-10-15T09:37:22.189197",
+    "last_strike_at": "2026-10-15T11:33:50.300452",
     "detections": [
       {
         "type": "repeated_execution",
@@ -152,6 +152,11 @@
         "type": "repeated_execution",
         "timestamp": "2026-10-15T09:37:22.189197",
         "interval_s": 4.98
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-10-15T11:33:50.300452",
+        "interval_s": 7.83
       }
     ]
   }
