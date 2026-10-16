@@ -1,0 +1,30 @@
+{
+  "license_key": "UNLOCKER-CGRO-87YI-L8L2",
+  "missions": {
+    "spending_challenges": {
+      "challenge_1791760679": {
+        "spent": 24,
+        "rewarded": false,
+        "started_at": "2026-10-16T05:46:17.753643",
+        "ends_at": null,
+        "tier_index": 0,
+        "updated_at": "2026-10-16T06:07:26.270959",
+        "completed": false,
+        "rewarded_at": null,
+        "target_coins": 200,
+        "reward_percent": 10
+      }
+    },
+    "monthly_spent": 24,
+    "spent_updated_at": "2026-10-16T06:07:26.270959",
+    "streak_daily": {
+      "date": "2026-10-16",
+      "seconds": 0,
+      "completed": false
+    }
+  },
+  "created_at": "2026-10-16T06:08:19.864272",
+  "updated_at": "2026-10-16T06:08:19.864272",
+  "last_error": null,
+  "heartbeat_status": "Mantenha a Streak"
+}
