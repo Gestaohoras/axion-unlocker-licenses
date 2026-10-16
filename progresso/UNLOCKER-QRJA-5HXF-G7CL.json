@@ -3,18 +3,18 @@
   "missions": {
     "streak_daily": {
       "date": "2026-10-16",
-      "seconds": 730,
+      "seconds": 790,
       "completed": false
     },
-    "playtime_seconds": 730,
-    "playtime_updated_at": "2026-10-16T13:40:38.178567",
+    "playtime_seconds": 790,
+    "playtime_updated_at": "2026-10-16T13:41:39.968769",
     "rewarded": [],
     "current_index": 0
   },
   "created_at": "2026-10-16T12:45:35.763411",
-  "updated_at": "2026-10-16T13:40:38.178567",
+  "updated_at": "2026-10-16T13:41:39.968769",
   "last_error": null,
   "heartbeat_status": "Em andamento",
   "coin_rewards": {},
-  "last_heartbeat_at": "2026-10-16T13:40:38.178567"
+  "last_heartbeat_at": "2026-10-16T13:41:39.968769"
 }
