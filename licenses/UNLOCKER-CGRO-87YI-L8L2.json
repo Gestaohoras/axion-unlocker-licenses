@@ -9,8 +9,8 @@
   "security": {
     "strike_limit": 6,
     "last_execution": "2026-10-16T12:03:52.578033",
-    "strikes": 6,
-    "last_strike_at": "2026-10-16T12:03:52.578033",
+    "strikes": 0,
+    "last_strike_at": null,
     "detections": [
       {
         "type": "repeated_execution",
@@ -801,9 +801,9 @@
         "strike_limit": 6
       }
     ],
-    "banned": true,
-    "ban_type": "repeated_execution",
-    "ban_timestamp": "2026-10-16T12:03:54.539305",
+    "banned": false,
+    "ban_type": null,
+    "ban_timestamp": null,
     "ban_history": [
       {
         "action": "banned",
@@ -811,8 +811,16 @@
         "reason": "strikes acumulados",
         "by": null,
         "timestamp": "2026-10-16T12:03:54.539305"
+      },
+      {
+        "action": "unbanned",
+        "type": "repeated_execution",
+        "reason": "Erro pc cliente",
+        "by": "trollingparty (768236963580477460)",
+        "timestamp": "2026-10-16T12:05:43.899184"
       }
-    ]
+    ],
+    "ban_reason": null
   },
   "cheese_coins": {
     "balance": 0,
