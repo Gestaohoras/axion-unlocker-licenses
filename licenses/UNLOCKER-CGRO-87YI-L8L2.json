@@ -235,13 +235,13 @@
     ]
   },
   "cheese_coins": {
-    "balance": 400,
-    "saldo_atual": 400,
-    "updated_at": "2026-10-16T05:43:20.331335",
+    "balance": 398,
+    "saldo_atual": 398,
+    "updated_at": "2026-10-16T05:46:17.753643",
     "automatic_reward": {
       "cycle_key": "2026-10-11-auto_1791704828",
       "amount": 400,
-      "remaining": 400,
+      "remaining": 398,
       "granted_at": "2026-10-16T05:43:20.331335"
     },
     "history": [
@@ -253,6 +253,13 @@
         "reason": "recompensa autom\u00e1tica mensal",
         "type": "automatic_reward",
         "cycle_key": "2026-10-11-auto_1791704828"
+      },
+      {
+        "at": "2026-10-16T05:46:17.753643",
+        "delta": -2,
+        "before": 400,
+        "after": 398,
+        "reason": "prestige inject"
       }
     ],
     "coin_notifications": [
@@ -271,5 +278,23 @@
         "page_key": "licenca"
       }
     ]
+  },
+  "missions": {
+    "spending_challenges": {
+      "challenge_1791760679": {
+        "spent": 2,
+        "rewarded": false,
+        "started_at": "2026-10-16T05:46:17.753643",
+        "ends_at": null,
+        "tier_index": 0,
+        "updated_at": "2026-10-16T05:46:17.753643",
+        "completed": false,
+        "rewarded_at": null,
+        "target_coins": 200,
+        "reward_percent": 10
+      }
+    },
+    "monthly_spent": 2,
+    "spent_updated_at": "2026-10-16T05:46:17.753643"
   }
 }
