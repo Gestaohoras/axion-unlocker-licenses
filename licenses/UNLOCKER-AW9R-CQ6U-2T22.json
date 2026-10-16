@@ -1,0 +1,15 @@
+{
+  "license": "UNLOCKER-AW9R-CQ6U-2T22",
+  "status": "active",
+  "expires": "pending:30",
+  "hwid": null,
+  "subscription_plan": "essencial",
+  "subscription": {
+    "plan": "essencial",
+    "name": "Essencial",
+    "weekly_coins": 0,
+    "price_brl": 49.9,
+    "started_at": null,
+    "next_weekly_at": null
+  }
+}
