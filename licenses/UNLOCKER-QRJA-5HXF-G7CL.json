@@ -1438,8 +1438,51 @@
     ]
   },
   "cheese_coins": {
-    "balance": 0,
-    "saldo_atual": 0,
-    "updated_at": "2026-10-16T12:45:32.290983"
+    "balance": 1000,
+    "saldo_atual": 1000,
+    "updated_at": "2026-10-16T20:57:09.171606",
+    "purchased_balance": 0,
+    "recurring_balance": 1000,
+    "subscription_weekly": {
+      "cycle_key": "legacy:2026-10-16T12:45:06.623021:0",
+      "schedule": "activation_anchor",
+      "plan": "legacy",
+      "anchor_at": "2026-10-16T12:45:06.623021",
+      "cycle_index": 0,
+      "interval_days": 7,
+      "reward_at": "2026-10-16T12:45:06.623021",
+      "amount": 1000,
+      "granted_amount": 1000,
+      "remaining": 1000,
+      "granted_at": "2026-10-16T20:57:09.171606",
+      "next_at": "2026-10-23T12:45:06.623021"
+    },
+    "history": [
+      {
+        "at": "2026-10-16T20:57:09.171606",
+        "delta": 1000,
+        "before": 0,
+        "after": 1000,
+        "reason": "cota semanal do plano legacy",
+        "type": "subscription_weekly",
+        "cycle_key": "legacy:2026-10-16T12:45:06.623021:0"
+      }
+    ],
+    "coin_notifications": [
+      {
+        "id": "subscription-weekly-legacy:2026-10-16T12:45:06.623021:0",
+        "type": "subscription_weekly",
+        "notification": true,
+        "title": "Coins semanais do plano",
+        "titulo": "Coins semanais do plano",
+        "descricao": "1000 Cheese Coins do plano Legacy foram adicionados.",
+        "tag": "Cheese Coins",
+        "amount": 1000,
+        "created_at": "2026-10-16T20:57:09.172604",
+        "announced_at": "2026-10-16T20:57:09.172604",
+        "date": "2026-10-16T20:57:09.172604",
+        "page_key": "licenca"
+      }
+    ]
   }
 }
