@@ -1,0 +1,15 @@
+{
+  "license": "UNLOCKER-6SMK-EAR3-YEJA",
+  "status": "active",
+  "expires": "pending:1",
+  "hwid": null,
+  "subscription_plan": "legacy",
+  "subscription": {
+    "plan": "legacy",
+    "name": "Legacy",
+    "weekly_coins": 1000,
+    "price_brl": 191.9,
+    "started_at": null,
+    "next_weekly_at": null
+  }
+}
