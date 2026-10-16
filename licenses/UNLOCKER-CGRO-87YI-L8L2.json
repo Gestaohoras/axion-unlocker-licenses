@@ -8,7 +8,7 @@
   "last_hwid_reset": null,
   "security": {
     "strike_limit": 6,
-    "last_execution": "2026-10-16T06:08:15.263595",
+    "last_execution": "2026-10-16T06:14:25.396118",
     "strikes": 0,
     "last_strike_at": "2026-10-15T09:10:12.009675",
     "detections": [
@@ -234,6 +234,13 @@
         "interval_s": 5.87,
         "strike_count": 0,
         "strike_limit": 6
+      },
+      {
+        "timestamp": "2026-10-16T06:14:25.396118",
+        "result": "normal",
+        "interval_s": 370.13,
+        "strike_count": 0,
+        "strike_limit": 6
       }
     ],
     "license_actions": [
@@ -261,6 +268,15 @@
         "source": "unlocker_client",
         "result": "normal",
         "interval_s": 5.87,
+        "strike_count": 0,
+        "strike_limit": 6
+      },
+      {
+        "at": "2026-10-16T06:14:25.396118",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 370.13,
         "strike_count": 0,
         "strike_limit": 6
       }
