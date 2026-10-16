@@ -15,5 +15,18 @@
   "discord_id": "244967285368815616",
   "discord_tag": "limaoxv",
   "last_hwid_reset": null,
-  "activated_at": "2026-10-16T19:03:53.404158"
+  "activated_at": "2026-10-16T19:03:53.404158",
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-16T19:03:54.710793",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "244967285368815616",
+        "by": "limaoxv",
+        "produto": "Queijaria Unlocker",
+        "hwid": "cb9069b17e7728763306c4c099fe66aeed3d4c96053052afbcceb5b4f5318a58"
+      }
+    ]
+  }
 }
