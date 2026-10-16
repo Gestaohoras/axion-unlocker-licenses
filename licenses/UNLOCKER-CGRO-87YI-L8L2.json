@@ -8,9 +8,9 @@
   "last_hwid_reset": null,
   "security": {
     "strike_limit": 6,
-    "last_execution": "2026-10-16T07:21:26.118972",
-    "strikes": 2,
-    "last_strike_at": "2026-10-16T07:13:33.378446",
+    "last_execution": "2026-10-16T07:21:29.396094",
+    "strikes": 3,
+    "last_strike_at": "2026-10-16T07:21:29.396094",
     "detections": [
       {
         "type": "repeated_execution",
@@ -271,6 +271,11 @@
         "interval_s": 4.42,
         "strike_count": 2,
         "strike_limit": 6
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-10-16T07:21:29.396094",
+        "interval_s": 3.28
       }
     ],
     "execution_history": [
