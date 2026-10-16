@@ -233,5 +233,43 @@
         "strike_limit": 6
       }
     ]
+  },
+  "cheese_coins": {
+    "balance": 400,
+    "saldo_atual": 400,
+    "updated_at": "2026-10-16T05:43:20.331335",
+    "automatic_reward": {
+      "cycle_key": "2026-10-11-auto_1791704828",
+      "amount": 400,
+      "remaining": 400,
+      "granted_at": "2026-10-16T05:43:20.331335"
+    },
+    "history": [
+      {
+        "at": "2026-10-16T05:43:20.331335",
+        "delta": 400,
+        "before": 0,
+        "after": 400,
+        "reason": "recompensa autom\u00e1tica mensal",
+        "type": "automatic_reward",
+        "cycle_key": "2026-10-11-auto_1791704828"
+      }
+    ],
+    "coin_notifications": [
+      {
+        "id": "auto-reward-2026-10-11-auto_1791704828",
+        "type": "automatic_reward",
+        "notification": true,
+        "title": "Recompensa autom\u00e1tica",
+        "titulo": "Recompensa autom\u00e1tica",
+        "descricao": "400 Cheese Coins foram adicionados ao seu saldo.",
+        "tag": "Cheese Coins",
+        "amount": 400,
+        "created_at": "2026-10-16T05:43:20.331335",
+        "announced_at": "2026-10-16T05:43:20.331335",
+        "date": "2026-10-16T05:43:20.331335",
+        "page_key": "licenca"
+      }
+    ]
   }
 }
