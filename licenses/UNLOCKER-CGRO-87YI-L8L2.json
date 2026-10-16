@@ -800,6 +800,18 @@
         "strike_count": 3,
         "strike_limit": 6
       }
+    ],
+    "banned": true,
+    "ban_type": "repeated_execution",
+    "ban_timestamp": "2026-10-16T12:03:54.539305",
+    "ban_history": [
+      {
+        "action": "banned",
+        "type": "repeated_execution",
+        "reason": "strikes acumulados",
+        "by": null,
+        "timestamp": "2026-10-16T12:03:54.539305"
+      }
     ]
   },
   "cheese_coins": {
