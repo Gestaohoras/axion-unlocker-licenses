@@ -1,15 +1,19 @@
 {
   "license": "UNLOCKER-AW9R-CQ6U-2T22",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-11-15T19:03:53.240025",
+  "hwid": "cb9069b17e7728763306c4c099fe66aeed3d4c96053052afbcceb5b4f5318a58",
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
     "name": "Essencial",
     "weekly_coins": 0,
     "price_brl": 49.9,
-    "started_at": null,
+    "started_at": "2026-10-16T19:03:53.404158",
     "next_weekly_at": null
-  }
+  },
+  "discord_id": "244967285368815616",
+  "discord_tag": "limaoxv",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-16T19:03:53.404158"
 }
