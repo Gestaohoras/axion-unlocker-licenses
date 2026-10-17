@@ -9,32 +9,13 @@
   "streak_enabled": true,
   "missions": [
     {
-      "id": "play_28h",
+      "id": "play_20261017172747175818",
       "type": "playtime",
       "title": "Jogue 20 horas",
       "target_hours": 20.0,
-      "base_reward": 3
-    },
-    {
-      "id": "play_56h",
-      "type": "playtime",
-      "title": "Jogue 40 horas",
-      "target_hours": 40.0,
-      "base_reward": 6
-    },
-    {
-      "id": "play_84h",
-      "type": "playtime",
-      "title": "Jogue 60 horas",
-      "target_hours": 60.0,
-      "base_reward": 9
-    },
-    {
-      "id": "play_120h",
-      "type": "playtime",
-      "title": "Jogue 80 horas",
-      "target_hours": 80.0,
-      "base_reward": 9
+      "base_reward": 5,
+      "enabled": true,
+      "created_at": "2026-10-17T17:27:47.175818"
     }
   ],
   "spending_mission": {
@@ -126,5 +107,5 @@
       "id": "tier_5_30d_5x"
     }
   ],
-  "updated_at": "2026-10-17T17:02:59.062279"
+  "updated_at": "2026-10-17T17:27:47.176453"
 }
