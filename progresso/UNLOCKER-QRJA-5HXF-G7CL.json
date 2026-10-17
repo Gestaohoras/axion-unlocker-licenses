@@ -9,12 +9,13 @@
     "streak_days": 1,
     "last_streak_date": "2026-10-16",
     "cycle": {
-      "key": "2026-10-16T12:45:06.623021:30:0",
+      "key": "2026-10-17T13:45:13.698527:30:0",
+      "model_version": 2,
       "index": 0,
       "duration_days": 30,
-      "anchor_at": "2026-10-16T12:45:06.623021",
-      "started_at": "2026-10-16T12:45:06.623021",
-      "ends_at": "2026-11-15T12:45:06.623021"
+      "anchor_at": "2026-10-17T13:45:13.698527",
+      "started_at": "2026-10-17T13:45:13.698527",
+      "ends_at": "2026-11-16T13:45:13.698527"
     },
     "cycle_history": [
       {
@@ -34,11 +35,20 @@
         "spent_coins": 0,
         "rewards": [],
         "closed_at": "2026-10-17T15:10:32.474169"
+      },
+      {
+        "key": "2026-10-16T12:45:06.623021:30:0",
+        "started_at": "2026-10-16T12:45:06.623021",
+        "ended_at": "2026-11-15T12:45:06.623021",
+        "playtime_seconds": 0,
+        "spent_coins": 0,
+        "rewards": [],
+        "closed_at": "2026-10-17T15:18:08.334062"
       }
     ]
   },
   "created_at": "2026-10-16T12:45:35.763411",
-  "updated_at": "2026-10-17T15:10:33.118376",
+  "updated_at": "2026-10-17T15:18:09.517488",
   "last_error": null,
   "heartbeat_status": "Novo ciclo de miss\u00f5es",
   "coin_rewards": {},
