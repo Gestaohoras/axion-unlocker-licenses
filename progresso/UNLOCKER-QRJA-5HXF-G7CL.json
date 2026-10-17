@@ -3,7 +3,7 @@
   "missions": {
     "streak_daily": {
       "date": "2026-10-17",
-      "seconds": 483,
+      "seconds": 498,
       "completed": false
     },
     "streak_days": 1,
@@ -45,12 +45,16 @@
         "rewards": [],
         "closed_at": "2026-10-17T15:18:08.334062"
       }
-    ]
+    ],
+    "playtime_seconds": 15,
+    "playtime_updated_at": "2026-10-17T15:18:25.745434",
+    "rewarded": [],
+    "current_index": 0
   },
   "created_at": "2026-10-16T12:45:35.763411",
-  "updated_at": "2026-10-17T15:18:09.517488",
+  "updated_at": "2026-10-17T15:18:25.745434",
   "last_error": null,
-  "heartbeat_status": "Novo ciclo de miss\u00f5es",
+  "heartbeat_status": "Em andamento",
   "coin_rewards": {},
-  "last_heartbeat_at": "2026-10-17T14:40:56.063542"
+  "last_heartbeat_at": "2026-10-17T15:18:25.745434"
 }
