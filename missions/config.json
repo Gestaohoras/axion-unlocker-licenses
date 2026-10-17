@@ -376,6 +376,15 @@
       "base_reward": 6,
       "enabled": true,
       "created_at": "2026-10-17T18:40:44.061656"
+    },
+    {
+      "id": "play_20261017184050826068",
+      "type": "playtime",
+      "title": "Jogue 1018 horas",
+      "target_hours": 1018.0,
+      "base_reward": 8,
+      "enabled": true,
+      "created_at": "2026-10-17T18:40:50.826068"
     }
   ],
   "spending_mission": {
@@ -467,5 +476,5 @@
       "id": "tier_5_30d_5x"
     }
   ],
-  "updated_at": "2026-10-17T18:40:44.061727"
+  "updated_at": "2026-10-17T18:40:50.826130"
 }
