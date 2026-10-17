@@ -23,15 +23,6 @@
   "security": {
     "license_actions": [
       {
-        "at": "2026-10-16T13:23:43.372577",
-        "action": "check_license",
-        "source": "unlocker_client",
-        "result": "strike",
-        "interval_s": 3.24,
-        "strike_count": 1,
-        "strike_limit": 12
-      },
-      {
         "at": "2026-10-16T13:31:24.934312",
         "action": "check_license",
         "source": "unlocker_client",
@@ -1101,19 +1092,21 @@
         "interval_s": 692.12,
         "strike_count": 1,
         "strike_limit": 12
+      },
+      {
+        "at": "2026-10-17T19:17:10.167279",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "strike",
+        "interval_s": 2.76,
+        "strike_count": 1,
+        "strike_limit": 12
       }
     ],
     "strike_limit": 12,
-    "last_execution": "2026-10-17T19:17:07.409896",
+    "last_execution": "2026-10-17T19:17:10.167279",
     "strikes": 1,
     "execution_history": [
-      {
-        "timestamp": "2026-10-16T18:53:46.885303",
-        "result": "normal",
-        "interval_s": 5.47,
-        "strike_count": 1,
-        "strike_limit": 12
-      },
       {
         "timestamp": "2026-10-16T19:04:52.295110",
         "result": "normal",
@@ -1666,9 +1659,16 @@
         "interval_s": 692.12,
         "strike_count": 1,
         "strike_limit": 12
+      },
+      {
+        "timestamp": "2026-10-17T19:17:10.167279",
+        "result": "strike",
+        "interval_s": 2.76,
+        "strike_count": 1,
+        "strike_limit": 12
       }
     ],
-    "last_strike_at": "2026-10-17T19:05:35.292161",
+    "last_strike_at": "2026-10-17T19:17:10.167279",
     "detections": [
       {
         "type": "repeated_execution",
@@ -1961,6 +1961,13 @@
         "type": "repeated_execution",
         "timestamp": "2026-10-17T19:05:35.292161",
         "interval_s": 3.68,
+        "strike_count": 1,
+        "strike_limit": 12
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-10-17T19:17:10.167279",
+        "interval_s": 2.76,
         "strike_count": 1,
         "strike_limit": 12
       }
