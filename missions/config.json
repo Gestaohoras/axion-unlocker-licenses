@@ -485,6 +485,11 @@
           "target_coins": 500,
           "reward_percent": 6,
           "title": "Faixa 4: gaste 500 Cheese Coins"
+        },
+        {
+          "target_coins": 600,
+          "reward_percent": 7,
+          "title": "Faixa 5: gaste 600 Cheese Coins"
         }
       ],
       "duration_days": null,
@@ -535,5 +540,5 @@
       "id": "tier_5_30d_5x"
     }
   ],
-  "updated_at": "2026-10-17T18:47:44.152922"
+  "updated_at": "2026-10-17T18:47:59.502401"
 }
