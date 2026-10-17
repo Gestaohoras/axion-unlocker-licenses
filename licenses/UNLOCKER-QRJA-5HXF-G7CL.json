@@ -23,15 +23,6 @@
   "security": {
     "license_actions": [
       {
-        "at": "2026-10-16T12:45:07.994695",
-        "action": "ativacao_unlocker_sucesso",
-        "source": "discord_bot",
-        "by_id": "1461236976845062227",
-        "by": "testador_loja",
-        "produto": "Queijaria Unlocker",
-        "hwid": "30d3941eb06bef32383414b7251d7d768b89a79d2712e014a4b75d7b47d08b90"
-      },
-      {
         "at": "2026-10-16T12:45:30.236301",
         "action": "check_license",
         "source": "unlocker_client",
@@ -1101,19 +1092,21 @@
         "interval_s": 2.87,
         "strike_count": 1,
         "strike_limit": 12
+      },
+      {
+        "at": "2026-10-17T18:37:40.041313",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 477.68,
+        "strike_count": 1,
+        "strike_limit": 12
       }
     ],
     "strike_limit": 12,
-    "last_execution": "2026-10-17T18:29:42.358932",
+    "last_execution": "2026-10-17T18:37:40.041313",
     "strikes": 1,
     "execution_history": [
-      {
-        "timestamp": "2026-10-16T17:31:18.354685",
-        "result": "normal",
-        "interval_s": 613.29,
-        "strike_count": 1,
-        "strike_limit": 12
-      },
       {
         "timestamp": "2026-10-16T17:31:22.624377",
         "result": "strike",
@@ -1664,6 +1657,13 @@
         "timestamp": "2026-10-17T18:29:42.358932",
         "result": "strike",
         "interval_s": 2.87,
+        "strike_count": 1,
+        "strike_limit": 12
+      },
+      {
+        "timestamp": "2026-10-17T18:37:40.041313",
+        "result": "normal",
+        "interval_s": 477.68,
         "strike_count": 1,
         "strike_limit": 12
       }
