@@ -296,7 +296,7 @@
   },
   "cheese_coins": {
     "balance": 96,
-    "updated_at": "2026-10-13T05:01:44.459816",
+    "updated_at": "2026-10-17T14:06:39.687528",
     "history": [
       {
         "at": "2026-10-13T04:37:41.220118",
@@ -947,5 +947,11 @@
     "current_index": 0,
     "playtime_updated_at": "2026-10-11T03:42:44.205866",
     "rewarded": []
+  },
+  "subscription": {
+    "schedule_version": 2,
+    "schedule_anchor_at": "2026-10-17T14:06:39.687528",
+    "missions_anchor_at": "2026-10-17T14:06:39.687528",
+    "migrated_at": "2026-10-17T14:06:39.687528"
   }
 }
