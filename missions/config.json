@@ -108,9 +108,10 @@
       "id": "tier_2_6d_2x"
     },
     {
-      "min_days": 20,
-      "max_days": 29,
-      "multiplier": 3
+      "min_days": 13,
+      "max_days": 20,
+      "multiplier": 3,
+      "id": "tier_3_13d_3x"
     },
     {
       "min_days": 30,
@@ -123,5 +124,5 @@
       "multiplier": 5
     }
   ],
-  "updated_at": "2026-10-17T17:02:11.400161"
+  "updated_at": "2026-10-17T17:02:24.848957"
 }
