@@ -13,7 +13,7 @@
       "type": "playtime",
       "title": "Jogue 20 horas",
       "target_hours": 20.0,
-      "base_reward": 5,
+      "base_reward": 3,
       "enabled": true,
       "created_at": "2026-10-17T17:27:47.175818"
     }
@@ -107,5 +107,5 @@
       "id": "tier_5_30d_5x"
     }
   ],
-  "updated_at": "2026-10-17T17:27:47.176453"
+  "updated_at": "2026-10-17T17:28:29.892482"
 }
