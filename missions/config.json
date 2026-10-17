@@ -32,9 +32,9 @@
     {
       "id": "play_120h",
       "type": "playtime",
-      "title": "Jogue 90 horas",
-      "target_hours": 90.0,
-      "base_reward": 40
+      "title": "Jogue 80 horas",
+      "target_hours": 80.0,
+      "base_reward": 8
     }
   ],
   "spending_mission": {
@@ -121,5 +121,5 @@
       "multiplier": 5
     }
   ],
-  "updated_at": "2026-10-17T16:53:52.994861"
+  "updated_at": "2026-10-17T16:54:09.030387"
 }
