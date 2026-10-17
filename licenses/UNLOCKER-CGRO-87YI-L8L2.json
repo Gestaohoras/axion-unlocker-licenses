@@ -1417,7 +1417,7 @@
   "cheese_coins": {
     "balance": 0,
     "saldo_atual": 0,
-    "updated_at": "2026-10-16T11:56:17.629942",
+    "updated_at": "2026-10-17T16:27:56.130006",
     "automatic_reward": {
       "cycle_key": "2026-10-11-auto_1791704828",
       "amount": 400,
@@ -1584,5 +1584,11 @@
     },
     "monthly_spent": 28,
     "spent_updated_at": "2026-10-16T07:00:34.196541"
+  },
+  "subscription": {
+    "schedule_version": 2,
+    "schedule_anchor_at": "2026-10-17T16:27:56.130006",
+    "missions_anchor_at": "2026-10-17T16:27:56.130006",
+    "migrated_at": "2026-10-17T16:27:56.130006"
   }
 }
