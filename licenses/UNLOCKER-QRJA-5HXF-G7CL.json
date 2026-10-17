@@ -23,15 +23,6 @@
   "security": {
     "license_actions": [
       {
-        "at": "2026-10-16T12:54:00.617239",
-        "action": "check_license",
-        "source": "unlocker_client",
-        "result": "strike",
-        "interval_s": 4.53,
-        "strike_count": 1,
-        "strike_limit": 12
-      },
-      {
         "at": "2026-10-16T12:56:22.236494",
         "action": "check_license",
         "source": "unlocker_client",
@@ -1101,19 +1092,21 @@
         "interval_s": 1130.66,
         "strike_count": 1,
         "strike_limit": 12
+      },
+      {
+        "at": "2026-10-17T18:56:36.718571",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "strike",
+        "interval_s": 3.01,
+        "strike_count": 1,
+        "strike_limit": 12
       }
     ],
     "strike_limit": 12,
-    "last_execution": "2026-10-17T18:56:33.709287",
+    "last_execution": "2026-10-17T18:56:36.718571",
     "strikes": 1,
     "execution_history": [
-      {
-        "timestamp": "2026-10-16T17:47:16.087108",
-        "result": "normal",
-        "interval_s": 5.44,
-        "strike_count": 1,
-        "strike_limit": 12
-      },
       {
         "timestamp": "2026-10-16T18:33:21.062494",
         "result": "normal",
@@ -1666,9 +1659,16 @@
         "interval_s": 1130.66,
         "strike_count": 1,
         "strike_limit": 12
+      },
+      {
+        "timestamp": "2026-10-17T18:56:36.718571",
+        "result": "strike",
+        "interval_s": 3.01,
+        "strike_count": 1,
+        "strike_limit": 12
       }
     ],
-    "last_strike_at": "2026-10-17T18:37:43.053620",
+    "last_strike_at": "2026-10-17T18:56:36.718571",
     "detections": [
       {
         "type": "repeated_execution",
@@ -1939,6 +1939,13 @@
       {
         "type": "repeated_execution",
         "timestamp": "2026-10-17T18:37:43.053620",
+        "interval_s": 3.01,
+        "strike_count": 1,
+        "strike_limit": 12
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-10-17T18:56:36.718571",
         "interval_s": 3.01,
         "strike_count": 1,
         "strike_limit": 12
