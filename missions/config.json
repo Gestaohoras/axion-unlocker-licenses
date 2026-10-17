@@ -120,10 +120,11 @@
       "id": "tier_4_21d_4x"
     },
     {
-      "min_days": 45,
+      "min_days": 30,
       "max_days": null,
-      "multiplier": 5
+      "multiplier": 5,
+      "id": "tier_5_30d_5x"
     }
   ],
-  "updated_at": "2026-10-17T17:02:40.998373"
+  "updated_at": "2026-10-17T17:02:59.062279"
 }
