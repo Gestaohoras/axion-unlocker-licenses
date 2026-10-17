@@ -2,6 +2,7 @@
   "enabled": true,
   "coin_name": "Cheese Coins",
   "current_month": 1,
+  "cycle_days": 30,
   "sequential_unlock": true,
   "show_locked_preview": false,
   "multiplier_enabled": true,
@@ -10,9 +11,9 @@
     {
       "id": "play_28h",
       "type": "playtime",
-      "title": "Jogue 15 horas",
-      "target_hours": 15.0,
-      "base_reward": 10
+      "title": "Jogue 20 horas",
+      "target_hours": 20.0,
+      "base_reward": 2
     },
     {
       "id": "play_56h",
@@ -120,5 +121,5 @@
       "multiplier": 5
     }
   ],
-  "updated_at": "2026-10-16T15:43:50.574324"
+  "updated_at": "2026-10-17T16:53:22.482329"
 }
