@@ -2,9 +2,9 @@
   "license_key": "UNLOCKER-QRJA-5HXF-G7CL",
   "missions": {
     "streak_daily": {
-      "date": "2026-10-16",
-      "seconds": 3617,
-      "completed": true
+      "date": "2026-10-17",
+      "seconds": 0,
+      "completed": false
     },
     "streak_days": 1,
     "last_streak_date": "2026-10-16",
@@ -18,9 +18,9 @@
     }
   },
   "created_at": "2026-10-16T12:45:35.763411",
-  "updated_at": "2026-10-16T20:57:12.351758",
+  "updated_at": "2026-10-17T13:23:34.966077",
   "last_error": null,
-  "heartbeat_status": "Novo ciclo de miss\u00f5es",
+  "heartbeat_status": "Mantenha a Streak",
   "coin_rewards": {},
   "last_heartbeat_at": "2026-10-16T19:46:37.039655"
 }
