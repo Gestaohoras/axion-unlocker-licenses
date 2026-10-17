@@ -1817,11 +1817,11 @@
     ]
   },
   "cheese_coins": {
-    "balance": 3000,
-    "saldo_atual": 3000,
-    "updated_at": "2026-10-17T15:10:30.358327",
+    "balance": 4000,
+    "saldo_atual": 4000,
+    "updated_at": "2026-10-17T15:18:04.610063",
     "purchased_balance": 0,
-    "recurring_balance": 3000,
+    "recurring_balance": 4000,
     "history": [
       {
         "at": "2026-10-16T20:57:09.171606",
@@ -1849,6 +1849,15 @@
         "reason": "cota semanal do plano legacy",
         "type": "subscription_weekly",
         "cycle_key": "legacy:2026-10-16T12:45:06.623021:0"
+      },
+      {
+        "at": "2026-10-17T15:18:04.610063",
+        "delta": 1000,
+        "before": 3000,
+        "after": 4000,
+        "reason": "cota semanal do plano legacy",
+        "type": "subscription_weekly",
+        "cycle_key": "legacy:2026-10-17T13:45:13.698527:0"
       }
     ],
     "coin_notifications": [
@@ -1882,18 +1891,18 @@
       }
     ],
     "subscription_weekly": {
-      "cycle_key": "legacy:2026-10-16T12:45:06.623021:0",
+      "cycle_key": "legacy:2026-10-17T13:45:13.698527:0",
       "schedule": "activation_anchor",
       "plan": "legacy",
-      "anchor_at": "2026-10-16T12:45:06.623021",
+      "anchor_at": "2026-10-17T13:45:13.698527",
       "cycle_index": 0,
       "interval_days": 7,
-      "reward_at": "2026-10-16T12:45:06.623021",
+      "reward_at": "2026-10-17T13:45:13.698527",
       "amount": 1000,
       "granted_amount": 1000,
-      "remaining": 3000,
-      "granted_at": "2026-10-17T15:10:30.358327",
-      "next_at": "2026-10-23T12:45:06.623021"
+      "remaining": 4000,
+      "granted_at": "2026-10-17T15:18:04.610063",
+      "next_at": "2026-10-24T13:45:13.698527"
     }
   }
 }
