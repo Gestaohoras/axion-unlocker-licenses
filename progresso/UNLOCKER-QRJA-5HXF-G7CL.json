@@ -1,13 +1,6 @@
 {
   "license_key": "UNLOCKER-QRJA-5HXF-G7CL",
   "missions": {
-    "streak_daily": {
-      "date": "2026-10-17",
-      "seconds": 1159,
-      "completed": false
-    },
-    "streak_days": 1,
-    "last_streak_date": "2026-10-16",
     "cycle": {
       "key": "2026-10-17T13:45:13.698527:30:0",
       "model_version": 2,
@@ -16,45 +9,12 @@
       "anchor_at": "2026-10-17T13:45:13.698527",
       "started_at": "2026-10-17T13:45:13.698527",
       "ends_at": "2026-11-16T13:45:13.698527"
-    },
-    "cycle_history": [
-      {
-        "key": "2026-10-16T12:45:06.623021:30:0",
-        "started_at": "2026-10-16T12:45:06.623021",
-        "ended_at": "2026-11-15T12:45:06.623021",
-        "playtime_seconds": 0,
-        "spent_coins": 0,
-        "rewards": [],
-        "closed_at": "2026-10-17T13:45:15.382215"
-      },
-      {
-        "key": "2026-10-17T13:45:13.698527:30:0",
-        "started_at": "2026-10-17T13:45:13.698527",
-        "ended_at": "2026-11-16T13:45:13.698527",
-        "playtime_seconds": 483,
-        "spent_coins": 0,
-        "rewards": [],
-        "closed_at": "2026-10-17T15:10:32.474169"
-      },
-      {
-        "key": "2026-10-16T12:45:06.623021:30:0",
-        "started_at": "2026-10-16T12:45:06.623021",
-        "ended_at": "2026-11-15T12:45:06.623021",
-        "playtime_seconds": 0,
-        "spent_coins": 0,
-        "rewards": [],
-        "closed_at": "2026-10-17T15:18:08.334062"
-      }
-    ],
-    "playtime_seconds": 676,
-    "playtime_updated_at": "2026-10-17T15:43:50.607089",
-    "rewarded": [],
-    "current_index": 0
+    }
   },
   "created_at": "2026-10-16T12:45:35.763411",
-  "updated_at": "2026-10-17T15:43:50.609102",
+  "updated_at": "2026-10-17T15:44:47.403105",
   "last_error": null,
-  "heartbeat_status": "Em andamento",
+  "heartbeat_status": "Novo ciclo de miss\u00f5es",
   "coin_rewards": {},
   "last_heartbeat_at": "2026-10-17T15:43:50.607089"
 }
