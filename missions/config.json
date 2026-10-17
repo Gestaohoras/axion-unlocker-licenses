@@ -464,11 +464,11 @@
       "id": "challenge_1791760679",
       "title": "Gaste 200 Cheese Coins",
       "target_coins": 200,
-      "reward_percent": 10,
+      "reward_percent": 5,
       "tiers": [
         {
           "target_coins": 200,
-          "reward_percent": 10,
+          "reward_percent": 5,
           "title": "Faixa 1: gaste 200 Cheese Coins"
         },
         {
@@ -530,5 +530,5 @@
       "id": "tier_5_30d_5x"
     }
   ],
-  "updated_at": "2026-10-17T18:41:33.889665"
+  "updated_at": "2026-10-17T18:45:58.276796"
 }
