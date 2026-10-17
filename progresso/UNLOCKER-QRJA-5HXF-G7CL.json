@@ -9,13 +9,12 @@
     "streak_days": 1,
     "last_streak_date": "2026-10-16",
     "cycle": {
-      "key": "2026-10-17T13:45:13.698527:30:0",
-      "model_version": 2,
+      "key": "2026-10-16T12:45:06.623021:30:0",
       "index": 0,
       "duration_days": 30,
-      "anchor_at": "2026-10-17T13:45:13.698527",
-      "started_at": "2026-10-17T13:45:13.698527",
-      "ends_at": "2026-11-16T13:45:13.698527"
+      "anchor_at": "2026-10-16T12:45:06.623021",
+      "started_at": "2026-10-16T12:45:06.623021",
+      "ends_at": "2026-11-15T12:45:06.623021"
     },
     "cycle_history": [
       {
@@ -26,17 +25,22 @@
         "spent_coins": 0,
         "rewards": [],
         "closed_at": "2026-10-17T13:45:15.382215"
+      },
+      {
+        "key": "2026-10-17T13:45:13.698527:30:0",
+        "started_at": "2026-10-17T13:45:13.698527",
+        "ended_at": "2026-11-16T13:45:13.698527",
+        "playtime_seconds": 483,
+        "spent_coins": 0,
+        "rewards": [],
+        "closed_at": "2026-10-17T15:10:32.474169"
       }
-    ],
-    "playtime_seconds": 483,
-    "playtime_updated_at": "2026-10-17T14:40:56.063542",
-    "rewarded": [],
-    "current_index": 0
+    ]
   },
   "created_at": "2026-10-16T12:45:35.763411",
-  "updated_at": "2026-10-17T14:40:56.063542",
+  "updated_at": "2026-10-17T15:10:33.118376",
   "last_error": null,
-  "heartbeat_status": "Em andamento",
+  "heartbeat_status": "Novo ciclo de miss\u00f5es",
   "coin_rewards": {},
   "last_heartbeat_at": "2026-10-17T14:40:56.063542"
 }
