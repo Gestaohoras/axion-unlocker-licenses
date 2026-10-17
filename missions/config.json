@@ -96,9 +96,10 @@
   },
   "streak_rules": [
     {
-      "min_days": 0,
-      "max_days": 6,
-      "multiplier": 1
+      "min_days": 1,
+      "max_days": 5,
+      "multiplier": 1,
+      "id": "tier_1_1d_1x"
     },
     {
       "min_days": 7,
@@ -121,5 +122,5 @@
       "multiplier": 5
     }
   ],
-  "updated_at": "2026-10-17T17:00:01.175488"
+  "updated_at": "2026-10-17T17:01:56.479135"
 }
