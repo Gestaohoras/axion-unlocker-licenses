@@ -2,7 +2,7 @@
   "license": "UNLOCKER-WYBS-JF28-Z42Q",
   "status": "active",
   "expires": "2026-11-05T00:47:15.111236",
-  "hwid": null,
+  "hwid": "12a306320d6d3b6ecb5d5fcdc0798fb422cc0f18b367465b804d8da42518532f",
   "discord_id": "1448105223523668173",
   "discord_tag": "fdsnll",
   "last_hwid_reset": "2026-10-18T16:16:53.841749",
@@ -194,5 +194,18 @@
         "hwid": "12a306320d6d3b6ecb5d5fcdc0798fb422cc0f18b367465b804d8da42518532f"
       }
     ]
-  }
+  },
+  "subscription": {
+    "plan": "essencial",
+    "name": "Essencial",
+    "weekly_coins": 0,
+    "price_brl": 49.9,
+    "started_at": "2026-10-18T16:17:25.159728",
+    "schedule_version": 2,
+    "schedule_anchor_at": "2026-10-18T16:17:25.159728",
+    "missions_anchor_at": "2026-10-18T16:17:25.159728",
+    "next_weekly_at": null
+  },
+  "subscription_plan": "essencial",
+  "activated_at": "2026-10-18T16:17:25.159728"
 }
