@@ -48,5 +48,16 @@
   },
   "privilege": {
     "bypass_cooldown": true
+  },
+  "subscription": {
+    "schedule_version": 2,
+    "schedule_anchor_at": "2026-10-18T00:11:46.084618",
+    "missions_anchor_at": "2026-10-18T00:11:46.084618",
+    "migrated_at": "2026-10-18T00:11:46.084618"
+  },
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "updated_at": "2026-10-18T00:11:46.084618"
   }
 }
