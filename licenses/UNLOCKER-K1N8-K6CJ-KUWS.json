@@ -1227,7 +1227,7 @@
   "cheese_coins": {
     "balance": 36,
     "saldo_atual": 36,
-    "updated_at": "2026-10-12T17:42:33.029443",
+    "updated_at": "2026-10-18T00:20:32.077777",
     "history": [
       {
         "at": "2026-10-11T22:49:03.479771",
@@ -1637,5 +1637,11 @@
     },
     "monthly_spent": 84,
     "spent_updated_at": "2026-10-12T17:42:33.029443"
+  },
+  "subscription": {
+    "schedule_version": 2,
+    "schedule_anchor_at": "2026-10-18T00:20:32.077777",
+    "missions_anchor_at": "2026-10-18T00:20:32.077777",
+    "migrated_at": "2026-10-18T00:20:32.077777"
   }
 }
