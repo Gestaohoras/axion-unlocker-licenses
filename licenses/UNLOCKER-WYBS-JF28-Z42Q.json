@@ -182,6 +182,17 @@
         "timestamp": "2026-10-15T22:41:16.025362",
         "interval_s": 2.92
       }
+    ],
+    "license_actions": [
+      {
+        "at": "2026-10-18T16:16:20.225622",
+        "action": "ativacao_unlocker_falhou",
+        "source": "discord_bot",
+        "by_id": "1448105223523668173",
+        "by": "fdsnll",
+        "status": "HWID_MISMATCH",
+        "hwid": "12a306320d6d3b6ecb5d5fcdc0798fb422cc0f18b367465b804d8da42518532f"
+      }
     ]
   }
 }
