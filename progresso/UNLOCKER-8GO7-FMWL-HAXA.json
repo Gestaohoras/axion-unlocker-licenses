@@ -15,17 +15,17 @@
       "started_at": "2026-10-18T00:11:46.084618",
       "ends_at": "2026-11-17T00:11:46.084618"
     },
-    "playtime_seconds": 16471,
-    "playtime_updated_at": "2026-10-18T04:58:51.208076",
+    "playtime_seconds": 16531,
+    "playtime_updated_at": "2026-10-18T04:59:51.261222",
     "rewarded": [],
     "current_index": 0,
     "streak_days": 2,
     "last_streak_date": "2026-10-18"
   },
   "created_at": "2026-10-18T00:11:51.136879",
-  "updated_at": "2026-10-18T04:58:51.208076",
+  "updated_at": "2026-10-18T04:59:51.261222",
   "last_error": null,
   "heartbeat_status": "Em andamento",
   "coin_rewards": {},
-  "last_heartbeat_at": "2026-10-18T04:58:51.208076"
+  "last_heartbeat_at": "2026-10-18T04:59:51.261222"
 }
