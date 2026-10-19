@@ -1,18 +1,22 @@
 {
   "license": "UNLOCKER-ETEG-77T3-WI4U",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-11-18T02:49:50.201853",
+  "hwid": "a3a5ff6a658662c23b39fc0a11f43f2b9b60172e45ce55cded75f9daee1e9a52",
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
     "name": "Essencial",
     "weekly_coins": 0,
     "price_brl": 49.9,
-    "started_at": null,
+    "started_at": "2026-10-19T02:49:50.393368",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-19T02:49:50.393368",
+    "missions_anchor_at": "2026-10-19T02:49:50.393368",
     "next_weekly_at": null
-  }
+  },
+  "discord_id": "1470407963842842838",
+  "discord_tag": "johnrambo0827",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-19T02:49:50.393368"
 }
