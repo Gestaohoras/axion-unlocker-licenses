@@ -1557,17 +1557,8 @@
   "cheese_coins": {
     "balance": 36,
     "saldo_atual": 36,
-    "updated_at": "2026-10-18T00:20:32.077777",
+    "updated_at": "2026-10-19T01:18:00.622171",
     "history": [
-      {
-        "at": "2026-10-11T22:49:03.479771",
-        "delta": 400,
-        "before": 170,
-        "after": 570,
-        "reason": "recompensa autom\u00e1tica mensal",
-        "type": "automatic_reward",
-        "cycle_key": "2026-10-11-auto_1791704828"
-      },
       {
         "at": "2026-10-12T17:24:14.933693",
         "delta": -250,
