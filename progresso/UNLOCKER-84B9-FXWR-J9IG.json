@@ -25,19 +25,19 @@
       "started_at": "2026-10-17T14:06:39.687528",
       "ends_at": "2026-11-16T14:06:39.687528"
     },
-    "playtime_seconds": 63951,
-    "playtime_updated_at": "2026-10-19T06:41:24.627425",
+    "playtime_seconds": 64010,
+    "playtime_updated_at": "2026-10-19T06:42:22.267048",
     "rewarded": [],
     "current_index": 0
   },
   "created_at": "2026-10-03T14:07:45.296203",
-  "updated_at": "2026-10-19T06:41:24.627425",
+  "updated_at": "2026-10-19T06:42:22.267048",
   "last_error": null,
   "coin_rewards": {
     "coin_notifications": []
   },
   "heartbeat_status": "Em andamento",
-  "last_heartbeat_at": "2026-10-19T06:41:24.627425",
+  "last_heartbeat_at": "2026-10-19T06:42:22.267048",
   "reset_history": [
     {
       "at": "2026-10-03T14:25:45.420082",
