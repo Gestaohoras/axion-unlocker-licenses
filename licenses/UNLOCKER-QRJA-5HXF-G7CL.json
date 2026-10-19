@@ -23,15 +23,6 @@
   "security": {
     "license_actions": [
       {
-        "at": "2026-10-16T15:06:19.764346",
-        "action": "check_license",
-        "source": "unlocker_client",
-        "result": "normal",
-        "interval_s": 1307.78,
-        "strike_count": 1,
-        "strike_limit": 12
-      },
-      {
         "at": "2026-10-16T15:06:25.941744",
         "action": "check_license",
         "source": "unlocker_client",
@@ -1101,19 +1092,21 @@
         "interval_s": 1252.03,
         "strike_count": 0,
         "strike_limit": 12
+      },
+      {
+        "at": "2026-10-19T04:53:47.049996",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "strike",
+        "interval_s": 2.66,
+        "strike_count": 1,
+        "strike_limit": 12
       }
     ],
     "strike_limit": 12,
-    "last_execution": "2026-10-19T04:53:44.385164",
-    "strikes": 0,
+    "last_execution": "2026-10-19T04:53:47.049996",
+    "strikes": 1,
     "execution_history": [
-      {
-        "timestamp": "2026-10-16T19:49:22.159620",
-        "result": "normal",
-        "interval_s": 658.9,
-        "strike_count": 1,
-        "strike_limit": 12
-      },
       {
         "timestamp": "2026-10-16T19:49:25.353612",
         "result": "strike",
@@ -1666,9 +1659,16 @@
         "interval_s": 1252.03,
         "strike_count": 0,
         "strike_limit": 12
+      },
+      {
+        "timestamp": "2026-10-19T04:53:47.049996",
+        "result": "strike",
+        "interval_s": 2.66,
+        "strike_count": 1,
+        "strike_limit": 12
       }
     ],
-    "last_strike_at": "2026-10-17T19:28:48.998309",
+    "last_strike_at": "2026-10-19T04:53:47.049996",
     "detections": [
       {
         "type": "repeated_execution",
@@ -1975,6 +1975,13 @@
         "type": "repeated_execution",
         "timestamp": "2026-10-17T19:28:48.998309",
         "interval_s": 4.73,
+        "strike_count": 1,
+        "strike_limit": 12
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-10-19T04:53:47.049996",
+        "interval_s": 2.66,
         "strike_count": 1,
         "strike_limit": 12
       }
