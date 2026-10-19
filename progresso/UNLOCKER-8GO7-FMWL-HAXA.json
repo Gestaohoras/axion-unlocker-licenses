@@ -2,9 +2,9 @@
   "license_key": "UNLOCKER-8GO7-FMWL-HAXA",
   "missions": {
     "streak_daily": {
-      "date": "2026-10-19",
-      "seconds": 3600,
-      "completed": true
+      "date": "2026-10-18",
+      "seconds": 0,
+      "completed": false
     },
     "cycle": {
       "key": "2026-10-18T00:11:46.084618:30:0",
@@ -19,13 +19,15 @@
     "playtime_updated_at": "2026-10-19T03:59:45.755785",
     "rewarded": [],
     "current_index": 0,
-    "streak_days": 3,
-    "last_streak_date": "2026-10-19"
+    "streak_days": 0,
+    "last_streak_date": null,
+    "streak_reset_at": "2026-10-19T03:59:49.313666",
+    "streak_reset_reason": "daily_miss"
   },
   "created_at": "2026-10-18T00:11:51.136879",
-  "updated_at": "2026-10-19T03:59:45.755785",
+  "updated_at": "2026-10-19T03:59:49.922147",
   "last_error": null,
-  "heartbeat_status": "Em andamento",
+  "heartbeat_status": "Mantenha a Streak",
   "coin_rewards": {},
   "last_heartbeat_at": "2026-10-19T03:59:45.755785"
 }
