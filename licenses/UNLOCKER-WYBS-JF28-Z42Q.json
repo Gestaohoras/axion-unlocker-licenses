@@ -206,6 +206,15 @@
         "by": "fdsnll",
         "produto": "Queijaria Unlocker",
         "hwid": "12a306320d6d3b6ecb5d5fcdc0798fb422cc0f18b367465b804d8da42518532f"
+      },
+      {
+        "at": "2026-10-20T23:53:14.148946",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1448105223523668173",
+        "by": "fdsnll",
+        "produto": "Queijaria Unlocker",
+        "hwid": "12a306320d6d3b6ecb5d5fcdc0798fb422cc0f18b367465b804d8da42518532f"
       }
     ]
   },
