@@ -2,9 +2,9 @@
   "license_key": "UNLOCKER-VQ31-H7TG-G5IJ",
   "missions": {
     "streak_daily": {
-      "date": "2026-10-19",
-      "seconds": 3629,
-      "completed": true
+      "date": "2026-10-20",
+      "seconds": 0,
+      "completed": false
     },
     "streak_days": 2,
     "last_streak_date": "2026-10-19",
@@ -25,9 +25,9 @@
     "current_index": 0
   },
   "created_at": "2026-10-16T03:52:42.026574",
-  "updated_at": "2026-10-19T13:42:32.962070",
+  "updated_at": "2026-10-20T07:48:53.181186",
   "last_error": null,
-  "heartbeat_status": "Em andamento",
+  "heartbeat_status": "Mantenha a Streak",
   "coin_rewards": {},
   "last_heartbeat_at": "2026-10-19T13:42:32.962070"
 }
