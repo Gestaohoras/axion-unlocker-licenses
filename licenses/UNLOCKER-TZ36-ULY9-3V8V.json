@@ -1,18 +1,22 @@
 {
   "license": "UNLOCKER-TZ36-ULY9-3V8V",
   "status": "active",
-  "expires": "pending:7",
-  "hwid": null,
+  "expires": "2026-10-27T00:23:38.630727",
+  "hwid": "e10a04ca4e5bfa95001248af03b21616917727200233aef7b29209e780c61d13",
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
     "name": "Essencial",
     "weekly_coins": 0,
     "price_brl": 49.9,
-    "started_at": null,
+    "started_at": "2026-10-20T00:23:38.808066",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-20T00:23:38.808066",
+    "missions_anchor_at": "2026-10-20T00:23:38.808066",
     "next_weekly_at": null
-  }
+  },
+  "discord_id": "1300967735081046079",
+  "discord_tag": "lukasbonifacio1",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-20T00:23:38.808066"
 }
