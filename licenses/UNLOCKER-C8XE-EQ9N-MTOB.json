@@ -29,6 +29,15 @@
         "by": "gabriellilbieber",
         "produto": "Queijaria Unlocker",
         "hwid": "20505ca2bc0c590cccd240c9255443b0fd3b2dd388525bc3911e6464cacac8cb"
+      },
+      {
+        "at": "2026-10-21T04:35:25.328087",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "601158466274590726",
+        "by": "gabriellilbieber",
+        "produto": "Queijaria Unlocker",
+        "hwid": "540227b37986d2904556e86bcd320bac58abb7012328afe3cb92d2ae0b139221"
       }
     ],
     "strike_limit": 5,
