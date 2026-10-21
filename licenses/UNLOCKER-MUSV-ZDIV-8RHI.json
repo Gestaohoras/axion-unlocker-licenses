@@ -18,5 +18,18 @@
   "discord_id": "1260997568175935601",
   "discord_tag": "oisouvolite",
   "last_hwid_reset": null,
-  "activated_at": "2026-10-21T20:04:10.250651"
+  "activated_at": "2026-10-21T20:04:10.250651",
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-21T20:04:11.480902",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1260997568175935601",
+        "by": "oisouvolite",
+        "produto": "Queijaria Unlocker",
+        "hwid": "cd781f5fba57e8288e6bf5a9b7366dc5c080631df6accdf34afb47aea27cd473"
+      }
+    ]
+  }
 }
