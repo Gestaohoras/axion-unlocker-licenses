@@ -1,0 +1,18 @@
+{
+  "license": "UNLOCKER-C8XE-EQ9N-MTOB",
+  "status": "active",
+  "expires": "pending:30",
+  "hwid": null,
+  "subscription_plan": "essencial",
+  "subscription": {
+    "plan": "essencial",
+    "name": "Essencial",
+    "weekly_coins": 0,
+    "price_brl": 49.9,
+    "started_at": null,
+    "schedule_version": 2,
+    "schedule_anchor_at": null,
+    "missions_anchor_at": null,
+    "next_weekly_at": null
+  }
+}
