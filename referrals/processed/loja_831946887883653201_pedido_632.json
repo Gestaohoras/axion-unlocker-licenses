@@ -1,0 +1,22 @@
+{
+  "event_id": "loja_831946887883653201_pedido_632",
+  "action": "grant",
+  "guild_id": "831946887883653201",
+  "order_id": "632",
+  "buyer_discord_id": "1461236976845062227",
+  "referral_code": "QUE-CAUV",
+  "order_value": 50.0,
+  "product_id": "UNL-VVWNZJ",
+  "product_type": "unlocker",
+  "product_name": "<:logo:1523380867467182150> Queijaria Unlocker",
+  "attendant_id": "768236963580477460",
+  "commission_channel_id": "1562467056287350834",
+  "opened_at": "21/10/2026 12:01",
+  "is_first_purchase": false,
+  "completed_at": "2026-10-21T12:01:58.564794-03:00",
+  "status": "processed",
+  "referrer_discord_id": "768236963580477460",
+  "license_key": "UNLOCKER-84B9-FXWR-J9IG",
+  "reward_amount": 30,
+  "processed_at": "2026-10-21T15:02:09.227551Z"
+}
