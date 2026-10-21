@@ -32,7 +32,15 @@
       }
     ],
     "strike_limit": 4,
-    "last_execution": "2026-10-21T20:04:56.886682",
-    "strikes": 0
+    "last_execution": "2026-10-21T20:05:03.321230",
+    "strikes": 1,
+    "last_strike_at": "2026-10-21T20:05:03.321230",
+    "detections": [
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-10-21T20:05:03.321230",
+        "interval_s": 6.43
+      }
+    ]
   }
 }
