@@ -2,13 +2,13 @@
   "license_key": "UNLOCKER-JZI8-NCWY-BMK3",
   "missions": {
     "streak_daily": {
-      "date": "2026-10-17",
-      "seconds": 3629,
-      "completed": true
+      "date": "2026-10-21",
+      "seconds": 0,
+      "completed": false
     },
-    "streak_days": 1,
-    "last_streak_date": "2026-10-17",
-    "streak_reset_at": "2026-10-17T12:09:21.679709",
+    "streak_days": 0,
+    "last_streak_date": null,
+    "streak_reset_at": "2026-10-21T04:27:35.214637",
     "streak_reset_reason": "daily_miss",
     "cycle": {
       "key": "2026-10-21T04:27:30.368398:30:0",
@@ -21,7 +21,7 @@
     }
   },
   "created_at": "2026-10-08T01:01:14.589293",
-  "updated_at": "2026-10-21T04:27:33.727697",
+  "updated_at": "2026-10-21T04:27:35.649827",
   "last_error": null,
   "coin_rewards": {
     "coin_notifications": [
@@ -45,6 +45,6 @@
       }
     ]
   },
-  "heartbeat_status": "Novo ciclo de miss\u00f5es",
+  "heartbeat_status": "Mantenha a Streak",
   "last_heartbeat_at": "2026-10-17T21:28:46.638781"
 }
