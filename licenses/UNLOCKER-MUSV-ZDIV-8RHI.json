@@ -30,6 +30,9 @@
         "produto": "Queijaria Unlocker",
         "hwid": "cd781f5fba57e8288e6bf5a9b7366dc5c080631df6accdf34afb47aea27cd473"
       }
-    ]
+    ],
+    "strike_limit": 4,
+    "last_execution": "2026-10-21T20:04:56.886682",
+    "strikes": 0
   }
 }
