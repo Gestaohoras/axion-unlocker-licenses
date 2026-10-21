@@ -2,7 +2,7 @@
   "license": "UNLOCKER-C8XE-EQ9N-MTOB",
   "status": "active",
   "expires": "2026-11-20T01:27:37.464197",
-  "hwid": "20505ca2bc0c590cccd240c9255443b0fd3b2dd388525bc3911e6464cacac8cb",
+  "hwid": null,
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
@@ -17,7 +17,7 @@
   },
   "discord_id": "601158466274590726",
   "discord_tag": "gabriellilbieber",
-  "last_hwid_reset": null,
+  "last_hwid_reset": "2026-10-21T04:35:10.741644",
   "activated_at": "2026-10-21T01:27:37.638351",
   "security": {
     "license_actions": [
