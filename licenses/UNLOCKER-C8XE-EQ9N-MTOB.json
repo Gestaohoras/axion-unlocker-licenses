@@ -1,18 +1,22 @@
 {
   "license": "UNLOCKER-C8XE-EQ9N-MTOB",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-11-20T01:27:37.464197",
+  "hwid": "20505ca2bc0c590cccd240c9255443b0fd3b2dd388525bc3911e6464cacac8cb",
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
     "name": "Essencial",
     "weekly_coins": 0,
     "price_brl": 49.9,
-    "started_at": null,
+    "started_at": "2026-10-21T01:27:37.638351",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-21T01:27:37.638351",
+    "missions_anchor_at": "2026-10-21T01:27:37.638351",
     "next_weekly_at": null
-  }
+  },
+  "discord_id": "601158466274590726",
+  "discord_tag": "gabriellilbieber",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-21T01:27:37.638351"
 }
