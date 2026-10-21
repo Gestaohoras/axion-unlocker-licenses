@@ -1,18 +1,22 @@
 {
   "license": "UNLOCKER-MUSV-ZDIV-8RHI",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-11-20T20:04:10.010497",
+  "hwid": "cd781f5fba57e8288e6bf5a9b7366dc5c080631df6accdf34afb47aea27cd473",
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
     "name": "Essencial",
     "weekly_coins": 0,
     "price_brl": 49.9,
-    "started_at": null,
+    "started_at": "2026-10-21T20:04:10.250651",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-21T20:04:10.250651",
+    "missions_anchor_at": "2026-10-21T20:04:10.250651",
     "next_weekly_at": null
-  }
+  },
+  "discord_id": "1260997568175935601",
+  "discord_tag": "oisouvolite",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-21T20:04:10.250651"
 }
