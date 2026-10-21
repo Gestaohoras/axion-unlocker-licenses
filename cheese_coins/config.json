@@ -2,7 +2,7 @@
   "coin_name": "Cheese Coins",
   "prestige_cost_per_level": 2,
   "periodic_reward": {
-    "enabled": true,
+    "enabled": false,
     "amount": 400,
     "expires_on_next_cycle": true,
     "period": "monthly",
@@ -12,5 +12,17 @@
     "reward_id": "auto_1791704828",
     "updated_at": "2026-10-11T04:47:08.287106"
   },
-  "updated_at": "2026-10-11T04:47:08.287116"
+  "subscription_plans": {
+    "enabled": true,
+    "accumulate_weekly": true,
+    "schedule": "activation_anchor",
+    "interval_days": 7
+  },
+  "referrals": {
+    "enabled": true,
+    "reward_amount": 30,
+    "first_purchase_only": false,
+    "minimum_order_value": 50.0
+  },
+  "updated_at": "2026-10-21T13:51:53.047419"
 }
