@@ -1594,9 +1594,9 @@
     ]
   },
   "cheese_coins": {
-    "balance": 392,
-    "saldo_atual": 392,
-    "updated_at": "2026-10-19T10:30:28.457502",
+    "balance": 422,
+    "saldo_atual": 422,
+    "updated_at": "2026-10-22T16:52:28.421372",
     "automatic_reward": {
       "cycle_key": "2026-10-11-auto_1791704828",
       "amount": 400,
@@ -1640,6 +1640,13 @@
         "before": 394,
         "after": 392,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-22T16:52:28.421372",
+        "delta": 30,
+        "before": 392,
+        "after": 422,
+        "reason": "indica\u00e7\u00e3o aprovada \u2014 pedido 635 [ref:loja_831946887883653201_pedido_635]"
       }
     ],
     "coin_notifications": [
@@ -1656,8 +1663,20 @@
         "announced_at": "2026-10-16T03:52:36.160078",
         "date": "2026-10-16T03:52:36.160078",
         "page_key": "licenca"
+      },
+      {
+        "id": "coin_auto_UNLOCKER-VQ31-H7TG-G5IJ_20261022165228421411",
+        "titulo": "Recompensa recebida! \ud83e\uddc0",
+        "descricao": "+30 Cheese Coins recebidos automaticamente.",
+        "tag": "Recompensa",
+        "tag_color": "#F5C542",
+        "notification": true,
+        "announced_at": "2026-10-22T16:52:28.421372",
+        "page_key": "licenca"
       }
-    ]
+    ],
+    "purchased_balance": 422,
+    "recurring_balance": 0
   },
   "missions": {
     "spending_challenges": {
