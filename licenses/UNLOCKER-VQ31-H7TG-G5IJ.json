@@ -1616,36 +1616,8 @@
     "saldo_atual": 0,
     "purchased_balance": 0,
     "recurring_balance": 0,
-    "updated_at": "2026-10-23T04:31:13.937443",
+    "updated_at": "2026-10-23T05:28:13.899962",
     "history": [
-      {
-        "at": "2026-10-16T05:21:20.588934",
-        "delta": -2,
-        "before": 400,
-        "after": 398,
-        "reason": "prestige inject"
-      },
-      {
-        "at": "2026-10-16T05:21:32.647100",
-        "delta": -2,
-        "before": 398,
-        "after": 396,
-        "reason": "prestige inject"
-      },
-      {
-        "at": "2026-10-16T05:21:45.777622",
-        "delta": -2,
-        "before": 396,
-        "after": 394,
-        "reason": "prestige inject"
-      },
-      {
-        "at": "2026-10-16T05:21:58.955273",
-        "delta": -2,
-        "before": 394,
-        "after": 392,
-        "reason": "prestige inject"
-      },
       {
         "at": "2026-10-22T16:52:28.421372",
         "delta": 30,
