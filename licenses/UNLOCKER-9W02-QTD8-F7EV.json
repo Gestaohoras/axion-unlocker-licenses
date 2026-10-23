@@ -5,5 +5,23 @@
   "hwid": "1aed0dcbfce36d2d0bf291a28989ce2bec7e82681c6d9b0d57d1c637b35b8db8",
   "discord_id": "829543633018945536",
   "discord_tag": "yuki.one",
-  "last_hwid_reset": "2026-06-21T02:54:50.573827"
+  "last_hwid_reset": "2026-06-21T02:54:50.573827",
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:48:28.223013",
+    "history": [
+      {
+        "at": "2026-10-23T00:48:28.223013",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
