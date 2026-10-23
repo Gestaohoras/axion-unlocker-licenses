@@ -5,5 +5,23 @@
   "hwid": "9cd426d495b780bfe4404bfd4bef498aee23f2c4f153cefdae38af014f370ba8",
   "discord_id": "757594957124206663",
   "discord_tag": "vixnuu",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:45:08.860098",
+    "history": [
+      {
+        "at": "2026-10-23T00:45:08.860098",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
