@@ -2,5 +2,23 @@
   "license": "UNLOCKER-IZCO-4BFJ-EM09",
   "status": "revoked",
   "expires": "2026-10-22T10:58:03.704369",
-  "hwid": "befdd8442d552a29152703dfca5a5d64b0e2066e9e0d55a44e4600226e8612a9"
+  "hwid": "befdd8442d552a29152703dfca5a5d64b0e2066e9e0d55a44e4600226e8612a9",
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:48:28.223013",
+    "history": [
+      {
+        "at": "2026-10-23T00:48:28.223013",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
