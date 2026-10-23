@@ -5,5 +5,23 @@
   "hwid": "3c2b5e2af8fb645706a776c8a769db7a7f6dd93af57416ee474065eb16a90a8a",
   "discord_id": "867133975922606081",
   "discord_tag": "errei_ds",
-  "last_hwid_reset": "2026-09-04T01:13:07.480904"
+  "last_hwid_reset": "2026-09-04T01:13:07.480904",
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:48:28.223013",
+    "history": [
+      {
+        "at": "2026-10-23T00:48:28.223013",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
