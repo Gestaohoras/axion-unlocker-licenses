@@ -5,5 +5,23 @@
   "hwid": "dfe0d6a287b4bb5461345939150672de47e61b7819113b80a8513a999072688b",
   "discord_id": "1075435679330345101",
   "discord_tag": "xandinhobit",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:45:08.860098",
+    "history": [
+      {
+        "at": "2026-10-23T00:45:08.860098",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
