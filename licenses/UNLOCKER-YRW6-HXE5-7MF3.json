@@ -5,5 +5,23 @@
   "hwid": "53d6b338bc0c49703f7ab7687617f4582d6137556de2f8fbe216863de5d0efcb",
   "discord_id": "1340078587524419676",
   "discord_tag": "samu_prime__12562",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:45:08.860098",
+    "history": [
+      {
+        "at": "2026-10-23T00:45:08.860098",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
