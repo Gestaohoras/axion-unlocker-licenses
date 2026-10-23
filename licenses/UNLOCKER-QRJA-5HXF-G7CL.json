@@ -2026,11 +2026,11 @@
     ]
   },
   "cheese_coins": {
-    "balance": 4000,
-    "saldo_atual": 4000,
-    "updated_at": "2026-10-17T15:18:04.610063",
+    "balance": 0,
+    "saldo_atual": 0,
     "purchased_balance": 0,
-    "recurring_balance": 4000,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:48:28.223013",
     "history": [
       {
         "at": "2026-10-16T20:57:09.171606",
@@ -2067,51 +2067,16 @@
         "reason": "cota semanal do plano legacy",
         "type": "subscription_weekly",
         "cycle_key": "legacy:2026-10-17T13:45:13.698527:0"
-      }
-    ],
-    "coin_notifications": [
-      {
-        "id": "subscription-weekly-legacy:2026-10-16T12:45:06.623021:0",
-        "type": "subscription_weekly",
-        "notification": true,
-        "title": "Coins semanais do plano",
-        "titulo": "Coins semanais do plano",
-        "descricao": "1000 Cheese Coins do plano Legacy foram adicionados.",
-        "tag": "Cheese Coins",
-        "amount": 1000,
-        "created_at": "2026-10-16T20:57:09.172604",
-        "announced_at": "2026-10-16T20:57:09.172604",
-        "date": "2026-10-16T20:57:09.172604",
-        "page_key": "licenca"
       },
       {
-        "id": "subscription-weekly-legacy:2026-10-17T13:45:13.698527:0",
-        "type": "subscription_weekly",
-        "notification": true,
-        "title": "Coins semanais do plano",
-        "titulo": "Coins semanais do plano",
-        "descricao": "1000 Cheese Coins do plano Legacy foram adicionados.",
-        "tag": "Cheese Coins",
-        "amount": 1000,
-        "created_at": "2026-10-17T13:45:13.699526",
-        "announced_at": "2026-10-17T13:45:13.699526",
-        "date": "2026-10-17T13:45:13.699526",
-        "page_key": "licenca"
+        "at": "2026-10-23T00:48:28.223013",
+        "delta": -4000,
+        "before": 4000,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
       }
     ],
-    "subscription_weekly": {
-      "cycle_key": "legacy:2026-10-17T13:45:13.698527:0",
-      "schedule": "activation_anchor",
-      "plan": "legacy",
-      "anchor_at": "2026-10-17T13:45:13.698527",
-      "cycle_index": 0,
-      "interval_days": 7,
-      "reward_at": "2026-10-17T13:45:13.698527",
-      "amount": 1000,
-      "granted_amount": 1000,
-      "remaining": 4000,
-      "granted_at": "2026-10-17T15:18:04.610063",
-      "next_at": "2026-10-24T13:45:13.698527"
-    }
-  }
+    "coin_notifications": []
+  },
+  "missions": {}
 }
