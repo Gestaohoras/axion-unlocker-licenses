@@ -1555,9 +1555,11 @@
     ]
   },
   "cheese_coins": {
-    "balance": 36,
-    "saldo_atual": 36,
-    "updated_at": "2026-10-19T01:18:00.622171",
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:48:28.223013",
     "history": [
       {
         "at": "2026-10-12T17:24:14.933693",
@@ -1866,99 +1868,18 @@
         "before": 38,
         "after": 36,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-23T00:48:28.223013",
+        "delta": -36,
+        "before": 36,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
       }
     ],
-    "coin_notifications": [
-      {
-        "id": "coin_admin_UNLOCKER-K1N8-K6CJ-KUWS_20261003194610214436",
-        "titulo": "Ajuste de saldo realizado",
-        "descricao": "Saldo +100 Cheese Coins. Comprado. Realizado por um administrador.",
-        "tag": "Update Cheese Coins",
-        "tag_color": "#1E90FF",
-        "notification": true,
-        "announced_at": "2026-10-03T19:46:10.214396",
-        "page_key": "licenca"
-      },
-      {
-        "id": "coin_admin_UNLOCKER-K1N8-K6CJ-KUWS_20261003195102301027",
-        "titulo": "Ajuste de saldo realizado",
-        "descricao": "Saldo +50 Cheese Coins. Pr\u00eamio. Realizado por um administrador.",
-        "tag": "Update Cheese Coins",
-        "tag_color": "#1E90FF",
-        "notification": true,
-        "announced_at": "2026-10-03T19:51:02.301011",
-        "page_key": "licenca"
-      },
-      {
-        "id": "coin_admin_UNLOCKER-K1N8-K6CJ-KUWS_20261005151504309667",
-        "titulo": "Ajuste de saldo realizado",
-        "descricao": "Saldo +20 Cheese Coins. Pr\u00eamio. Realizado por um administrador.",
-        "tag": "Update Cheese Coins",
-        "tag_color": "#1E90FF",
-        "notification": true,
-        "announced_at": "2026-10-05T15:15:04.309624",
-        "page_key": "licenca"
-      },
-      {
-        "id": "auto-reward-2026-10-11-auto_1791704828",
-        "type": "automatic_reward",
-        "notification": true,
-        "title": "Recompensa autom\u00e1tica",
-        "titulo": "Recompensa autom\u00e1tica",
-        "descricao": "400 Cheese Coins foram adicionados ao seu saldo.",
-        "tag": "Cheese Coins",
-        "amount": 400,
-        "created_at": "2026-10-11T22:49:03.479771",
-        "announced_at": "2026-10-11T22:49:03.479771",
-        "date": "2026-10-11T22:49:03.479771",
-        "page_key": "licenca"
-      },
-      {
-        "id": "coin_admin_UNLOCKER-K1N8-K6CJ-KUWS_20261012172414933709",
-        "titulo": "Ajuste de saldo realizado",
-        "descricao": "Saldo -250 Cheese Coins. Teste. Realizado por um administrador.",
-        "tag": "Update Cheese Coins",
-        "tag_color": "#1E90FF",
-        "notification": true,
-        "announced_at": "2026-10-12T17:24:14.933693",
-        "page_key": "licenca"
-      },
-      {
-        "id": "coin_admin_UNLOCKER-K1N8-K6CJ-KUWS_20261012172509161510",
-        "titulo": "Ajuste de saldo realizado",
-        "descricao": "Saldo -200 Cheese Coins. Teste. Realizado por um administrador.",
-        "tag": "Update Cheese Coins",
-        "tag_color": "#1E90FF",
-        "notification": true,
-        "announced_at": "2026-10-12T17:25:09.161483",
-        "page_key": "licenca"
-      }
-    ],
-    "automatic_reward": {
-      "cycle_key": "2026-10-11-auto_1791704828",
-      "amount": 400,
-      "remaining": 316,
-      "granted_at": "2026-10-11T22:49:03.479771"
-    }
+    "coin_notifications": []
   },
-  "missions": {
-    "spending_challenges": {
-      "challenge_1791760679": {
-        "spent": 84,
-        "rewarded": false,
-        "started_at": "2026-10-12T17:29:45.417091",
-        "ends_at": null,
-        "tier_index": 0,
-        "updated_at": "2026-10-12T17:42:33.029443",
-        "completed": false,
-        "rewarded_at": null,
-        "target_coins": 200,
-        "reward_percent": 10
-      }
-    },
-    "monthly_spent": 84,
-    "spent_updated_at": "2026-10-12T17:42:33.029443"
-  },
+  "missions": {},
   "subscription": {
     "schedule_version": 2,
     "schedule_anchor_at": "2026-10-18T00:20:32.077777",
