@@ -2,5 +2,23 @@
   "license": "UNLOCKER-3G3A-VMDR-5JO0",
   "status": "revoked",
   "expires": "lifetime",
-  "hwid": "30d3941eb06bef32383414b7251d7d768b89a79d2712e014a4b75d7b47d08b90"
+  "hwid": "30d3941eb06bef32383414b7251d7d768b89a79d2712e014a4b75d7b47d08b90",
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:48:28.223013",
+    "history": [
+      {
+        "at": "2026-10-23T00:48:28.223013",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
