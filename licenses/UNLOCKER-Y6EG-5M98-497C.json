@@ -21,11 +21,11 @@
     ]
   },
   "cheese_coins": {
-    "balance": 30,
-    "saldo_atual": 30,
-    "updated_at": "2026-10-21T14:34:55.969818",
-    "purchased_balance": 30,
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
     "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:45:08.860098",
     "history": [
       {
         "at": "2026-10-21T14:34:55.969818",
@@ -33,19 +33,16 @@
         "before": 0,
         "after": 30,
         "reason": "indica\u00e7\u00e3o aprovada \u2014 pedido 631 [ref:loja_831946887883653201_pedido_631]"
+      },
+      {
+        "at": "2026-10-23T00:45:08.860098",
+        "delta": -30,
+        "before": 30,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
       }
     ],
-    "coin_notifications": [
-      {
-        "id": "coin_auto_UNLOCKER-Y6EG-5M98-497C_20261021143455969849",
-        "titulo": "Recompensa recebida! \ud83e\uddc0",
-        "descricao": "+30 Cheese Coins recebidos automaticamente.",
-        "tag": "Recompensa",
-        "tag_color": "#F5C542",
-        "notification": true,
-        "announced_at": "2026-10-21T14:34:55.969818",
-        "page_key": "licenca"
-      }
-    ]
-  }
+    "coin_notifications": []
+  },
+  "missions": {}
 }
