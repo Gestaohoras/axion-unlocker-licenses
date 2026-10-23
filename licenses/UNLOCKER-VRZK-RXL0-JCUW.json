@@ -5,5 +5,23 @@
   "hwid": "186c0f34a858c534cca66f2a085f1e84bfe611d80d3666eee558a6d516d88b92",
   "discord_id": "912855688219340820",
   "discord_tag": "jair_rpzin",
-  "last_hwid_reset": "2026-09-02T22:20:28.691363"
+  "last_hwid_reset": "2026-09-02T22:20:28.691363",
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:45:08.860098",
+    "history": [
+      {
+        "at": "2026-10-23T00:45:08.860098",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
