@@ -5,5 +5,23 @@
   "hwid": "4db14fdb8f14a2fcd78efc16520de593c9715f65286be951c82a579f9c39d072",
   "discord_id": "718963094142976091",
   "discord_tag": "bududinha",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:48:28.223013",
+    "history": [
+      {
+        "at": "2026-10-23T00:48:28.223013",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
