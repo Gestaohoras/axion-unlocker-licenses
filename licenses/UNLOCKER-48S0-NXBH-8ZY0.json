@@ -5,5 +5,23 @@
   "hwid": "30d3941eb06bef32383414b7251d7d768b89a79d2712e014a4b75d7b47d08b90",
   "discord_id": "768236963580477460",
   "discord_tag": "trollingparty",
-  "last_hwid_reset": "2026-06-04T19:22:37.747021"
+  "last_hwid_reset": "2026-06-04T19:22:37.747021",
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:45:08.860098",
+    "history": [
+      {
+        "at": "2026-10-23T00:45:08.860098",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
