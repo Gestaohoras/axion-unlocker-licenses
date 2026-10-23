@@ -5,5 +5,23 @@
   "hwid": "bee53f2b05581a2f2477cee06b3ba5d69ceb7a21663082584ca6ea505049affb",
   "discord_id": "430143049071460362",
   "discord_tag": "blackyedz",
-  "last_hwid_reset": "2026-08-28T18:13:16.392101"
+  "last_hwid_reset": "2026-08-28T18:13:16.392101",
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:48:28.223013",
+    "history": [
+      {
+        "at": "2026-10-23T00:48:28.223013",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
