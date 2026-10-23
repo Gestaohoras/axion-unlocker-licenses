@@ -1616,17 +1616,8 @@
     "saldo_atual": 0,
     "purchased_balance": 0,
     "recurring_balance": 0,
-    "updated_at": "2026-10-23T00:48:28.223013",
+    "updated_at": "2026-10-23T04:31:13.937443",
     "history": [
-      {
-        "at": "2026-10-16T03:52:36.160078",
-        "delta": 400,
-        "before": 0,
-        "after": 400,
-        "reason": "recompensa autom\u00e1tica mensal",
-        "type": "automatic_reward",
-        "cycle_key": "2026-10-11-auto_1791704828"
-      },
       {
         "at": "2026-10-16T05:21:20.588934",
         "delta": -2,
