@@ -13,8 +13,8 @@
     "playtime_seconds": 1320,
     "playtime_updated_at": "2026-10-23T01:11:22.711663",
     "streak_daily": {
-      "date": "2026-10-22",
-      "seconds": 1320,
+      "date": "2026-10-23",
+      "seconds": 0,
       "completed": false
     },
     "rewarded": [],
@@ -22,8 +22,8 @@
   },
   "coin_rewards": {},
   "created_at": "2026-10-08T01:01:14.589293",
-  "updated_at": "2026-10-23T01:11:22.711663",
-  "heartbeat_status": "Em andamento",
+  "updated_at": "2026-10-23T22:26:11.118893",
+  "heartbeat_status": "Mantenha a Streak",
   "last_error": null,
   "reset_history": [
     {
