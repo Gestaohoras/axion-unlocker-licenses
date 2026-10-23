@@ -5,5 +5,23 @@
   "hwid": "1f22422cd7df64e01b5243c058b37ff501735af0791484a2136402312b235d94",
   "discord_id": "1081043824874373190",
   "discord_tag": "zorobebas",
-  "last_hwid_reset": "2026-07-11T06:58:17.777883"
+  "last_hwid_reset": "2026-07-11T06:58:17.777883",
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:45:08.860098",
+    "history": [
+      {
+        "at": "2026-10-23T00:45:08.860098",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
