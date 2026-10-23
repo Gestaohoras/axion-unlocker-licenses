@@ -1,56 +1,17 @@
 {
   "license_key": "UNLOCKER-VQ31-H7TG-G5IJ",
-  "missions": {
-    "streak_daily": {
-      "date": "2026-10-22",
-      "seconds": 3600,
-      "completed": true
-    },
-    "streak_days": 5,
-    "last_streak_date": "2026-10-22",
-    "streak_reset_at": "2026-10-18T10:46:16.105374",
-    "streak_reset_reason": "daily_miss",
-    "cycle": {
-      "key": "2026-10-19T10:30:28.457502:30:0",
-      "model_version": 2,
-      "index": 0,
-      "duration_days": 30,
-      "anchor_at": "2026-10-19T10:30:28.457502",
-      "started_at": "2026-10-19T10:30:28.457502",
-      "ends_at": "2026-11-18T10:30:28.457502"
-    },
-    "playtime_seconds": 73948,
-    "playtime_updated_at": "2026-10-22T11:11:13.750190",
-    "rewarded": [
-      "play_20261017172747175818"
-    ],
-    "current_index": 1
-  },
+  "missions": {},
+  "coin_rewards": {},
   "created_at": "2026-10-16T03:52:42.026574",
-  "updated_at": "2026-10-22T11:11:13.750190",
+  "updated_at": "2026-10-23T00:48:28.223013",
+  "heartbeat_status": "Resetado",
   "last_error": null,
-  "heartbeat_status": "Em andamento",
-  "coin_rewards": {
-    "coin_notifications": [
-      {
-        "id": "mission-2026-10-19T10:30:28.457502:30:0-play_20261017172747175818",
-        "type": "mission_reward",
-        "notification": true,
-        "title": "Miss\u00e3o conclu\u00edda",
-        "titulo": "Miss\u00e3o conclu\u00edda",
-        "descricao": "Jogue 20 horas: 2 Cheese Coins dispon\u00edveis para resgatar.",
-        "tag": "Recompensa",
-        "amount": 2,
-        "created_at": "2026-10-22T10:39:13.694387",
-        "announced_at": "2026-10-22T10:39:13.694387",
-        "date": "2026-10-22T10:39:13.694387",
-        "page_key": "licenca",
-        "tag_color": "#F5C542",
-        "claimable": true,
-        "claimed": false,
-        "reason": "recompensa miss\u00e3o: Jogue 20 horas"
-      }
-    ]
-  },
-  "last_heartbeat_at": "2026-10-22T11:11:13.750190"
+  "reset_history": [
+    {
+      "at": "2026-10-23T00:48:28.223013",
+      "scope": "all",
+      "reason": "reset geral",
+      "by": "trollingparty"
+    }
+  ]
 }
