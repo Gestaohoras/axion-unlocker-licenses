@@ -5,5 +5,23 @@
   "hwid": "d3358cb9fffdd0aefb8aafdd92291ba073e669c5d33e5a05ab13eddd4ba8e7fa",
   "discord_id": "445794984508260363",
   "discord_tag": "berinaldusnobers",
-  "last_hwid_reset": "2026-06-30T23:10:38.087333"
+  "last_hwid_reset": "2026-06-30T23:10:38.087333",
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:45:08.860098",
+    "history": [
+      {
+        "at": "2026-10-23T00:45:08.860098",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
