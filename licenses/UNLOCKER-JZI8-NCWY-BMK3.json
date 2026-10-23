@@ -61,92 +61,23 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 426,
-    "saldo_atual": 426,
-    "updated_at": "2026-10-21T04:27:30.368398",
-    "history": [],
-    "coin_notifications": [
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:45:08.860098",
+    "history": [
       {
-        "id": "coin_purchase_UNLOCKER-JZI8-NCWY-BMK3_20261007163327297240",
-        "titulo": "Compra realizada",
-        "descricao": "+100 Cheese Coins. Compra realizada",
-        "tag": "Update Cheese Coins",
-        "tag_color": "#1E90FF",
-        "notification": true,
-        "type": "purchase",
-        "amount": 100,
-        "announced_at": "2026-10-07T16:33:27.297204",
-        "page_key": "licenca"
-      },
-      {
-        "id": "coin_purchase_UNLOCKER-JZI8-NCWY-BMK3_20261007163933041255",
-        "titulo": "Compra realizada",
-        "descricao": "+100 Cheese Coins. Compra realizada",
-        "tag": "Update Cheese Coins",
-        "tag_color": "#1E90FF",
-        "notification": true,
-        "type": "purchase",
-        "amount": 100,
-        "announced_at": "2026-10-07T16:39:33.041230",
-        "page_key": "licenca"
-      },
-      {
-        "id": "challenge-challenge_1791392409-2026-10-07T17:01:30.538509",
-        "type": "challenge_reward",
-        "notification": true,
-        "title": "Desafio conclu\u00eddo",
-        "titulo": "Desafio conclu\u00eddo",
-        "descricao": "Voc\u00ea completou o desafio: 5 Cheese Coins dispon\u00edveis para resgatar.",
-        "tag": "Recompensa",
-        "amount": 5,
-        "created_at": "2026-10-07T17:01:30.538509",
-        "announced_at": "2026-10-07T17:01:30.538509",
-        "date": "2026-10-07T17:01:30.538509",
-        "page_key": "licenca",
-        "tag_color": "#F5C542",
-        "claimable": true,
-        "claimed": false,
-        "reason": "recompensa desafio: Gaste 50 Cheese Coins"
-      },
-      {
-        "id": "auto-reward-2026-10-11-auto_1791704828",
-        "type": "automatic_reward",
-        "notification": true,
-        "title": "Recompensa autom\u00e1tica",
-        "titulo": "Recompensa autom\u00e1tica",
-        "descricao": "400 Cheese Coins foram adicionados ao seu saldo.",
-        "tag": "Cheese Coins",
-        "amount": 400,
-        "created_at": "2026-10-14T02:19:53.073515",
-        "announced_at": "2026-10-14T02:19:53.073515",
-        "date": "2026-10-14T02:19:53.073515",
-        "page_key": "licenca"
+        "at": "2026-10-23T00:45:08.860098",
+        "delta": -426,
+        "before": 426,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
       }
     ],
-    "automatic_reward": {
-      "cycle_key": "2026-10-11-auto_1791704828",
-      "amount": 400,
-      "remaining": 400,
-      "granted_at": "2026-10-14T02:19:53.073515"
-    }
+    "coin_notifications": []
   },
-  "missions": {
-    "spending_challenges": {
-      "challenge_1791392409": {
-        "spent": 50,
-        "rewarded": true,
-        "started_at": "2026-10-07T14:00:09.538151",
-        "ends_at": "2026-10-10T02:59:59",
-        "updated_at": "2026-10-07T17:01:30.538509",
-        "target_coins": 50,
-        "reward_percent": 10,
-        "rewarded_at": "2026-10-07T17:01:30.538509",
-        "reward": 5
-      }
-    },
-    "monthly_spent": 174,
-    "spent_updated_at": "2026-10-07T17:36:05.485016"
-  },
+  "missions": {},
   "subscription": {
     "schedule_version": 2,
     "schedule_anchor_at": "2026-10-21T04:27:30.368398",
