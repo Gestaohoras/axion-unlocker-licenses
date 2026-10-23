@@ -5,5 +5,23 @@
   "hwid": "8b545597242fb66bad6810a86e9a1089d9f5c65ede530fe71c1c33707a1df346",
   "discord_id": "195669716491173890",
   "discord_tag": "andre_spider",
-  "last_hwid_reset": null
+  "last_hwid_reset": null,
+  "missions": {},
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "purchased_balance": 0,
+    "recurring_balance": 0,
+    "updated_at": "2026-10-23T00:48:28.223013",
+    "history": [
+      {
+        "at": "2026-10-23T00:48:28.223013",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      }
+    ],
+    "coin_notifications": []
+  }
 }
