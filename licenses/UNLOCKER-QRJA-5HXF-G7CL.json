@@ -2030,7 +2030,7 @@
     "saldo_atual": 0,
     "purchased_balance": 0,
     "recurring_balance": 0,
-    "updated_at": "2026-10-23T00:48:28.223013",
+    "updated_at": "2026-10-24T18:11:25.764669",
     "history": [
       {
         "at": "2026-10-16T20:57:09.171606",
@@ -2072,6 +2072,13 @@
         "at": "2026-10-23T00:48:28.223013",
         "delta": -4000,
         "before": 4000,
+        "after": 0,
+        "reason": "reset geral de progresso por trollingparty"
+      },
+      {
+        "at": "2026-10-24T18:11:25.764669",
+        "delta": 0,
+        "before": 0,
         "after": 0,
         "reason": "reset geral de progresso por trollingparty"
       }
