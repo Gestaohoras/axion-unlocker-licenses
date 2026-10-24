@@ -26,10 +26,11 @@
     "reward_days": 0,
     "reward_days_by_license_duration": {
       "7": 2,
-      "15": 4
+      "15": 4,
+      "30": 5
     },
     "first_purchase_only": false,
     "minimum_order_value": 50.0
   },
-  "updated_at": "2026-10-24T15:43:34.390158"
+  "updated_at": "2026-10-24T15:43:44.547420"
 }
