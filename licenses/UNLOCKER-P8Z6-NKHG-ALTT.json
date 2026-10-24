@@ -252,7 +252,7 @@
     "saldo_atual": 0,
     "purchased_balance": 0,
     "recurring_balance": 0,
-    "updated_at": "2026-10-24T18:11:25.764669",
+    "updated_at": "2026-10-24T18:46:24.321937",
     "history": [
       {
         "at": "2026-10-23T00:48:28.223013",
@@ -270,5 +270,11 @@
       }
     ],
     "coin_notifications": []
+  },
+  "subscription": {
+    "schedule_version": 2,
+    "schedule_anchor_at": "2026-10-24T18:46:24.321937",
+    "missions_anchor_at": "2026-10-24T18:46:24.321937",
+    "migrated_at": "2026-10-24T18:46:24.321937"
   }
 }
