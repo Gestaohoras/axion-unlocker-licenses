@@ -16,11 +16,20 @@
         "by": "gackpoid0317",
         "produto": "Queijaria Unlocker",
         "hwid": "7d18dbf286708f8ed09a000613bdf40fc5a5e119ce7ce64adcc6444cf92c3c31"
+      },
+      {
+        "at": "2026-10-24T19:52:40.245755",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 192.87,
+        "strike_count": 0,
+        "strike_limit": 6
       }
     ],
     "strike_limit": 6,
-    "last_execution": "2026-10-24T19:49:27.377185",
-    "strikes": 1,
+    "last_execution": "2026-10-24T19:52:40.245755",
+    "strikes": 0,
     "last_strike_at": "2026-10-23T20:53:44.065030",
     "detections": [
       {
@@ -237,6 +246,15 @@
         "type": "repeated_execution",
         "timestamp": "2026-10-23T20:53:44.065030",
         "interval_s": 3.55
+      }
+    ],
+    "execution_history": [
+      {
+        "timestamp": "2026-10-24T19:52:40.245755",
+        "result": "normal",
+        "interval_s": 192.87,
+        "strike_count": 0,
+        "strike_limit": 6
       }
     ]
   },
