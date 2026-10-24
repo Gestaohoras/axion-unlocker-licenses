@@ -8,7 +8,7 @@
   "last_hwid_reset": "2026-09-30T10:40:01.771507",
   "security": {
     "strike_limit": 6,
-    "last_execution": "2026-10-24T18:40:41.152830",
+    "last_execution": "2026-10-24T18:40:56.121526",
     "strikes": 3,
     "last_strike_at": "2026-10-24T17:13:42.918120",
     "detections": [
@@ -547,7 +547,27 @@
         "timestamp": "2026-10-02T02:23:25.252437"
       }
     ],
-    "ban_reason": null
+    "ban_reason": null,
+    "execution_history": [
+      {
+        "timestamp": "2026-10-24T18:40:56.121526",
+        "result": "normal",
+        "interval_s": 14.97,
+        "strike_count": 3,
+        "strike_limit": 6
+      }
+    ],
+    "license_actions": [
+      {
+        "at": "2026-10-24T18:40:56.121526",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 14.97,
+        "strike_count": 3,
+        "strike_limit": 6
+      }
+    ]
   },
   "missions": {},
   "cheese_coins": {
