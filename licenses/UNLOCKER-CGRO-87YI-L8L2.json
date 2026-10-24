@@ -8,9 +8,9 @@
   "last_hwid_reset": null,
   "security": {
     "strike_limit": 6,
-    "last_execution": "2026-10-24T22:03:54.402165",
+    "last_execution": "2026-10-24T22:03:57.645906",
     "strikes": 1,
-    "last_strike_at": "2026-10-24T20:27:57.570781",
+    "last_strike_at": "2026-10-24T22:03:57.645906",
     "detections": [
       {
         "type": "repeated_execution",
@@ -528,16 +528,16 @@
         "interval_s": 3.26,
         "strike_count": 1,
         "strike_limit": 6
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-10-24T22:03:57.645906",
+        "interval_s": 3.24,
+        "strike_count": 1,
+        "strike_limit": 6
       }
     ],
     "execution_history": [
-      {
-        "timestamp": "2026-10-17T02:18:04.906269",
-        "result": "strike",
-        "interval_s": 3.93,
-        "strike_count": 1,
-        "strike_limit": 6
-      },
       {
         "timestamp": "2026-10-17T02:21:22.186983",
         "result": "normal",
@@ -1090,18 +1090,16 @@
         "interval_s": 4600.08,
         "strike_count": 1,
         "strike_limit": 6
+      },
+      {
+        "timestamp": "2026-10-24T22:03:57.645906",
+        "result": "strike",
+        "interval_s": 3.24,
+        "strike_count": 1,
+        "strike_limit": 6
       }
     ],
     "license_actions": [
-      {
-        "at": "2026-10-16T06:24:32.978139",
-        "action": "check_license",
-        "source": "unlocker_client",
-        "result": "normal",
-        "interval_s": 102.07,
-        "strike_count": 1,
-        "strike_limit": 6
-      },
       {
         "at": "2026-10-16T06:26:35.928576",
         "action": "check_license",
@@ -2170,6 +2168,15 @@
         "source": "unlocker_client",
         "result": "normal",
         "interval_s": 4600.08,
+        "strike_count": 1,
+        "strike_limit": 6
+      },
+      {
+        "at": "2026-10-24T22:03:57.645906",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "strike",
+        "interval_s": 3.24,
         "strike_count": 1,
         "strike_limit": 6
       }
