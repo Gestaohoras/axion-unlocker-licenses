@@ -61,10 +61,19 @@
         "by": "eunyraxis",
         "produto": "Queijaria Unlocker",
         "hwid": "2d236c992defbcd731fd305d0ea9b036814818c2e2b69abb428e8c63191c90d5"
+      },
+      {
+        "at": "2026-10-24T18:19:06.399182",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 14.99,
+        "strike_count": 1,
+        "strike_limit": 4
       }
     ],
     "strike_limit": 4,
-    "last_execution": "2026-10-24T18:18:51.412188",
+    "last_execution": "2026-10-24T18:19:06.399182",
     "strikes": 1,
     "last_strike_at": "2026-10-24T17:16:57.329295",
     "detections": [
@@ -72,6 +81,15 @@
         "type": "repeated_execution",
         "timestamp": "2026-10-24T17:16:57.329295",
         "interval_s": 4.33
+      }
+    ],
+    "execution_history": [
+      {
+        "timestamp": "2026-10-24T18:19:06.399182",
+        "result": "normal",
+        "interval_s": 14.99,
+        "strike_count": 1,
+        "strike_limit": 4
       }
     ]
   }
