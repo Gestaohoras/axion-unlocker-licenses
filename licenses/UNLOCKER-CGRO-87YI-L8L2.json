@@ -2193,15 +2193,8 @@
     "saldo_atual": 0,
     "purchased_balance": 0,
     "recurring_balance": 0,
-    "updated_at": "2026-10-23T07:47:23.865467",
+    "updated_at": "2026-10-24T08:04:23.059173",
     "history": [
-      {
-        "at": "2026-10-16T11:56:17.629942",
-        "delta": -372,
-        "before": 372,
-        "after": 0,
-        "reason": "Teste"
-      },
       {
         "at": "2026-10-23T00:48:28.223013",
         "delta": 0,
