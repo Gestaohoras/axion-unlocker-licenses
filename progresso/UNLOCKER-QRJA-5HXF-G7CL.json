@@ -3,12 +3,18 @@
   "missions": {},
   "coin_rewards": {},
   "created_at": "2026-10-16T12:45:35.763411",
-  "updated_at": "2026-10-23T00:48:28.223013",
+  "updated_at": "2026-10-24T18:11:25.764669",
   "heartbeat_status": "Resetado",
   "last_error": null,
   "reset_history": [
     {
       "at": "2026-10-23T00:48:28.223013",
+      "scope": "all",
+      "reason": "reset geral",
+      "by": "trollingparty"
+    },
+    {
+      "at": "2026-10-24T18:11:25.764669",
       "scope": "all",
       "reason": "reset geral",
       "by": "trollingparty"
