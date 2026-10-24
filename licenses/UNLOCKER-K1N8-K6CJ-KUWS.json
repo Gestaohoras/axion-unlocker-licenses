@@ -8,7 +8,7 @@
   "last_hwid_reset": null,
   "security": {
     "strike_limit": 6,
-    "last_execution": "2026-10-24T19:37:30.406520",
+    "last_execution": "2026-10-24T19:42:37.535289",
     "strikes": 0,
     "last_strike_at": "2026-10-23T23:19:34.861266",
     "detections": [
@@ -319,13 +319,6 @@
       }
     ],
     "execution_history": [
-      {
-        "timestamp": "2026-10-12T18:38:28.316128",
-        "result": "normal",
-        "interval_s": 4364.94,
-        "strike_count": 0,
-        "strike_limit": 6
-      },
       {
         "timestamp": "2026-10-12T18:38:32.877742",
         "result": "strike",
@@ -876,6 +869,13 @@
         "timestamp": "2026-10-24T19:37:30.406520",
         "result": "normal",
         "interval_s": 5.27,
+        "strike_count": 0,
+        "strike_limit": 6
+      },
+      {
+        "timestamp": "2026-10-24T19:42:37.535289",
+        "result": "normal",
+        "interval_s": 307.13,
         "strike_count": 0,
         "strike_limit": 6
       }
@@ -1679,6 +1679,15 @@
         "source": "unlocker_client",
         "result": "normal",
         "interval_s": 5.27,
+        "strike_count": 0,
+        "strike_limit": 6
+      },
+      {
+        "at": "2026-10-24T19:42:37.535289",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 307.13,
         "strike_count": 0,
         "strike_limit": 6
       }
