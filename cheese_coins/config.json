@@ -21,12 +21,12 @@
   "referrals": {
     "enabled": true,
     "coins_enabled": false,
-    "days_enabled": false,
+    "days_enabled": true,
     "reward_amount": 30,
     "reward_days": 0,
     "reward_days_by_license_duration": {},
     "first_purchase_only": false,
     "minimum_order_value": 50.0
   },
-  "updated_at": "2026-10-24T15:42:58.730752"
+  "updated_at": "2026-10-24T15:43:02.626788"
 }
