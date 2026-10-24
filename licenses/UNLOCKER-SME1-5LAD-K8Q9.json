@@ -1,8 +1,8 @@
 {
   "license": "UNLOCKER-SME1-5LAD-K8Q9",
   "status": "active",
-  "expires": "pending:90",
-  "hwid": null,
+  "expires": "2027-01-22T17:16:31.700300",
+  "hwid": "2d236c992defbcd731fd305d0ea9b036814818c2e2b69abb428e8c63191c90d5",
   "missions": {},
   "cheese_coins": {
     "balance": 0,
@@ -27,5 +27,21 @@
       }
     ],
     "coin_notifications": []
-  }
+  },
+  "discord_id": "1229589307090538557",
+  "discord_tag": "eunyraxis",
+  "last_hwid_reset": null,
+  "subscription": {
+    "plan": "essencial",
+    "name": "Essencial",
+    "weekly_coins": 0,
+    "price_brl": 49.9,
+    "started_at": "2026-10-24T17:16:31.852214",
+    "schedule_version": 2,
+    "schedule_anchor_at": "2026-10-24T17:16:31.852214",
+    "missions_anchor_at": "2026-10-24T17:16:31.852214",
+    "next_weekly_at": null
+  },
+  "subscription_plan": "essencial",
+  "activated_at": "2026-10-24T17:16:31.852214"
 }
