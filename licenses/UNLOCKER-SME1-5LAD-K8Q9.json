@@ -43,5 +43,18 @@
     "next_weekly_at": null
   },
   "subscription_plan": "essencial",
-  "activated_at": "2026-10-24T17:16:31.852214"
+  "activated_at": "2026-10-24T17:16:31.852214",
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-24T17:16:33.121324",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1229589307090538557",
+        "by": "eunyraxis",
+        "produto": "Queijaria Unlocker",
+        "hwid": "2d236c992defbcd731fd305d0ea9b036814818c2e2b69abb428e8c63191c90d5"
+      }
+    ]
+  }
 }
