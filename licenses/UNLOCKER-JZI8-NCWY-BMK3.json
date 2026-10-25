@@ -2,7 +2,7 @@
   "license": "UNLOCKER-JZI8-NCWY-BMK3",
   "status": "active",
   "expires": "lifetime",
-  "hwid": null,
+  "hwid": "1aea9d92ceacb26296ba4690244ab56c27a4a1637f3401211eb44a9cb7871c24",
   "discord_id": "412476026162118656",
   "discord_tag": "millaambusa",
   "last_hwid_reset": "2026-10-25T15:41:59.832582",
@@ -139,6 +139,10 @@
     "schedule_version": 2,
     "schedule_anchor_at": "2026-10-21T04:27:30.368398",
     "missions_anchor_at": "2026-10-21T04:27:30.368398",
-    "migrated_at": "2026-10-21T04:27:30.368398"
-  }
+    "migrated_at": "2026-10-21T04:27:30.368398",
+    "started_at": "2026-10-25T15:42:22.015923",
+    "next_weekly_at": null
+  },
+  "subscription_plan": "essencial",
+  "activated_at": "2026-10-25T15:42:22.015923"
 }
