@@ -72,6 +72,15 @@
         "source": "unlocker_client",
         "attempted_hwid": "1aea9d92ceacb26296ba4690244ab56c27a4a1637f3401211eb44a9cb7871c24",
         "result": "success"
+      },
+      {
+        "at": "2026-10-25T15:42:23.069624",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "412476026162118656",
+        "by": "millaambusa",
+        "produto": "Queijaria Unlocker",
+        "hwid": "1aea9d92ceacb26296ba4690244ab56c27a4a1637f3401211eb44a9cb7871c24"
       }
     ],
     "hwid_audit": {
