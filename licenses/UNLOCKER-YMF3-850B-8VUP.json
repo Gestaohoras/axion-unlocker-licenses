@@ -18,5 +18,18 @@
   "discord_id": "1476040465764581386",
   "discord_tag": "kudouss2",
   "last_hwid_reset": null,
-  "activated_at": "2026-10-25T02:43:19.586875"
+  "activated_at": "2026-10-25T02:43:19.586875",
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-25T02:43:20.597910",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1476040465764581386",
+        "by": "kudouss2",
+        "produto": "Queijaria Unlocker",
+        "hwid": "8e3085e5e55050def2061e332e9100ec62e534afe30674d562dd6b8b5c942789"
+      }
+    ]
+  }
 }
