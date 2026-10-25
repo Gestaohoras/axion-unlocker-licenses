@@ -38,6 +38,27 @@
         "by": "kudoouss_02197",
         "produto": "Queijaria Unlocker",
         "hwid": "8e3085e5e55050def2061e332e9100ec62e534afe30674d562dd6b8b5c942789"
+      },
+      {
+        "at": "2026-10-25T02:45:13.672865",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": null,
+        "strike_count": 0,
+        "strike_limit": 10
+      }
+    ],
+    "strike_limit": 10,
+    "last_execution": "2026-10-25T02:45:13.672865",
+    "strikes": 0,
+    "execution_history": [
+      {
+        "timestamp": "2026-10-25T02:45:13.672865",
+        "result": "normal",
+        "interval_s": null,
+        "strike_count": 0,
+        "strike_limit": 10
       }
     ]
   }
