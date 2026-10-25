@@ -1,18 +1,22 @@
 {
   "license": "UNLOCKER-YMF3-850B-8VUP",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-11-24T02:43:19.348995",
+  "hwid": "8e3085e5e55050def2061e332e9100ec62e534afe30674d562dd6b8b5c942789",
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
     "name": "Essencial",
     "weekly_coins": 0,
     "price_brl": 49.9,
-    "started_at": null,
+    "started_at": "2026-10-25T02:43:19.586875",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-25T02:43:19.586875",
+    "missions_anchor_at": "2026-10-25T02:43:19.586875",
     "next_weekly_at": null
-  }
+  },
+  "discord_id": "1476040465764581386",
+  "discord_tag": "kudouss2",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-25T02:43:19.586875"
 }
