@@ -1756,11 +1756,11 @@
     ]
   },
   "cheese_coins": {
-    "balance": 0,
-    "saldo_atual": 0,
-    "purchased_balance": 0,
+    "balance": 100,
+    "saldo_atual": 100,
+    "purchased_balance": 100,
     "recurring_balance": 0,
-    "updated_at": "2026-10-24T18:11:25.764669",
+    "updated_at": "2026-10-25T17:26:29.986514",
     "history": [
       {
         "at": "2026-10-22T16:52:28.421372",
@@ -1782,9 +1782,27 @@
         "before": 0,
         "after": 0,
         "reason": "reset geral de progresso por trollingparty"
+      },
+      {
+        "at": "2026-10-25T17:26:29.986514",
+        "delta": 100,
+        "before": 0,
+        "after": 100,
+        "reason": "B\u00f4nus de lan\u00e7amento"
       }
     ],
-    "coin_notifications": []
+    "coin_notifications": [
+      {
+        "id": "coin_auto_UNLOCKER-VQ31-H7TG-G5IJ_20261025172629986537",
+        "titulo": "Recompensa recebida! \ud83e\uddc0",
+        "descricao": "+100 Cheese Coins recebidos automaticamente.",
+        "tag": "Recompensa",
+        "tag_color": "#F5C542",
+        "notification": true,
+        "announced_at": "2026-10-25T17:26:29.986514",
+        "page_key": "licenca"
+      }
+    ]
   },
   "missions": {},
   "subscription": {
