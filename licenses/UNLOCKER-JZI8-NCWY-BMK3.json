@@ -2,10 +2,10 @@
   "license": "UNLOCKER-JZI8-NCWY-BMK3",
   "status": "active",
   "expires": "lifetime",
-  "hwid": "51b5ff0a05e7ce91c22dfacf53f8b1bdcddf31027014bb592809d77d289248cc",
+  "hwid": null,
   "discord_id": "412476026162118656",
   "discord_tag": "millaambusa",
-  "last_hwid_reset": "2026-08-29T00:58:20.452880",
+  "last_hwid_reset": "2026-10-25T15:41:59.832582",
   "security": {
     "last_execution": "2026-09-11T15:25:22.601475",
     "strikes": 0,
@@ -65,8 +65,40 @@
         "by": "millaambusa",
         "status": "HWID_MISMATCH",
         "hwid": "1aea9d92ceacb26296ba4690244ab56c27a4a1637f3401211eb44a9cb7871c24"
+      },
+      {
+        "at": "2026-10-25T15:41:59.832582",
+        "action": "self_service_hwid_reset",
+        "source": "unlocker_client",
+        "attempted_hwid": "1aea9d92ceacb26296ba4690244ab56c27a4a1637f3401211eb44a9cb7871c24",
+        "result": "success"
       }
-    ]
+    ],
+    "hwid_audit": {
+      "events": [
+        {
+          "at": "2026-10-25T15:41:59.831581",
+          "action": "self_service_reset_attempt",
+          "actor": "unlocker_client",
+          "attempted_hwid": "1aea9d92ceacb26296ba4690244ab56c27a4a1637f3401211eb44a9cb7871c24",
+          "result": "pending",
+          "reason": null
+        },
+        {
+          "at": "2026-10-25T15:41:59.832582",
+          "action": "self_service_reset_attempt",
+          "actor": "unlocker_client",
+          "attempted_hwid": "1aea9d92ceacb26296ba4690244ab56c27a4a1637f3401211eb44a9cb7871c24",
+          "result": "success",
+          "reason": null
+        }
+      ],
+      "reset_attempts": 2,
+      "last_attempt_at": "2026-10-25T15:41:59.832582",
+      "last_attempted_hwid": "1aea9d92ceacb26296ba4690244ab56c27a4a1637f3401211eb44a9cb7871c24",
+      "last_result": "success",
+      "reset_success": 1
+    }
   },
   "privilege": {
     "bypass_cooldown": true
