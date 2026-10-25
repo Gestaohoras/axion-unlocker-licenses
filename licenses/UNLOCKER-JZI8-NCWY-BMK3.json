@@ -55,7 +55,18 @@
         "timestamp": "2026-09-11T15:28:55.774982"
       }
     ],
-    "ban_reason": null
+    "ban_reason": null,
+    "license_actions": [
+      {
+        "at": "2026-10-25T15:41:25.973447",
+        "action": "ativacao_unlocker_falhou",
+        "source": "discord_bot",
+        "by_id": "412476026162118656",
+        "by": "millaambusa",
+        "status": "HWID_MISMATCH",
+        "hwid": "1aea9d92ceacb26296ba4690244ab56c27a4a1637f3401211eb44a9cb7871c24"
+      }
+    ]
   },
   "privilege": {
     "bypass_cooldown": true
