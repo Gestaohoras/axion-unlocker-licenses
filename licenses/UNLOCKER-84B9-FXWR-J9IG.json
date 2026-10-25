@@ -295,13 +295,32 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 0,
-    "saldo_atual": 0,
-    "purchased_balance": 0,
+    "balance": 100,
+    "saldo_atual": 100,
+    "purchased_balance": 100,
     "recurring_balance": 0,
-    "updated_at": "2026-10-24T18:11:25.764669",
-    "history": [],
-    "coin_notifications": []
+    "updated_at": "2026-10-25T17:48:34.155308",
+    "history": [
+      {
+        "at": "2026-10-25T17:48:34.155308",
+        "delta": 100,
+        "before": 0,
+        "after": 100,
+        "reason": "Presente"
+      }
+    ],
+    "coin_notifications": [
+      {
+        "id": "coin_admin_UNLOCKER-84B9-FXWR-J9IG_20261025174834155353",
+        "titulo": "Ajuste de saldo realizado",
+        "descricao": "Saldo +100 Cheese Coins. Presente. Realizado por um administrador.",
+        "tag": "Update Cheese Coins",
+        "tag_color": "#1E90FF",
+        "notification": true,
+        "announced_at": "2026-10-25T17:48:34.155308",
+        "page_key": "licenca"
+      }
+    ]
   },
   "missions": {},
   "subscription": {
