@@ -16,11 +16,20 @@
         "by": "magnatabr08",
         "produto": "Queijaria Unlocker",
         "hwid": "fb1d11af357481e85008e6e50048024c9bedaf13a11a05342489416f9b9ec912"
+      },
+      {
+        "at": "2026-10-25T06:50:44.021666",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 34.37,
+        "strike_count": 0,
+        "strike_limit": 4
       }
     ],
     "strike_limit": 4,
-    "last_execution": "2026-10-25T06:50:09.646845",
-    "strikes": 3,
+    "last_execution": "2026-10-25T06:50:44.021666",
+    "strikes": 0,
     "last_strike_at": "2026-10-24T10:59:16.374913",
     "detections": [
       {
@@ -177,6 +186,15 @@
         "type": "repeated_execution",
         "timestamp": "2026-10-24T10:59:16.374913",
         "interval_s": 3.75
+      }
+    ],
+    "execution_history": [
+      {
+        "timestamp": "2026-10-25T06:50:44.021666",
+        "result": "normal",
+        "interval_s": 34.37,
+        "strike_count": 0,
+        "strike_limit": 4
       }
     ]
   },
