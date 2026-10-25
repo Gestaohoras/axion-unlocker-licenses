@@ -11,9 +11,9 @@
       "ends_at": "2026-11-23T17:16:31.852214"
     },
     "streak_daily": {
-      "date": "2026-10-24",
-      "seconds": 3630,
-      "completed": true
+      "date": "2026-10-25",
+      "seconds": 0,
+      "completed": false
     },
     "playtime_seconds": 10609,
     "playtime_updated_at": "2026-10-25T01:07:10.698055",
@@ -23,9 +23,9 @@
     "last_streak_date": "2026-10-24"
   },
   "created_at": "2026-10-24T18:19:21.538633",
-  "updated_at": "2026-10-25T01:07:10.698055",
+  "updated_at": "2026-10-25T23:18:45.511106",
   "last_error": null,
-  "heartbeat_status": "Em andamento",
+  "heartbeat_status": "Mantenha a Streak",
   "coin_rewards": {},
   "last_heartbeat_at": "2026-10-25T01:07:10.698055"
 }
