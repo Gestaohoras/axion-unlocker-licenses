@@ -8,11 +8,11 @@
   "last_hwid_reset": "2026-05-31T09:38:46.365238",
   "missions": {},
   "cheese_coins": {
-    "balance": 0,
-    "saldo_atual": 0,
-    "purchased_balance": 0,
+    "balance": 100,
+    "saldo_atual": 100,
+    "purchased_balance": 100,
     "recurring_balance": 0,
-    "updated_at": "2026-10-24T18:11:25.764669",
+    "updated_at": "2026-10-25T17:25:06.768936",
     "history": [
       {
         "at": "2026-10-23T00:45:08.860098",
@@ -34,8 +34,26 @@
         "before": 0,
         "after": 0,
         "reason": "reset geral de progresso por trollingparty"
+      },
+      {
+        "at": "2026-10-25T17:25:06.768936",
+        "delta": 100,
+        "before": 0,
+        "after": 100,
+        "reason": "B\u00f4nus de lan\u00e7amento"
       }
     ],
-    "coin_notifications": []
+    "coin_notifications": [
+      {
+        "id": "coin_auto_UNLOCKER-E22D-1KBU-BBHQ_20261025172506768988",
+        "titulo": "Recompensa recebida! \ud83e\uddc0",
+        "descricao": "+100 Cheese Coins recebidos automaticamente.",
+        "tag": "Recompensa",
+        "tag_color": "#F5C542",
+        "notification": true,
+        "announced_at": "2026-10-25T17:25:06.768936",
+        "page_key": "licenca"
+      }
+    ]
   }
 }
