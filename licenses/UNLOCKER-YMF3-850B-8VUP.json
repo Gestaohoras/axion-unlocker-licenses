@@ -29,6 +29,15 @@
         "by": "kudouss2",
         "produto": "Queijaria Unlocker",
         "hwid": "8e3085e5e55050def2061e332e9100ec62e534afe30674d562dd6b8b5c942789"
+      },
+      {
+        "at": "2026-10-25T02:43:57.642197",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1510721246160228482",
+        "by": "kudoouss_02197",
+        "produto": "Queijaria Unlocker",
+        "hwid": "8e3085e5e55050def2061e332e9100ec62e534afe30674d562dd6b8b5c942789"
       }
     ]
   }
