@@ -1758,6 +1758,15 @@
         "interval_s": 4.35,
         "strike_count": 1,
         "strike_limit": 6
+      },
+      {
+        "at": "2026-10-25T19:04:48.385591",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "465949499043479563",
+        "by": "odanicalabreso",
+        "produto": "Queijaria Unlocker",
+        "hwid": "befdd8442d552a29152703dfca5a5d64b0e2066e9e0d55a44e4600226e8612a9"
       }
     ]
   },
