@@ -1,0 +1,14 @@
+{
+  "license_key": "UNLOCKER-MUSV-ZDIV-8RHI",
+  "missions": {
+    "streak_daily": {
+      "date": "2026-10-25",
+      "seconds": 0,
+      "completed": false
+    }
+  },
+  "created_at": "2026-10-25T17:55:16.301568",
+  "updated_at": "2026-10-25T17:55:16.301568",
+  "last_error": null,
+  "heartbeat_status": "Mantenha a Streak"
+}
