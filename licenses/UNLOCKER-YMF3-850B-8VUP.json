@@ -1156,8 +1156,31 @@
     ]
   },
   "cheese_coins": {
-    "balance": 0,
-    "saldo_atual": 0,
-    "updated_at": "2026-10-25T02:45:31.378379"
+    "balance": 100,
+    "saldo_atual": 100,
+    "updated_at": "2026-10-25T17:26:42.068800",
+    "purchased_balance": 100,
+    "recurring_balance": 0,
+    "history": [
+      {
+        "at": "2026-10-25T17:26:42.068800",
+        "delta": 100,
+        "before": 0,
+        "after": 100,
+        "reason": "B\u00f4nus de lan\u00e7amento"
+      }
+    ],
+    "coin_notifications": [
+      {
+        "id": "coin_auto_UNLOCKER-YMF3-850B-8VUP_20261025172642068831",
+        "titulo": "Recompensa recebida! \ud83e\uddc0",
+        "descricao": "+100 Cheese Coins recebidos automaticamente.",
+        "tag": "Recompensa",
+        "tag_color": "#F5C542",
+        "notification": true,
+        "announced_at": "2026-10-25T17:26:42.068800",
+        "page_key": "licenca"
+      }
+    ]
   }
 }
