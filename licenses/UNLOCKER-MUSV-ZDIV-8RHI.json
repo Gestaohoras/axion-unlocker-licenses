@@ -29,11 +29,20 @@
         "by": "oisouvolite",
         "produto": "Queijaria Unlocker",
         "hwid": "cd781f5fba57e8288e6bf5a9b7366dc5c080631df6accdf34afb47aea27cd473"
+      },
+      {
+        "at": "2026-10-25T17:12:52.836616",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 178124.96,
+        "strike_count": 0,
+        "strike_limit": 4
       }
     ],
     "strike_limit": 4,
-    "last_execution": "2026-10-23T15:44:07.872152",
-    "strikes": 1,
+    "last_execution": "2026-10-25T17:12:52.836616",
+    "strikes": 0,
     "last_strike_at": "2026-10-23T15:19:20.785361",
     "detections": [
       {
@@ -120,6 +129,15 @@
         "type": "repeated_execution",
         "timestamp": "2026-10-23T15:19:20.785361",
         "interval_s": 2.29
+      }
+    ],
+    "execution_history": [
+      {
+        "timestamp": "2026-10-25T17:12:52.836616",
+        "result": "normal",
+        "interval_s": 178124.96,
+        "strike_count": 0,
+        "strike_limit": 4
       }
     ]
   },
