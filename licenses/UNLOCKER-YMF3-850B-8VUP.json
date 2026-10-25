@@ -93,5 +93,10 @@
         "strike_limit": 10
       }
     ]
+  },
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "updated_at": "2026-10-25T02:45:31.378379"
   }
 }
