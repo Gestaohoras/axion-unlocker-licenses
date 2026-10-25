@@ -370,13 +370,32 @@
   },
   "missions": {},
   "cheese_coins": {
-    "balance": 0,
-    "saldo_atual": 0,
-    "purchased_balance": 0,
+    "balance": 100,
+    "saldo_atual": 100,
+    "purchased_balance": 100,
     "recurring_balance": 0,
-    "updated_at": "2026-10-24T21:19:07.256411",
-    "history": [],
-    "coin_notifications": []
+    "updated_at": "2026-10-25T23:50:50.542237",
+    "history": [
+      {
+        "at": "2026-10-25T23:50:50.542237",
+        "delta": 100,
+        "before": 0,
+        "after": 100,
+        "reason": "B\u00f4nus de lan\u00e7amento"
+      }
+    ],
+    "coin_notifications": [
+      {
+        "id": "coin_admin_UNLOCKER-AEVX-51HB-JJL2_20261025235050542279",
+        "titulo": "Ajuste de saldo realizado",
+        "descricao": "Saldo +100 Cheese Coins. B\u00f4nus de lan\u00e7amento. Realizado por um administrador.",
+        "tag": "Update Cheese Coins",
+        "tag_color": "#1E90FF",
+        "notification": true,
+        "announced_at": "2026-10-25T23:50:50.542237",
+        "page_key": "licenca"
+      }
+    ]
   },
   "subscription": {
     "schedule_version": 2,
