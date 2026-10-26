@@ -9,10 +9,15 @@
       "anchor_at": "2026-10-26T12:59:47.269995",
       "started_at": "2026-10-26T12:59:47.269995",
       "ends_at": "2026-11-25T12:59:47.269995"
+    },
+    "streak_daily": {
+      "date": "2026-10-26",
+      "seconds": 0,
+      "completed": false
     }
   },
   "created_at": "2026-10-26T12:59:50.325187",
-  "updated_at": "2026-10-26T12:59:50.325187",
+  "updated_at": "2026-10-26T12:59:52.483663",
   "last_error": null,
-  "heartbeat_status": "Novo ciclo de miss\u00f5es"
+  "heartbeat_status": "Mantenha a Streak"
 }
