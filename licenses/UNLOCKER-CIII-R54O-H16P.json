@@ -116,5 +116,10 @@
   "last_hwid_reset": "2026-10-26T18:48:02.687317",
   "discord_id": "1183609677540495440",
   "discord_tag": "tutuyz07_",
-  "activated_at": "2026-10-26T18:48:43.218536"
+  "activated_at": "2026-10-26T18:48:43.218536",
+  "cheese_coins": {
+    "balance": 0,
+    "saldo_atual": 0,
+    "updated_at": "2026-10-26T18:52:44.081156"
+  }
 }
