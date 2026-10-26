@@ -386,35 +386,28 @@
     },
     "spending_challenges": {
       "challenge_1791760679": {
-        "spent": 94,
+        "spent": 96,
         "rewarded": false,
         "started_at": "2026-10-25T00:52:41.493763",
         "ends_at": "2026-11-24T00:52:41.493763",
         "tier_index": 0,
-        "updated_at": "2026-10-26T12:59:33.986122",
+        "updated_at": "2026-10-26T12:59:49.644264",
         "completed": false,
         "rewarded_at": null,
         "target_coins": 200,
         "reward_percent": 5
       }
     },
-    "monthly_spent": 94,
-    "spent_updated_at": "2026-10-26T12:59:33.986122"
+    "monthly_spent": 96,
+    "spent_updated_at": "2026-10-26T12:59:49.644264"
   },
   "cheese_coins": {
-    "balance": 6,
-    "saldo_atual": 6,
-    "purchased_balance": 6,
+    "balance": 4,
+    "saldo_atual": 4,
+    "purchased_balance": 4,
     "recurring_balance": 0,
-    "updated_at": "2026-10-26T12:59:33.986122",
+    "updated_at": "2026-10-26T12:59:49.644264",
     "history": [
-      {
-        "at": "2026-10-23T00:48:28.223013",
-        "delta": 0,
-        "before": 0,
-        "after": 0,
-        "reason": "reset geral de progresso por trollingparty"
-      },
       {
         "at": "2026-10-24T18:11:25.764669",
         "delta": 0,
@@ -756,6 +749,13 @@
         "delta": -2,
         "before": 8,
         "after": 6,
+        "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-26T12:59:49.644264",
+        "delta": -2,
+        "before": 6,
+        "after": 4,
         "reason": "prestige inject"
       }
     ],
