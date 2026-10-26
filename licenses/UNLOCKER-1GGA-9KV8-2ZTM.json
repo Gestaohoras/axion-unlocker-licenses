@@ -317,13 +317,40 @@
       }
     ]
   },
-  "missions": {},
+  "missions": {
+    "cycle_history": [],
+    "cycle": {
+      "key": "2026-10-25T06:51:00.505931:30:0",
+      "index": 0,
+      "duration_days": 30,
+      "model_version": 2,
+      "anchor_at": "2026-10-25T06:51:00.505931",
+      "started_at": "2026-10-25T06:51:00.505931",
+      "ends_at": "2026-11-24T06:51:00.505931"
+    },
+    "spending_challenges": {
+      "challenge_1791760679": {
+        "spent": 2,
+        "rewarded": false,
+        "started_at": "2026-10-25T06:51:00.505931",
+        "ends_at": "2026-11-24T06:51:00.505931",
+        "tier_index": 0,
+        "updated_at": "2026-10-26T00:44:04.630115",
+        "completed": false,
+        "rewarded_at": null,
+        "target_coins": 200,
+        "reward_percent": 5
+      }
+    },
+    "monthly_spent": 2,
+    "spent_updated_at": "2026-10-26T00:44:04.630115"
+  },
   "cheese_coins": {
-    "balance": 100,
-    "saldo_atual": 100,
-    "purchased_balance": 100,
+    "balance": 98,
+    "saldo_atual": 98,
+    "purchased_balance": 98,
     "recurring_balance": 0,
-    "updated_at": "2026-10-25T17:26:11.461234",
+    "updated_at": "2026-10-26T00:44:04.630115",
     "history": [
       {
         "at": "2026-10-23T00:45:08.860098",
@@ -352,6 +379,13 @@
         "before": 0,
         "after": 100,
         "reason": "B\u00f4nus de lan\u00e7amento"
+      },
+      {
+        "at": "2026-10-26T00:44:04.630115",
+        "delta": -2,
+        "before": 100,
+        "after": 98,
+        "reason": "prestige inject"
       }
     ],
     "coin_notifications": [
@@ -365,7 +399,10 @@
         "announced_at": "2026-10-25T17:26:11.461234",
         "page_key": "licenca"
       }
-    ]
+    ],
+    "subscription_weekly": {
+      "remaining": 0
+    }
   },
   "subscription": {
     "schedule_version": 2,
