@@ -1,18 +1,18 @@
 {
   "license": "UNLOCKER-CIII-R54O-H16P",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-11-25T18:48:43.058817",
+  "hwid": "5696b554d57a4ef32d8190609f6181c1490cf9c3b8e88f687d2bca78805a0e6f",
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
     "name": "Essencial",
     "weekly_coins": 0,
     "price_brl": 49.9,
-    "started_at": null,
+    "started_at": "2026-10-26T18:48:43.218536",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-26T18:48:43.218536",
+    "missions_anchor_at": "2026-10-26T18:48:43.218536",
     "next_weekly_at": null
   },
   "security": {
@@ -51,5 +51,8 @@
       }
     ]
   },
-  "last_hwid_reset": "2026-10-26T18:48:02.687317"
+  "last_hwid_reset": "2026-10-26T18:48:02.687317",
+  "discord_id": "1183609677540495440",
+  "discord_tag": "tutuyz07_",
+  "activated_at": "2026-10-26T18:48:43.218536"
 }
