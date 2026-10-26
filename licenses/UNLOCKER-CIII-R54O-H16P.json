@@ -57,6 +57,27 @@
         "by": "tutuyz07_",
         "produto": "Queijaria Unlocker",
         "hwid": "5696b554d57a4ef32d8190609f6181c1490cf9c3b8e88f687d2bca78805a0e6f"
+      },
+      {
+        "at": "2026-10-26T18:50:36.922035",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": null,
+        "strike_count": 0,
+        "strike_limit": 11
+      }
+    ],
+    "strike_limit": 11,
+    "last_execution": "2026-10-26T18:50:36.922035",
+    "strikes": 0,
+    "execution_history": [
+      {
+        "timestamp": "2026-10-26T18:50:36.922035",
+        "result": "normal",
+        "interval_s": null,
+        "strike_count": 0,
+        "strike_limit": 11
       }
     ]
   },
