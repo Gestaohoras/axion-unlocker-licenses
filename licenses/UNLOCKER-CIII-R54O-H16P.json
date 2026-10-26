@@ -48,6 +48,15 @@
         "source": "unlocker_client",
         "attempted_hwid": "5696b554d57a4ef32d8190609f6181c1490cf9c3b8e88f687d2bca78805a0e6f",
         "result": "success"
+      },
+      {
+        "at": "2026-10-26T18:48:44.721139",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1183609677540495440",
+        "by": "tutuyz07_",
+        "produto": "Queijaria Unlocker",
+        "hwid": "5696b554d57a4ef32d8190609f6181c1490cf9c3b8e88f687d2bca78805a0e6f"
       }
     ]
   },
