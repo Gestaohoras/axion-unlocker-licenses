@@ -15,17 +15,17 @@
       "seconds": 3630,
       "completed": true
     },
-    "playtime_seconds": 41412,
-    "playtime_updated_at": "2026-10-26T00:10:22.495383",
+    "playtime_seconds": 41472,
+    "playtime_updated_at": "2026-10-26T00:11:22.632773",
     "rewarded": [],
     "current_index": 0,
     "streak_days": 2,
     "last_streak_date": "2026-10-25"
   },
   "created_at": "2026-10-24T21:29:52.814431",
-  "updated_at": "2026-10-26T00:10:22.495383",
+  "updated_at": "2026-10-26T00:11:22.632773",
   "last_error": null,
   "heartbeat_status": "Em andamento",
   "coin_rewards": {},
-  "last_heartbeat_at": "2026-10-26T00:10:22.495383"
+  "last_heartbeat_at": "2026-10-26T00:11:22.632773"
 }
