@@ -359,5 +359,11 @@
         "page_key": "licenca"
       }
     ]
+  },
+  "subscription": {
+    "schedule_version": 2,
+    "schedule_anchor_at": "2026-10-26T12:59:47.269995",
+    "missions_anchor_at": "2026-10-26T12:59:47.269995",
+    "migrated_at": "2026-10-26T12:59:47.269995"
   }
 }
