@@ -14,5 +14,42 @@
     "schedule_anchor_at": null,
     "missions_anchor_at": null,
     "next_weekly_at": null
-  }
+  },
+  "security": {
+    "hwid_audit": {
+      "events": [
+        {
+          "at": "2026-10-26T18:48:02.686316",
+          "action": "self_service_reset_attempt",
+          "actor": "unlocker_client",
+          "attempted_hwid": "5696b554d57a4ef32d8190609f6181c1490cf9c3b8e88f687d2bca78805a0e6f",
+          "result": "pending",
+          "reason": null
+        },
+        {
+          "at": "2026-10-26T18:48:02.687317",
+          "action": "self_service_reset_attempt",
+          "actor": "unlocker_client",
+          "attempted_hwid": "5696b554d57a4ef32d8190609f6181c1490cf9c3b8e88f687d2bca78805a0e6f",
+          "result": "success",
+          "reason": null
+        }
+      ],
+      "reset_attempts": 2,
+      "last_attempt_at": "2026-10-26T18:48:02.687317",
+      "last_attempted_hwid": "5696b554d57a4ef32d8190609f6181c1490cf9c3b8e88f687d2bca78805a0e6f",
+      "last_result": "success",
+      "reset_success": 1
+    },
+    "license_actions": [
+      {
+        "at": "2026-10-26T18:48:02.687317",
+        "action": "self_service_hwid_reset",
+        "source": "unlocker_client",
+        "attempted_hwid": "5696b554d57a4ef32d8190609f6181c1490cf9c3b8e88f687d2bca78805a0e6f",
+        "result": "success"
+      }
+    ]
+  },
+  "last_hwid_reset": "2026-10-26T18:48:02.687317"
 }
