@@ -20,12 +20,19 @@
     "rewarded": [],
     "current_index": 0,
     "streak_days": 3,
-    "last_streak_date": "2026-10-26"
+    "last_streak_date": "2026-10-26",
+    "streak_protection": {
+      "active": true,
+      "activated_at": "2026-10-27T11:45:07.428737",
+      "available_after": "2026-11-26T11:45:07.428737",
+      "used_at": null,
+      "protected_miss_date": null
+    }
   },
   "created_at": "2026-10-24T19:53:29.770861",
-  "updated_at": "2026-10-27T11:36:37.574836",
+  "updated_at": "2026-10-27T11:45:07.428737",
   "last_error": null,
-  "heartbeat_status": "Em andamento",
+  "heartbeat_status": "Prote\u00e7\u00e3o ativada",
   "coin_rewards": {},
   "last_heartbeat_at": "2026-10-27T11:36:37.573856"
 }
