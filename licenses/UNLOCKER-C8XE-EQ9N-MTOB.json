@@ -2,7 +2,7 @@
   "license": "UNLOCKER-C8XE-EQ9N-MTOB",
   "status": "active",
   "expires": "2026-11-20T01:27:37.464197",
-  "hwid": "540227b37986d2904556e86bcd320bac58abb7012328afe3cb92d2ae0b139221",
+  "hwid": null,
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
@@ -17,7 +17,7 @@
   },
   "discord_id": "601158466274590726",
   "discord_tag": "gabriellilbieber",
-  "last_hwid_reset": "2026-10-21T04:35:10.741644",
+  "last_hwid_reset": "2026-10-28T14:25:34.304738",
   "activated_at": "2026-10-21T01:27:37.638351",
   "security": {
     "license_actions": [
@@ -155,6 +155,13 @@
         "interval_s": 4.3,
         "strike_count": 1,
         "strike_limit": 5
+      },
+      {
+        "at": "2026-10-28T14:25:34.304738",
+        "action": "self_service_hwid_reset",
+        "source": "unlocker_client",
+        "attempted_hwid": "b239680ac55e456b78759ffdc0b53f068ffb0a7bdfffc8f8d8bf23b88f607f89",
+        "result": "success"
       }
     ],
     "strike_limit": 5,
@@ -444,12 +451,29 @@
           "attempted_hwid": "b239680ac55e456b78759ffdc0b53f068ffb0a7bdfffc8f8d8bf23b88f607f89",
           "result": "denied",
           "reason": "cooldown"
+        },
+        {
+          "at": "2026-10-28T14:25:34.303736",
+          "action": "self_service_reset_attempt",
+          "actor": "unlocker_client",
+          "attempted_hwid": "b239680ac55e456b78759ffdc0b53f068ffb0a7bdfffc8f8d8bf23b88f607f89",
+          "result": "pending",
+          "reason": null
+        },
+        {
+          "at": "2026-10-28T14:25:34.304738",
+          "action": "self_service_reset_attempt",
+          "actor": "unlocker_client",
+          "attempted_hwid": "b239680ac55e456b78759ffdc0b53f068ffb0a7bdfffc8f8d8bf23b88f607f89",
+          "result": "success",
+          "reason": null
         }
       ],
-      "reset_attempts": 10,
-      "last_attempt_at": "2026-10-28T03:51:04.404475",
+      "reset_attempts": 12,
+      "last_attempt_at": "2026-10-28T14:25:34.304738",
       "last_attempted_hwid": "b239680ac55e456b78759ffdc0b53f068ffb0a7bdfffc8f8d8bf23b88f607f89",
-      "last_result": "denied"
+      "last_result": "success",
+      "reset_success": 1
     }
   },
   "missions": {},
