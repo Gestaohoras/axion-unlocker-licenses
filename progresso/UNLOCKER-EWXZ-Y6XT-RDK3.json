@@ -15,8 +15,8 @@
       "seconds": 3600,
       "completed": true
     },
-    "playtime_seconds": 144418,
-    "playtime_updated_at": "2026-10-28T22:23:44.315580",
+    "playtime_seconds": 144478,
+    "playtime_updated_at": "2026-10-28T22:24:44.590010",
     "rewarded": [
       "play_20261017172747175818",
       "play_20261017172852455933"
@@ -28,7 +28,7 @@
     "streak_reset_reason": "daily_miss"
   },
   "created_at": "2026-10-26T12:59:50.325187",
-  "updated_at": "2026-10-28T22:23:44.315580",
+  "updated_at": "2026-10-28T22:24:44.590010",
   "last_error": null,
   "heartbeat_status": "Em andamento",
   "coin_rewards": {
@@ -71,5 +71,5 @@
       }
     ]
   },
-  "last_heartbeat_at": "2026-10-28T22:23:44.315580"
+  "last_heartbeat_at": "2026-10-28T22:24:44.590010"
 }
