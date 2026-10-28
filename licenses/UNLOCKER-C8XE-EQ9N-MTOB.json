@@ -412,11 +412,27 @@
           "attempted_hwid": "c09d85d9154260a457058e1e52fb2f8873a1b9b0acd7cd2087c0d57b79b1d0e1",
           "result": "denied",
           "reason": "cooldown"
+        },
+        {
+          "at": "2026-10-28T02:20:06.288701",
+          "action": "self_service_reset_attempt",
+          "actor": "unlocker_client",
+          "attempted_hwid": "b239680ac55e456b78759ffdc0b53f068ffb0a7bdfffc8f8d8bf23b88f607f89",
+          "result": "pending",
+          "reason": null
+        },
+        {
+          "at": "2026-10-28T02:20:06.289714",
+          "action": "self_service_reset_attempt",
+          "actor": "unlocker_client",
+          "attempted_hwid": "b239680ac55e456b78759ffdc0b53f068ffb0a7bdfffc8f8d8bf23b88f607f89",
+          "result": "denied",
+          "reason": "cooldown"
         }
       ],
-      "reset_attempts": 6,
-      "last_attempt_at": "2026-10-26T15:00:16.937369",
-      "last_attempted_hwid": "c09d85d9154260a457058e1e52fb2f8873a1b9b0acd7cd2087c0d57b79b1d0e1",
+      "reset_attempts": 8,
+      "last_attempt_at": "2026-10-28T02:20:06.289714",
+      "last_attempted_hwid": "b239680ac55e456b78759ffdc0b53f068ffb0a7bdfffc8f8d8bf23b88f607f89",
       "last_result": "denied"
     }
   },
