@@ -624,19 +624,12 @@
     "spent_updated_at": "2026-10-26T13:01:07.868405"
   },
   "cheese_coins": {
-    "balance": 0,
-    "saldo_atual": 0,
-    "purchased_balance": 0,
+    "balance": 200,
+    "saldo_atual": 200,
+    "purchased_balance": 200,
     "recurring_balance": 0,
-    "updated_at": "2026-10-26T13:01:07.868405",
+    "updated_at": "2026-10-28T00:38:57.107052",
     "history": [
-      {
-        "at": "2026-10-26T12:38:29.095415",
-        "delta": -2,
-        "before": 100,
-        "after": 98,
-        "reason": "prestige inject"
-      },
       {
         "at": "2026-10-26T12:38:44.228382",
         "delta": -2,
@@ -979,6 +972,13 @@
         "before": 2,
         "after": 0,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-28T00:38:57.107052",
+        "delta": 200,
+        "before": 0,
+        "after": 200,
+        "reason": "adi\u00e7\u00e3o manual"
       }
     ],
     "coin_notifications": [
@@ -990,6 +990,16 @@
         "tag_color": "#F5C542",
         "notification": true,
         "announced_at": "2026-10-25T17:26:09.140927",
+        "page_key": "licenca"
+      },
+      {
+        "id": "coin_admin_UNLOCKER-OQSB-W40M-FNEO_20261028003857107101",
+        "titulo": "Ajuste de saldo realizado",
+        "descricao": "Saldo +200 Cheese Coins. Adi\u00e7\u00e3o manual. Realizado por um administrador.",
+        "tag": "Update Cheese Coins",
+        "tag_color": "#1E90FF",
+        "notification": true,
+        "announced_at": "2026-10-28T00:38:57.107052",
         "page_key": "licenca"
       }
     ],
