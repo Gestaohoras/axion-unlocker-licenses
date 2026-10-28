@@ -8,9 +8,9 @@
   "last_hwid_reset": null,
   "security": {
     "strike_limit": 6,
-    "last_execution": "2026-10-28T19:46:43.929521",
-    "strikes": 0,
-    "last_strike_at": "2026-10-28T14:58:31.673273",
+    "last_execution": "2026-10-28T19:46:48.263102",
+    "strikes": 1,
+    "last_strike_at": "2026-10-28T19:46:48.263102",
     "detections": [
       {
         "type": "repeated_execution",
@@ -299,6 +299,13 @@
         "interval_s": 2.56,
         "strike_count": 1,
         "strike_limit": 6
+      },
+      {
+        "type": "repeated_execution",
+        "timestamp": "2026-10-28T19:46:48.263102",
+        "interval_s": 4.33,
+        "strike_count": 1,
+        "strike_limit": 6
       }
     ],
     "execution_history": [
@@ -398,6 +405,13 @@
         "result": "normal",
         "interval_s": 17292.26,
         "strike_count": 0,
+        "strike_limit": 6
+      },
+      {
+        "timestamp": "2026-10-28T19:46:48.263102",
+        "result": "strike",
+        "interval_s": 4.33,
+        "strike_count": 1,
         "strike_limit": 6
       }
     ],
@@ -526,6 +540,15 @@
         "result": "normal",
         "interval_s": 17292.26,
         "strike_count": 0,
+        "strike_limit": 6
+      },
+      {
+        "at": "2026-10-28T19:46:48.263102",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "strike",
+        "interval_s": 4.33,
+        "strike_count": 1,
         "strike_limit": 6
       }
     ]
