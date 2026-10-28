@@ -1669,35 +1669,28 @@
     },
     "spending_challenges": {
       "challenge_1791760679": {
-        "spent": 100,
+        "spent": 102,
         "rewarded": false,
         "started_at": "2026-10-24T18:42:02.823702",
         "ends_at": "2026-11-23T18:42:02.823702",
         "tier_index": 0,
-        "updated_at": "2026-10-27T19:55:28.420926",
+        "updated_at": "2026-10-28T22:15:54.995245",
         "completed": false,
         "rewarded_at": null,
         "target_coins": 200,
         "reward_percent": 5
       }
     },
-    "monthly_spent": 100,
-    "spent_updated_at": "2026-10-27T19:55:28.420926"
+    "monthly_spent": 102,
+    "spent_updated_at": "2026-10-28T22:15:54.995245"
   },
   "cheese_coins": {
-    "balance": 200,
-    "saldo_atual": 200,
-    "purchased_balance": 200,
+    "balance": 198,
+    "saldo_atual": 198,
+    "purchased_balance": 198,
     "recurring_balance": 0,
-    "updated_at": "2026-10-28T22:10:32.333961",
+    "updated_at": "2026-10-28T22:15:54.995245",
     "history": [
-      {
-        "at": "2026-10-27T00:13:36.893688",
-        "delta": -2,
-        "before": 98,
-        "after": 96,
-        "reason": "prestige inject"
-      },
       {
         "at": "2026-10-27T00:14:02.173858",
         "delta": -2,
@@ -2040,6 +2033,13 @@
         "before": 0,
         "after": 200,
         "reason": "Pacote comprado"
+      },
+      {
+        "at": "2026-10-28T22:15:54.995245",
+        "delta": -2,
+        "before": 200,
+        "after": 198,
+        "reason": "prestige inject"
       }
     ],
     "coin_notifications": [
