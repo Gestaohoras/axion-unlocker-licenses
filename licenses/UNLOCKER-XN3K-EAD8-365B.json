@@ -18,5 +18,18 @@
   "discord_id": "1017610124220702791",
   "discord_tag": "ghostvqv",
   "last_hwid_reset": null,
-  "activated_at": "2026-10-29T17:08:38.874679"
+  "activated_at": "2026-10-29T17:08:38.874679",
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-29T17:08:40.552868",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1017610124220702791",
+        "by": "ghostvqv",
+        "produto": "Queijaria Unlocker",
+        "hwid": "8ba49f4acc64e3e2b6d1e1d5410adc22adaad6ba7857f376908cbec1c891764d"
+      }
+    ]
+  }
 }
