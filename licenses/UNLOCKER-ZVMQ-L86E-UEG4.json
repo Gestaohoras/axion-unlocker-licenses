@@ -1,22 +1,31 @@
 {
   "license": "UNLOCKER-ZVMQ-L86E-UEG4",
   "status": "active",
-  "expires": "2026-11-28T16:25:30.268765",
-  "hwid": "dcae1d99c039aef904234087c32f17a076bfc22755c460b95814c4ac9c4a01fb",
+  "expires": "pending:30",
+  "hwid": null,
   "subscription_plan": "basico",
   "subscription": {
     "plan": "basico",
     "name": "B\u00e1sico",
     "weekly_coins": 200,
     "price_brl": 59.9,
-    "started_at": "2026-10-29T16:25:30.529063",
+    "started_at": null,
     "schedule_version": 2,
-    "schedule_anchor_at": "2026-10-29T16:25:30.529063",
-    "missions_anchor_at": "2026-10-29T16:25:30.529063",
+    "schedule_anchor_at": null,
+    "missions_anchor_at": null,
     "next_weekly_at": null
   },
-  "discord_id": "1129968240194502727",
-  "discord_tag": "xwqy.",
-  "last_hwid_reset": null,
-  "activated_at": "2026-10-29T16:25:30.529063"
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-29T16:25:31.796737",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1129968240194502727",
+        "by": "xwqy.",
+        "produto": "Queijaria Unlocker",
+        "hwid": "dcae1d99c039aef904234087c32f17a076bfc22755c460b95814c4ac9c4a01fb"
+      }
+    ]
+  }
 }
