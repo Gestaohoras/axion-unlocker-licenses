@@ -1,18 +1,22 @@
 {
   "license": "UNLOCKER-XN3K-EAD8-365B",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-11-28T17:07:42.692249",
+  "hwid": "8ba49f4acc64e3e2b6d1e1d5410adc22adaad6ba7857f376908cbec1c891764d",
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
     "name": "Essencial",
     "weekly_coins": 0,
     "price_brl": 49.9,
-    "started_at": null,
+    "started_at": "2026-10-29T17:08:38.874679",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-29T17:08:38.874679",
+    "missions_anchor_at": "2026-10-29T17:08:38.874679",
     "next_weekly_at": null
-  }
+  },
+  "discord_id": "1017610124220702791",
+  "discord_tag": "ghostvqv",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-29T17:08:38.874679"
 }
