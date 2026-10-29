@@ -313,11 +313,11 @@
     "bypass_cooldown": true
   },
   "cheese_coins": {
-    "balance": 0,
-    "saldo_atual": 0,
+    "balance": 10,
+    "saldo_atual": 10,
     "purchased_balance": 0,
     "recurring_balance": 0,
-    "updated_at": "2026-10-29T02:35:27.517918",
+    "updated_at": "2026-10-29T15:23:12.244711",
     "history": [
       {
         "at": "2026-10-29T02:11:36.199203",
@@ -346,6 +346,13 @@
         "before": 0,
         "after": 0,
         "reason": "moeda infinita ATIVADA: Desenvolvedor"
+      },
+      {
+        "at": "2026-10-29T15:23:12.244711",
+        "delta": 10,
+        "before": 0,
+        "after": 10,
+        "reason": "recompensa desafio faixa 1: Faixa 1: gaste 200 Cheese Coins"
       }
     ],
     "coin_notifications": [
@@ -384,8 +391,9 @@
         "page_key": "licenca",
         "tag_color": "#F5C542",
         "claimable": true,
-        "claimed": false,
-        "reason": "recompensa desafio faixa 1: Faixa 1: gaste 200 Cheese Coins"
+        "claimed": true,
+        "reason": "recompensa desafio faixa 1: Faixa 1: gaste 200 Cheese Coins",
+        "claimed_at": "2026-10-29T15:23:12.244711"
       }
     ],
     "subscription_weekly": {
