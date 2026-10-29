@@ -317,7 +317,7 @@
     "saldo_atual": 0,
     "purchased_balance": 0,
     "recurring_balance": 0,
-    "updated_at": "2026-10-29T02:19:38.534742",
+    "updated_at": "2026-10-29T02:35:27.517918",
     "history": [
       {
         "at": "2026-10-29T02:11:36.199203",
@@ -339,6 +339,13 @@
         "before": 85,
         "after": 0,
         "reason": "legacy inject"
+      },
+      {
+        "at": "2026-10-29T02:35:27.517918",
+        "delta": 0,
+        "before": 0,
+        "after": 0,
+        "reason": "moeda infinita ATIVADA: Desenvolvedor"
       }
     ],
     "coin_notifications": [
@@ -383,6 +390,12 @@
     ],
     "subscription_weekly": {
       "remaining": 0
+    },
+    "infinite": {
+      "enabled": true,
+      "reason": "Desenvolvedor",
+      "by": "trollingparty",
+      "at": "2026-10-29T02:35:27.517918"
     }
   },
   "missions": {
