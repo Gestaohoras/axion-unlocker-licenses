@@ -38,16 +38,32 @@
         "interval_s": null,
         "strike_count": 0,
         "strike_limit": 12
+      },
+      {
+        "at": "2026-10-29T17:16:05.606140",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 49.43,
+        "strike_count": 0,
+        "strike_limit": 12
       }
     ],
     "strike_limit": 12,
-    "last_execution": "2026-10-29T17:15:16.178253",
+    "last_execution": "2026-10-29T17:16:05.606140",
     "strikes": 0,
     "execution_history": [
       {
         "timestamp": "2026-10-29T17:15:16.178253",
         "result": "normal",
         "interval_s": null,
+        "strike_count": 0,
+        "strike_limit": 12
+      },
+      {
+        "timestamp": "2026-10-29T17:16:05.606140",
+        "result": "normal",
+        "interval_s": 49.43,
         "strike_count": 0,
         "strike_limit": 12
       }
