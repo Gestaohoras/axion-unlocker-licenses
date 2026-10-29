@@ -15,17 +15,18 @@
       "seconds": 3643,
       "completed": true
     },
-    "playtime_seconds": 143962,
-    "playtime_updated_at": "2026-10-29T17:49:22.654240",
+    "playtime_seconds": 144022,
+    "playtime_updated_at": "2026-10-29T17:50:22.453703",
     "rewarded": [
-      "play_20261017172747175818"
+      "play_20261017172747175818",
+      "play_20261017172852455933"
     ],
-    "current_index": 1,
+    "current_index": 2,
     "streak_days": 3,
     "last_streak_date": "2026-10-29"
   },
   "created_at": "2026-10-24T20:00:56.923013",
-  "updated_at": "2026-10-29T17:49:22.654240",
+  "updated_at": "2026-10-29T17:50:22.453703",
   "last_error": null,
   "heartbeat_status": "Em andamento",
   "coin_rewards": {
@@ -47,8 +48,26 @@
         "claimable": true,
         "claimed": false,
         "reason": "recompensa miss\u00e3o: Jogue 20 horas"
+      },
+      {
+        "id": "mission-2026-10-24T20:00:53.424501:30:0-play_20261017172852455933",
+        "type": "mission_reward",
+        "notification": true,
+        "title": "Miss\u00e3o conclu\u00edda",
+        "titulo": "Miss\u00e3o conclu\u00edda",
+        "descricao": "Jogue 40 horas: 6 Cheese Coins dispon\u00edveis para resgatar.",
+        "tag": "Recompensa",
+        "amount": 6,
+        "created_at": "2026-10-29T17:50:22.453703",
+        "announced_at": "2026-10-29T17:50:22.453703",
+        "date": "2026-10-29T17:50:22.453703",
+        "page_key": "licenca",
+        "tag_color": "#F5C542",
+        "claimable": true,
+        "claimed": false,
+        "reason": "recompensa miss\u00e3o: Jogue 40 horas"
       }
     ]
   },
-  "last_heartbeat_at": "2026-10-29T17:49:22.654240"
+  "last_heartbeat_at": "2026-10-29T17:50:22.453703"
 }
