@@ -1,0 +1,18 @@
+{
+  "license": "UNLOCKER-RPO4-NFJB-0F8N",
+  "status": "active",
+  "expires": "pending:30",
+  "hwid": null,
+  "subscription_plan": "basico",
+  "subscription": {
+    "plan": "basico",
+    "name": "B\u00e1sico",
+    "weekly_coins": 200,
+    "price_brl": 59.9,
+    "started_at": null,
+    "schedule_version": 2,
+    "schedule_anchor_at": null,
+    "missions_anchor_at": null,
+    "next_weekly_at": null
+  }
+}
