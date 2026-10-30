@@ -1,18 +1,22 @@
 {
   "license": "UNLOCKER-RPO4-NFJB-0F8N",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-11-29T02:10:16.569123",
+  "hwid": "6d10d4b23655899f2edbdb425ba12ecdde4dd682789c21ea0be480aa34b91d14",
   "subscription_plan": "basico",
   "subscription": {
     "plan": "basico",
     "name": "B\u00e1sico",
     "weekly_coins": 200,
     "price_brl": 59.9,
-    "started_at": null,
+    "started_at": "2026-10-30T02:10:16.793550",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-30T02:10:16.793550",
+    "missions_anchor_at": "2026-10-30T02:10:16.793550",
     "next_weekly_at": null
-  }
+  },
+  "discord_id": "1538278347056877568",
+  "discord_tag": "lebynho_2012",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-30T02:10:16.793550"
 }
