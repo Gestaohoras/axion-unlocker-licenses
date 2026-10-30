@@ -1,18 +1,35 @@
 {
   "license": "UNLOCKER-Q5WA-9SHP-TQEF",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-11-29T04:35:03.605642",
+  "hwid": "30d3941eb06bef32383414b7251d7d768b89a79d2712e014a4b75d7b47d08b90",
   "subscription_plan": "basico",
   "subscription": {
     "plan": "basico",
     "name": "B\u00e1sico",
     "weekly_coins": 200,
     "price_brl": 59.9,
-    "started_at": null,
+    "started_at": "2026-10-30T04:35:03.606956",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-30T04:35:03.606956",
+    "missions_anchor_at": "2026-10-30T04:35:03.606956",
     "next_weekly_at": null
+  },
+  "discord_id": "768236963580477460",
+  "discord_tag": "trollingparty",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-30T04:35:03.606956",
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-30T04:35:03.607048",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "768236963580477460",
+        "by": "trollingparty",
+        "produto": "Queijaria Unlocker",
+        "hwid": "30d3941eb06bef32383414b7251d7d768b89a79d2712e014a4b75d7b47d08b90"
+      }
+    ]
   }
 }
