@@ -1,0 +1,18 @@
+{
+  "license_key": "UNLOCKER-RPO4-NFJB-0F8N",
+  "missions": {
+    "cycle": {
+      "key": "2026-10-30T02:10:16.793550:30:0",
+      "model_version": 2,
+      "index": 0,
+      "duration_days": 30,
+      "anchor_at": "2026-10-30T02:10:16.793550",
+      "started_at": "2026-10-30T02:10:16.793550",
+      "ends_at": "2026-11-29T02:10:16.793550"
+    }
+  },
+  "created_at": "2026-10-30T02:12:37.753644",
+  "updated_at": "2026-10-30T02:12:37.753644",
+  "last_error": null,
+  "heartbeat_status": "Novo ciclo de miss\u00f5es"
+}
