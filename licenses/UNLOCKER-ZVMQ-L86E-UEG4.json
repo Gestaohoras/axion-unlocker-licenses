@@ -433,10 +433,10 @@
   "activated_at": "2026-10-29T16:29:26.476029",
   "cheese_coins": {
     "purchased_balance": 0,
-    "recurring_balance": 136,
-    "balance": 136,
-    "saldo_atual": 136,
-    "updated_at": "2026-10-30T15:11:46.858544",
+    "recurring_balance": 134,
+    "balance": 134,
+    "saldo_atual": 134,
+    "updated_at": "2026-10-30T15:11:59.015936",
     "subscription_weekly": {
       "cycle_key": "basico:2026-10-29T16:29:26.476029:0",
       "schedule": "activation_anchor",
@@ -447,7 +447,7 @@
       "reward_at": "2026-10-29T16:29:26.476029",
       "amount": 200,
       "granted_amount": 200,
-      "remaining": 136,
+      "remaining": 134,
       "granted_at": "2026-10-29T16:30:32.978625",
       "next_at": "2026-11-05T16:29:26.476029"
     },
@@ -684,6 +684,13 @@
         "before": 138,
         "after": 136,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-30T15:11:59.015936",
+        "delta": -2,
+        "before": 136,
+        "after": 134,
+        "reason": "prestige inject"
       }
     ],
     "coin_notifications": [
@@ -716,19 +723,19 @@
     },
     "spending_challenges": {
       "challenge_1791760679": {
-        "spent": 64,
+        "spent": 66,
         "rewarded": false,
         "started_at": "2026-10-29T16:29:26.476029",
         "ends_at": "2026-11-28T16:29:26.476029",
         "tier_index": 0,
-        "updated_at": "2026-10-30T15:11:46.858544",
+        "updated_at": "2026-10-30T15:11:59.015936",
         "completed": false,
         "rewarded_at": null,
         "target_coins": 200,
         "reward_percent": 5
       }
     },
-    "monthly_spent": 64,
-    "spent_updated_at": "2026-10-30T15:11:46.858544"
+    "monthly_spent": 66,
+    "spent_updated_at": "2026-10-30T15:11:59.015936"
   }
 }
