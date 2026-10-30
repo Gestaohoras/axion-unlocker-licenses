@@ -433,10 +433,10 @@
   "activated_at": "2026-10-29T16:29:26.476029",
   "cheese_coins": {
     "purchased_balance": 0,
-    "recurring_balance": 3,
-    "balance": 3,
-    "saldo_atual": 3,
-    "updated_at": "2026-10-30T15:17:26.983383",
+    "recurring_balance": 1,
+    "balance": 1,
+    "saldo_atual": 1,
+    "updated_at": "2026-10-30T15:17:38.839170",
     "subscription_weekly": {
       "cycle_key": "basico:2026-10-29T16:29:26.476029:0",
       "schedule": "activation_anchor",
@@ -447,18 +447,11 @@
       "reward_at": "2026-10-29T16:29:26.476029",
       "amount": 200,
       "granted_amount": 200,
-      "remaining": 3,
+      "remaining": 1,
       "granted_at": "2026-10-29T16:30:32.978625",
       "next_at": "2026-11-05T16:29:26.476029"
     },
     "history": [
-      {
-        "at": "2026-10-30T15:06:22.255049",
-        "delta": -2,
-        "before": 186,
-        "after": 184,
-        "reason": "prestige inject"
-      },
       {
         "at": "2026-10-30T15:06:33.638051",
         "delta": -2,
@@ -801,6 +794,13 @@
         "before": 5,
         "after": 3,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-30T15:17:38.839170",
+        "delta": -2,
+        "before": 3,
+        "after": 1,
+        "reason": "prestige inject"
       }
     ],
     "coin_notifications": [
@@ -833,19 +833,19 @@
     },
     "spending_challenges": {
       "challenge_1791760679": {
-        "spent": 197,
+        "spent": 199,
         "rewarded": false,
         "started_at": "2026-10-29T16:29:26.476029",
         "ends_at": "2026-11-28T16:29:26.476029",
         "tier_index": 0,
-        "updated_at": "2026-10-30T15:17:26.983383",
+        "updated_at": "2026-10-30T15:17:38.839170",
         "completed": false,
         "rewarded_at": null,
         "target_coins": 200,
         "reward_percent": 5
       }
     },
-    "monthly_spent": 197,
-    "spent_updated_at": "2026-10-30T15:17:26.983383"
+    "monthly_spent": 199,
+    "spent_updated_at": "2026-10-30T15:17:38.839170"
   }
 }
