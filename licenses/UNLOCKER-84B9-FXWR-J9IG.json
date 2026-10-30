@@ -318,43 +318,7 @@
     "purchased_balance": 0,
     "recurring_balance": 0,
     "updated_at": "2026-10-29T15:23:12.244711",
-    "history": [
-      {
-        "at": "2026-10-29T02:11:36.199203",
-        "delta": 249,
-        "before": 6,
-        "after": 255,
-        "reason": "Corre\u00e7\u00e3o"
-      },
-      {
-        "at": "2026-10-29T02:13:39.108795",
-        "delta": -170,
-        "before": 255,
-        "after": 85,
-        "reason": "legacy inject"
-      },
-      {
-        "at": "2026-10-29T02:19:38.534742",
-        "delta": -85,
-        "before": 85,
-        "after": 0,
-        "reason": "legacy inject"
-      },
-      {
-        "at": "2026-10-29T02:35:27.517918",
-        "delta": 0,
-        "before": 0,
-        "after": 0,
-        "reason": "moeda infinita ATIVADA: Desenvolvedor"
-      },
-      {
-        "at": "2026-10-29T15:23:12.244711",
-        "delta": 10,
-        "before": 0,
-        "after": 10,
-        "reason": "recompensa desafio faixa 1: Faixa 1: gaste 200 Cheese Coins"
-      }
-    ],
+    "history": [],
     "coin_notifications": [
       {
         "id": "coin_admin_UNLOCKER-84B9-FXWR-J9IG_20261025174834155353",
