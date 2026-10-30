@@ -33,6 +33,27 @@
         "by": "trollingparty",
         "produto": "Queijaria Unlocker",
         "hwid": "30d3941eb06bef32383414b7251d7d768b89a79d2712e014a4b75d7b47d08b90"
+      },
+      {
+        "at": "2026-10-30T05:46:47.253829",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": null,
+        "strike_count": 0,
+        "strike_limit": 9
+      }
+    ],
+    "strike_limit": 9,
+    "last_execution": "2026-10-30T05:46:47.253829",
+    "strikes": 0,
+    "execution_history": [
+      {
+        "timestamp": "2026-10-30T05:46:47.253829",
+        "result": "normal",
+        "interval_s": null,
+        "strike_count": 0,
+        "strike_limit": 9
       }
     ]
   }
