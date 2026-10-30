@@ -31,5 +31,53 @@
         "hwid": "6d10d4b23655899f2edbdb425ba12ecdde4dd682789c21ea0be480aa34b91d14"
       }
     ]
+  },
+  "cheese_coins": {
+    "purchased_balance": 0,
+    "recurring_balance": 200,
+    "balance": 200,
+    "saldo_atual": 200,
+    "updated_at": "2026-10-30T02:11:30.145433",
+    "subscription_weekly": {
+      "cycle_key": "basico:2026-10-30T02:10:16.793550:0",
+      "schedule": "activation_anchor",
+      "plan": "basico",
+      "anchor_at": "2026-10-30T02:10:16.793550",
+      "cycle_index": 0,
+      "interval_days": 7,
+      "reward_at": "2026-10-30T02:10:16.793550",
+      "amount": 200,
+      "granted_amount": 200,
+      "remaining": 200,
+      "granted_at": "2026-10-30T02:11:30.145433",
+      "next_at": "2026-11-06T02:10:16.793550"
+    },
+    "history": [
+      {
+        "at": "2026-10-30T02:11:30.145433",
+        "delta": 200,
+        "before": 0,
+        "after": 200,
+        "reason": "cota semanal do plano basico",
+        "type": "subscription_weekly",
+        "cycle_key": "basico:2026-10-30T02:10:16.793550:0"
+      }
+    ],
+    "coin_notifications": [
+      {
+        "id": "subscription-weekly-basico:2026-10-30T02:10:16.793550:0",
+        "type": "subscription_weekly",
+        "notification": true,
+        "title": "Coins semanais do plano",
+        "titulo": "Coins semanais do plano",
+        "descricao": "200 Cheese Coins do plano Basico foram adicionados.",
+        "tag": "Cheese Coins",
+        "amount": 200,
+        "created_at": "2026-10-30T02:11:30.147342",
+        "announced_at": "2026-10-30T02:11:30.147342",
+        "date": "2026-10-30T02:11:30.147342",
+        "page_key": "licenca"
+      }
+    ]
   }
 }
