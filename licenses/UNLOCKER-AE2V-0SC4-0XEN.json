@@ -1,0 +1,22 @@
+{
+  "license": "UNLOCKER-AE2V-0SC4-0XEN",
+  "status": "active",
+  "expires": "pending:1",
+  "hwid": null,
+  "subscription_plan": "essencial",
+  "subscription": {
+    "plan": "essencial",
+    "name": "Essencial",
+    "weekly_coins": 0,
+    "price_brl": 49.9,
+    "started_at": null,
+    "schedule_version": 2,
+    "schedule_anchor_at": null,
+    "missions_anchor_at": null,
+    "next_weekly_at": null
+  },
+  "modules": [
+    "unlocker"
+  ],
+  "test_license": true
+}
