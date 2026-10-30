@@ -209,10 +209,10 @@
   },
   "cheese_coins": {
     "purchased_balance": 0,
-    "recurring_balance": 200,
-    "balance": 200,
-    "saldo_atual": 200,
-    "updated_at": "2026-10-30T04:35:31.707906",
+    "recurring_balance": 115,
+    "balance": 115,
+    "saldo_atual": 115,
+    "updated_at": "2026-10-30T05:10:28.172677",
     "subscription_weekly": {
       "cycle_key": "basico:2026-10-30T04:35:03.606956:0",
       "schedule": "activation_anchor",
@@ -223,7 +223,7 @@
       "reward_at": "2026-10-30T04:35:03.606956",
       "amount": 200,
       "granted_amount": 200,
-      "remaining": 200,
+      "remaining": 115,
       "granted_at": "2026-10-30T04:35:31.707906",
       "next_at": "2026-11-06T04:35:03.606956"
     },
@@ -236,6 +236,13 @@
         "reason": "cota semanal do plano basico",
         "type": "subscription_weekly",
         "cycle_key": "basico:2026-10-30T04:35:03.606956:0"
+      },
+      {
+        "at": "2026-10-30T05:10:28.172677",
+        "delta": -85,
+        "before": 200,
+        "after": 115,
+        "reason": "legacy inject"
       }
     ],
     "coin_notifications": [
@@ -254,5 +261,33 @@
         "page_key": "licenca"
       }
     ]
+  },
+  "missions": {
+    "cycle_history": [],
+    "cycle": {
+      "key": "2026-10-30T04:35:03.606956:30:0",
+      "index": 0,
+      "duration_days": 30,
+      "model_version": 2,
+      "anchor_at": "2026-10-30T04:35:03.606956",
+      "started_at": "2026-10-30T04:35:03.606956",
+      "ends_at": "2026-11-29T04:35:03.606956"
+    },
+    "spending_challenges": {
+      "challenge_1791760679": {
+        "spent": 85,
+        "rewarded": false,
+        "started_at": "2026-10-30T04:35:03.606956",
+        "ends_at": "2026-11-29T04:35:03.606956",
+        "tier_index": 0,
+        "updated_at": "2026-10-30T05:10:28.172677",
+        "completed": false,
+        "rewarded_at": null,
+        "target_coins": 200,
+        "reward_percent": 5
+      }
+    },
+    "monthly_spent": 85,
+    "spent_updated_at": "2026-10-30T05:10:28.172677"
   }
 }
