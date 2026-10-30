@@ -2052,7 +2052,7 @@
     "saldo_atual": 80,
     "purchased_balance": 80,
     "recurring_balance": 0,
-    "updated_at": "2026-10-25T20:35:09.469869",
+    "updated_at": "2026-10-30T18:43:56.203346",
     "history": [
       {
         "at": "2026-10-23T00:48:28.223013",
@@ -2144,6 +2144,13 @@
         "before": 82,
         "after": 80,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-30T18:43:56.203346",
+        "delta": 0,
+        "before": 80,
+        "after": 80,
+        "reason": "moeda infinita ATIVADA: Administrador"
       }
     ],
     "coin_notifications": [
@@ -2160,6 +2167,12 @@
     ],
     "subscription_weekly": {
       "remaining": 0
+    },
+    "infinite": {
+      "enabled": true,
+      "reason": "Administrador",
+      "by": "trollingparty",
+      "at": "2026-10-30T18:43:56.203346"
     }
   },
   "missions": {
