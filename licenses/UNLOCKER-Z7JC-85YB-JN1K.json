@@ -1122,15 +1122,8 @@
     "saldo_atual": 100,
     "purchased_balance": 100,
     "recurring_balance": 0,
-    "updated_at": "2026-10-25T17:26:32.531050",
+    "updated_at": "2026-10-30T02:10:54.594247",
     "history": [
-      {
-        "at": "2026-10-23T00:48:28.223013",
-        "delta": 0,
-        "before": 0,
-        "after": 0,
-        "reason": "reset geral de progresso por trollingparty"
-      },
       {
         "at": "2026-10-24T18:11:25.764669",
         "delta": 0,
