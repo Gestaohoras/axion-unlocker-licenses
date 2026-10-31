@@ -83,10 +83,19 @@
         "interval_s": 2.9,
         "strike_count": 1,
         "strike_limit": 10
+      },
+      {
+        "at": "2026-10-31T16:02:41.794732",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 328.46,
+        "strike_count": 1,
+        "strike_limit": 10
       }
     ],
     "strike_limit": 10,
-    "last_execution": "2026-10-31T15:57:13.335034",
+    "last_execution": "2026-10-31T16:02:41.794732",
     "strikes": 1,
     "execution_history": [
       {
@@ -128,6 +137,13 @@
         "timestamp": "2026-10-31T15:57:13.335034",
         "result": "strike",
         "interval_s": 2.9,
+        "strike_count": 1,
+        "strike_limit": 10
+      },
+      {
+        "timestamp": "2026-10-31T16:02:41.794732",
+        "result": "normal",
+        "interval_s": 328.46,
         "strike_count": 1,
         "strike_limit": 10
       }
