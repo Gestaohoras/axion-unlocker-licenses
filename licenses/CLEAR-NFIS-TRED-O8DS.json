@@ -33,6 +33,27 @@
         "by": "synxhuei",
         "produto": "Queijaria Unlocker",
         "hwid": "8650c614107f3dcc4487457eca192b4e834d39598a74cb22953b74c41d25d36b"
+      },
+      {
+        "at": "2026-10-31T04:20:57.102577",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": null,
+        "strike_count": 0,
+        "strike_limit": 11
+      }
+    ],
+    "strike_limit": 11,
+    "last_execution": "2026-10-31T04:20:57.102577",
+    "strikes": 0,
+    "execution_history": [
+      {
+        "timestamp": "2026-10-31T04:20:57.102577",
+        "result": "normal",
+        "interval_s": null,
+        "strike_count": 0,
+        "strike_limit": 11
       }
     ]
   }
