@@ -1,18 +1,35 @@
 {
   "license": "UNLOCKER-DJ3C-QW1U-QQF5",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null,
+  "expires": "2026-11-30T15:40:22.190018",
+  "hwid": "f9fce667a922fbe6f5dd0cf64e8cabd95788ccf01998e8d83b566059f3d7dbf2",
   "subscription_plan": "basico",
   "subscription": {
     "plan": "basico",
     "name": "B\u00e1sico",
     "weekly_coins": 200,
     "price_brl": 59.9,
-    "started_at": null,
+    "started_at": "2026-10-31T15:40:22.190696",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-31T15:40:22.190696",
+    "missions_anchor_at": "2026-10-31T15:40:22.190696",
     "next_weekly_at": null
+  },
+  "discord_id": "415641749390622740",
+  "discord_tag": "wendell_bravo_da_ks",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-31T15:40:22.190696",
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-31T15:40:22.190726",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "415641749390622740",
+        "by": "wendell_bravo_da_ks",
+        "produto": "Queijaria Unlocker",
+        "hwid": "f9fce667a922fbe6f5dd0cf64e8cabd95788ccf01998e8d83b566059f3d7dbf2"
+      }
+    ]
   }
 }
