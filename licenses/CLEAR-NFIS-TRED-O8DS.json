@@ -1,0 +1,22 @@
+{
+  "license": "CLEAR-NFIS-TRED-O8DS",
+  "status": "active",
+  "expires": "2026-10-31T04:52:38.257723",
+  "hwid": null,
+  "subscription_plan": "essencial",
+  "subscription": {
+    "plan": "essencial",
+    "name": "Essencial",
+    "weekly_coins": 0,
+    "price_brl": 49.9,
+    "started_at": null,
+    "schedule_version": 2,
+    "schedule_anchor_at": null,
+    "missions_anchor_at": null,
+    "next_weekly_at": null
+  },
+  "modules": [
+    "clear"
+  ],
+  "test_license": true
+}
