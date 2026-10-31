@@ -12,18 +12,18 @@
     },
     "streak_daily": {
       "date": "2026-10-30",
-      "seconds": 1635,
+      "seconds": 1695,
       "completed": false
     },
-    "playtime_seconds": 4425,
-    "playtime_updated_at": "2026-10-31T01:19:59.577551",
+    "playtime_seconds": 4485,
+    "playtime_updated_at": "2026-10-31T01:20:59.200284",
     "rewarded": [],
     "current_index": 0
   },
   "created_at": "2026-10-30T02:12:37.753644",
-  "updated_at": "2026-10-31T01:19:59.577551",
+  "updated_at": "2026-10-31T01:20:59.200284",
   "last_error": null,
   "heartbeat_status": "Em andamento",
   "coin_rewards": {},
-  "last_heartbeat_at": "2026-10-31T01:19:59.577551"
+  "last_heartbeat_at": "2026-10-31T01:20:59.200284"
 }
