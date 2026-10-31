@@ -424,10 +424,10 @@
   },
   "cheese_coins": {
     "purchased_balance": 0,
-    "recurring_balance": 2,
-    "balance": 2,
-    "saldo_atual": 2,
-    "updated_at": "2026-10-31T17:36:27.109905",
+    "recurring_balance": 0,
+    "balance": 0,
+    "saldo_atual": 0,
+    "updated_at": "2026-10-31T17:36:40.367176",
     "subscription_weekly": {
       "cycle_key": "basico:2026-10-30T02:10:16.793550:0",
       "schedule": "activation_anchor",
@@ -438,18 +438,11 @@
       "reward_at": "2026-10-30T02:10:16.793550",
       "amount": 200,
       "granted_amount": 200,
-      "remaining": 2,
+      "remaining": 0,
       "granted_at": "2026-10-30T02:11:30.145433",
       "next_at": "2026-11-06T02:10:16.793550"
     },
     "history": [
-      {
-        "at": "2026-10-31T02:33:47.045808",
-        "delta": -2,
-        "before": 102,
-        "after": 100,
-        "reason": "prestige inject"
-      },
       {
         "at": "2026-10-31T02:34:02.442487",
         "delta": -2,
@@ -792,6 +785,13 @@
         "before": 4,
         "after": 2,
         "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-31T17:36:40.367176",
+        "delta": -2,
+        "before": 2,
+        "after": 0,
+        "reason": "prestige inject"
       }
     ],
     "coin_notifications": [
@@ -808,6 +808,24 @@
         "announced_at": "2026-10-30T02:11:30.147342",
         "date": "2026-10-30T02:11:30.147342",
         "page_key": "licenca"
+      },
+      {
+        "id": "challenge-2026-10-30T02:10:16.793550:30:0-challenge_1791760679-tier1",
+        "type": "challenge_reward",
+        "notification": true,
+        "title": "Faixa de desafio conclu\u00edda",
+        "titulo": "Faixa de desafio conclu\u00edda",
+        "descricao": "Faixa 1: gaste 200 Cheese Coins: 10 Cheese Coins dispon\u00edveis para resgatar.",
+        "tag": "Recompensa",
+        "amount": 10,
+        "created_at": "2026-10-31T17:36:40.367176",
+        "announced_at": "2026-10-31T17:36:40.367176",
+        "date": "2026-10-31T17:36:40.367176",
+        "page_key": "licenca",
+        "tag_color": "#F5C542",
+        "claimable": true,
+        "claimed": false,
+        "reason": "recompensa desafio faixa 1: Faixa 1: gaste 200 Cheese Coins"
       }
     ]
   },
@@ -824,19 +842,19 @@
     },
     "spending_challenges": {
       "challenge_1791760679": {
-        "spent": 198,
+        "spent": 0,
         "rewarded": false,
         "started_at": "2026-10-30T02:10:16.793550",
         "ends_at": "2026-11-29T02:10:16.793550",
-        "tier_index": 0,
-        "updated_at": "2026-10-31T17:36:27.109905",
+        "tier_index": 1,
+        "updated_at": "2026-10-31T17:36:40.367176",
         "completed": false,
         "rewarded_at": null,
-        "target_coins": 200,
+        "target_coins": 300,
         "reward_percent": 5
       }
     },
-    "monthly_spent": 198,
-    "spent_updated_at": "2026-10-31T17:36:27.109905"
+    "monthly_spent": 200,
+    "spent_updated_at": "2026-10-31T17:36:40.367176"
   }
 }
