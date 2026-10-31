@@ -1,8 +1,8 @@
 {
   "license": "UNLOCKER-RPO4-NFJB-0F8N",
   "status": "active",
-  "expires": "2026-11-29T02:10:16.569123",
-  "hwid": null,
+  "expires": "2026-11-29T02:56:22.246578",
+  "hwid": "22b16bcec195e5e00169b1605fdccf332c59a84bcbd749eef8ad353522fe7c5d",
   "subscription_plan": "basico",
   "subscription": {
     "plan": "basico",
@@ -369,6 +369,15 @@
         "source": "unlocker_client",
         "attempted_hwid": "22b16bcec195e5e00169b1605fdccf332c59a84bcbd749eef8ad353522fe7c5d",
         "result": "success"
+      },
+      {
+        "at": "2026-10-31T22:36:23.603075",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1538278347056877568",
+        "by": "lebynho_2012",
+        "produto": "Queijaria Unlocker",
+        "hwid": "22b16bcec195e5e00169b1605fdccf332c59a84bcbd749eef8ad353522fe7c5d"
       }
     ],
     "strike_limit": 10,
