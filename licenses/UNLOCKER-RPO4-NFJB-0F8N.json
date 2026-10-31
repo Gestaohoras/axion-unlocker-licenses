@@ -378,10 +378,19 @@
         "by": "lebynho_2012",
         "produto": "Queijaria Unlocker",
         "hwid": "22b16bcec195e5e00169b1605fdccf332c59a84bcbd749eef8ad353522fe7c5d"
+      },
+      {
+        "at": "2026-10-31T22:37:26.244343",
+        "action": "check_license",
+        "source": "unlocker_client",
+        "result": "normal",
+        "interval_s": 10764.77,
+        "strike_count": 1,
+        "strike_limit": 10
       }
     ],
     "strike_limit": 10,
-    "last_execution": "2026-10-31T19:38:01.471829",
+    "last_execution": "2026-10-31T22:37:26.244343",
     "strikes": 1,
     "execution_history": [
       {
@@ -633,6 +642,13 @@
         "timestamp": "2026-10-31T19:38:01.471829",
         "result": "strike",
         "interval_s": 3.07,
+        "strike_count": 1,
+        "strike_limit": 10
+      },
+      {
+        "timestamp": "2026-10-31T22:37:26.244343",
+        "result": "normal",
+        "interval_s": 10764.77,
         "strike_count": 1,
         "strike_limit": 10
       }
