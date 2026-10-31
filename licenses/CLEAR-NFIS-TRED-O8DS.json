@@ -2,21 +2,38 @@
   "license": "CLEAR-NFIS-TRED-O8DS",
   "status": "active",
   "expires": "2026-10-31T04:52:38.257723",
-  "hwid": null,
+  "hwid": "8650c614107f3dcc4487457eca192b4e834d39598a74cb22953b74c41d25d36b",
   "subscription_plan": "essencial",
   "subscription": {
     "plan": "essencial",
     "name": "Essencial",
     "weekly_coins": 0,
     "price_brl": 49.9,
-    "started_at": null,
+    "started_at": "2026-10-31T04:14:16.286369",
     "schedule_version": 2,
-    "schedule_anchor_at": null,
-    "missions_anchor_at": null,
+    "schedule_anchor_at": "2026-10-31T04:14:16.286369",
+    "missions_anchor_at": "2026-10-31T04:14:16.286369",
     "next_weekly_at": null
   },
   "modules": [
     "clear"
   ],
-  "test_license": true
+  "test_license": true,
+  "discord_id": "1177242862983852085",
+  "discord_tag": "synxhuei",
+  "last_hwid_reset": null,
+  "activated_at": "2026-10-31T04:14:16.286369",
+  "security": {
+    "license_actions": [
+      {
+        "at": "2026-10-31T04:14:16.286423",
+        "action": "ativacao_unlocker_sucesso",
+        "source": "discord_bot",
+        "by_id": "1177242862983852085",
+        "by": "synxhuei",
+        "produto": "Queijaria Unlocker",
+        "hwid": "8650c614107f3dcc4487457eca192b4e834d39598a74cb22953b74c41d25d36b"
+      }
+    ]
+  }
 }
