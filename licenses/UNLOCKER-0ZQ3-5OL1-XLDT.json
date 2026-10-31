@@ -550,27 +550,27 @@
     },
     "spending_challenges": {
       "challenge_1791760679": {
-        "spent": 34,
+        "spent": 36,
         "rewarded": false,
         "started_at": "2026-10-24T20:44:28.632944",
         "ends_at": "2026-11-23T20:44:28.632944",
         "tier_index": 0,
-        "updated_at": "2026-10-31T03:05:58.012714",
+        "updated_at": "2026-10-31T03:06:20.889569",
         "completed": false,
         "rewarded_at": null,
         "target_coins": 200,
         "reward_percent": 5
       }
     },
-    "monthly_spent": 34,
-    "spent_updated_at": "2026-10-31T03:05:58.012714"
+    "monthly_spent": 36,
+    "spent_updated_at": "2026-10-31T03:06:20.889569"
   },
   "cheese_coins": {
-    "balance": 66,
-    "saldo_atual": 66,
-    "purchased_balance": 66,
+    "balance": 64,
+    "saldo_atual": 64,
+    "purchased_balance": 64,
     "recurring_balance": 0,
-    "updated_at": "2026-10-31T03:05:58.012714",
+    "updated_at": "2026-10-31T03:06:20.889569",
     "history": [
       {
         "at": "2026-10-24T18:11:25.764669",
@@ -703,6 +703,13 @@
         "delta": -2,
         "before": 68,
         "after": 66,
+        "reason": "prestige inject"
+      },
+      {
+        "at": "2026-10-31T03:06:20.889569",
+        "delta": -2,
+        "before": 66,
+        "after": 64,
         "reason": "prestige inject"
       }
     ],
