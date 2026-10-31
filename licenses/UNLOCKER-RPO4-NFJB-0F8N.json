@@ -2,7 +2,7 @@
   "license": "UNLOCKER-RPO4-NFJB-0F8N",
   "status": "active",
   "expires": "2026-11-29T02:10:16.569123",
-  "hwid": "6d10d4b23655899f2edbdb425ba12ecdde4dd682789c21ea0be480aa34b91d14",
+  "hwid": null,
   "subscription_plan": "basico",
   "subscription": {
     "plan": "basico",
@@ -17,7 +17,7 @@
   },
   "discord_id": "1538278347056877568",
   "discord_tag": "lebynho_2012",
-  "last_hwid_reset": null,
+  "last_hwid_reset": "2026-10-31T22:36:10.735073",
   "activated_at": "2026-10-30T02:10:16.793550",
   "security": {
     "license_actions": [
@@ -362,6 +362,13 @@
         "by": "lebynho_2012",
         "status": "HWID_MISMATCH",
         "hwid": "22b16bcec195e5e00169b1605fdccf332c59a84bcbd749eef8ad353522fe7c5d"
+      },
+      {
+        "at": "2026-10-31T22:36:10.735073",
+        "action": "self_service_hwid_reset",
+        "source": "unlocker_client",
+        "attempted_hwid": "22b16bcec195e5e00169b1605fdccf332c59a84bcbd749eef8ad353522fe7c5d",
+        "result": "success"
       }
     ],
     "strike_limit": 10,
@@ -665,7 +672,32 @@
         "strike_count": 1,
         "strike_limit": 10
       }
-    ]
+    ],
+    "hwid_audit": {
+      "events": [
+        {
+          "at": "2026-10-31T22:36:10.734078",
+          "action": "self_service_reset_attempt",
+          "actor": "unlocker_client",
+          "attempted_hwid": "22b16bcec195e5e00169b1605fdccf332c59a84bcbd749eef8ad353522fe7c5d",
+          "result": "pending",
+          "reason": null
+        },
+        {
+          "at": "2026-10-31T22:36:10.735073",
+          "action": "self_service_reset_attempt",
+          "actor": "unlocker_client",
+          "attempted_hwid": "22b16bcec195e5e00169b1605fdccf332c59a84bcbd749eef8ad353522fe7c5d",
+          "result": "success",
+          "reason": null
+        }
+      ],
+      "reset_attempts": 2,
+      "last_attempt_at": "2026-10-31T22:36:10.735073",
+      "last_attempted_hwid": "22b16bcec195e5e00169b1605fdccf332c59a84bcbd749eef8ad353522fe7c5d",
+      "last_result": "success",
+      "reset_success": 1
+    }
   },
   "cheese_coins": {
     "purchased_balance": 0,
