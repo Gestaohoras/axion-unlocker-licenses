@@ -39,13 +39,14 @@
         "page_key": "licenca",
         "tag_color": "#F5C542",
         "claimable": true,
-        "claimed": false,
-        "reason": "recompensa miss\u00e3o: Jogue 20 horas"
+        "claimed": true,
+        "reason": "recompensa miss\u00e3o: Jogue 20 horas",
+        "claimed_at": "2026-10-31T11:52:24.747599"
       }
     ]
   },
   "created_at": "2026-10-16T03:52:42.026574",
-  "updated_at": "2026-10-31T11:52:05.260730",
+  "updated_at": "2026-10-31T11:52:24.747599",
   "heartbeat_status": "Em andamento",
   "last_error": null,
   "reset_history": [
